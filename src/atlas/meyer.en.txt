@@ -1,0 +1,336 @@
+2|Longsword (Garber & Chidester draft translation)
+3|Drawing Atlas
+4|The scenes in Meyer's engravings are sorted by guard, cut and technique. Click an image to enlarge it. Guards, cuts, handwork and wrestling scenes come with explanations drawn from the book. Page numbers refer to the PDF.
+5|images
+6|cropped scenes
+7|distinct engravings
+8|All
+9|Guards
+10|Cuts
+11|Binding and handwork
+12|Wrestling and grips
+13|Other scenes
+14|Full plates
+15|Core teachings of the book
+16|Three phases.
+17|Meyer divides every fencing sequence into three: at the onset you attack with guards and cuts (Zufechten), in the middle you press the opponent with handwork (Handarbeit), and at the end you withdraw unharmed (Abzug). He compares them to letters of the alphabet: if you know every letter, you can write whatever the situation demands.
+18|Before, After, Simultaneously, Indes.
+19|Before (Vor): you attack first and force the opponent merely to respond. After (Nach): the opponent is pressing you. Simultaneously (Gleich): you both cut at the same moment. Indes: seeing the right opening while striking at the left, sensing where the opponent may come from while you move. According to Meyer, Indes is how you get from After back to Before.
+20|Parrying (Versetzen) is of two kinds.
+21|Merely holding the weapon in the way out of fear, without seeking an advantage, is the first kind; as a habit it is harmful. The better kind is to parry and strike at once. In the old masters' words: “The true fencer does not parry; if the opponent cuts, he cuts too; if he steps, he steps too; if he thrusts, he thrusts too.” Reversed cuts such as the Schielhau, Glitzhau, Kronhau and Zwerch were invented for exactly this.
+22|The four-openings drill.
+23|Start from the long point. Cut quickly at the upper left, lower right, lower left and upper right openings in turn, each with its step, and withdraw with a Zwerch. Then change the order. Work first with the long edge, then the half edge, then the flat. The diagram of cutting lines shows this sequence.
+24|Steps.
+25|Every strike has its own step, taken together with the strike. The old masters' twelfth rule: whoever steps after the strike will find little joy in his art. Steps are of three kinds: forward and back, sideways (the triangle step) and broken (concealed) steps.
+26|Waiting in the guards.
+27|Guards are not for waiting; they name the furthest point you reach when you raise a strike. For example, the highest point you reach when raising an Oberhau is Vom Tag. You pause there for the blink of an eye and, if a better opportunity appears, turn the strike into another cut, such as a Zwerch.
+29|Guards (Huten)
+30|11 images
+31|Meyer counts four main guards (Ochs, Pflug, Tag, Alber) and says the others arise from them: Zornhut, Langort, Wechsel, Nebenhut, Eisenport, Hangetort, Schlüssel and Einhorn. Because the opponent is divided into four quarters, there are four main guards and four openings.
+33|Langort — the large figure on the right stands in the long point
+34|In the drawing: the large figure on the right stands in the long point
+35|How to stand.
+36|Left foot forward, arms extended, hold the weapon long in front of your face with the point aimed at the opponent's face.
+37|Brechfenster.
+38|According to Meyer, the old masters called Langort the Brechfenster (breaking window), because every other play can be broken from it. Langort is “the end of all bindings”.
+39|Plays from Langort (p.101–103).
+40|Bind with an Oberhau; the moment he raises his sword, cut from below between his arms to his chin. In the bind, break from below with the Rose and throw the short edge to the other side. In the bind, let go of the pommel with your left hand and seize his blade, pass your right hand with the hilt underneath and take his sword by striking up to the right. If he binds with the long edge, go quickly underneath and flick the weak horizontally to his ear.
+41|Same figure, another moment.
+42|At the end of the Zornhut sequence (p.84), the horizontal strike from the middle line with the reversed flat from the left to the right ear is also shown by “the large figure on the right of plate A”.
+44|Ochs — the large figure on the left
+45|In the drawing: the large figure on the left
+46|Ochs belongs to the upper quarter and comes in two forms, right and left. Right Ochs: left foot forward, hilt high on the right beside your head, point to the opponent's face. Left Ochs: right foot forward, hilt to the left of your head.
+47|Ochs in the middle (p.87–90).
+48|If you hold your point at the opponent while approaching with a Sturzhau, this is called Ochs; it is an especially good guard for attacking. Attack along any of the four main lines, then cut back along the same line from the opposite direction.
+49|Example sequence.
+50|As soon as you can reach him, a strong Zornhau to the left ear with a big step of the right foot. When it lands, pull back and cut to his right arm with the long edge; take a wide step to his right with your left foot and pull your head behind your blade. If he extends his sword, let your blade hang behind you, swing the hilt around your head and take his blade strongly away horizontally. Then a Prellhau with the outer flat to his right ear (plate K).
+51|If you are pressed.
+52|If you cannot take the initiative, let your point shoot into Langort at his face and turn the long edge against the incoming cut; once you catch it, wind on his sword to the nearest opening.
+54|Pflug — the large figure on the right
+55|In the drawing: the large figure on the right
+56|Pflug belongs to the lower quarter; there are two, right and left. Both are really an upward thrust from below. Right Pflug: right foot forward, hilt beside the forward knee, point to the opponent's face, as if you were about to thrust from below. Step forward with the left foot and do the same, and it becomes left Pflug.
+57|Hängen from Pflug.
+58|If the opponent strikes while you stand in Pflug, raise the hilt and let the blade hang a little toward the ground, catching the strike on your flat. Then wind and work to the nearest opening.
+59|The guard cuts pass through.
+60|According to Meyer, cuts pass through guards. For example, you start an Unterhau from Ochs and bring it up through Pflug.
+62|Vom Tag (Hochhut) — the large figure on the left
+64|Left foot forward, hold the sword high above your head with the point straight up. Everything done from above is called “fencing from the Tag”.
+65|Why it exists.
+66|Tag is the highest point you reach while raising an Oberhau. There you pause for a moment and decide whether to complete the strike or, if a better chance appears, turn it into a Zwerch. It is where the Scheitelhau begins: it starts in Tag, passes through Langort in the middle and ends in Alber.
+67|Four plays from Tag (p.75–80), in brief.
+68|(1) If he strikes at your left head, spring out of his strike and hit his strong hard with the outer flat so that your blade swings to his head; then to his right arm from below. (2) If he strikes from below to your left, cut with the long edge on top of his strong, and when it clashes, to his left ear with the short edge. (3) If he strikes to your right, step out with the left foot, fall on his strong with the long edge, push the pommel under your arm and strike his head with crossed hands. (4) If he does not strike at all, take the initiative: feint a thrust with crossed hands and work to both sides with Zwerch cuts.
+69|How it is broken.
+70|If the opponent likes to rise into Tag, go into Schlüssel. Lift your crossed hands above your head, strike with the short edge from below up through his parting line, then throw two Unterhau and a Zwerch.
+72|Alber — the large figure on the right, point on the ground
+73|In the drawing: the large figure on the right, point on the ground
+74|Left foot forward, the point of the sword on the ground in front of your forward foot, short edge up, long edge down.
+75|The name.
+76|According to Meyer, the name comes from the word for “simple, foolish”. From this guard, once the opponent's strike has been set aside, no full strike can be made without first recovering with a new one. Letting yourself be hit without a ready counter is the fool's measure.
+77|Handwork from Alber.
+78|Abschneiden: with arms extended or having fallen into Alber, cut away long strikes from both sides with the long edge. Sperren: fall on the blade of someone standing in Alber or Wechsel with your long edge and lock it with crossed hands.
+80|Schlüssel (Key) — the large figure on the left, crossed hands in front of the chest
+81|In the drawing: the large figure on the left, crossed hands in front of the chest
+82|Left foot forward, hold the sword with the hilt and crossed hands in front of your chest. The short edge lies on your left arm, point to the opponent's face.
+83|Just as a small key opens a large lock with ease, every other play and guard can be broken from this weak-looking guard.
+84|Plays (p.94–95).
+85|If the opponent waits in a high or low guard, thrust straight from Schlüssel into Langort at his face. Whichever way he parries, swing your sword around your head along the path he shows you and strike from that same side. If he presses you with strikes, again shoot the long point at his face, turn the long edge against the incoming cut, and once you catch it on the strong, wind inside and outside to his head.
+86|What it breaks.
+87|You break Vom Tag and Eisenport (Kreuzhut) from Schlüssel: thrust at his face to force him upward, and work from below as he rises.
+89|Wechsel — the large figure on the right, point to the side toward the ground
+90|In the drawing: the large figure on the right, point to the side toward the ground
+91|Right foot forward, the point or weak of the weapon extended toward the ground at your side, short edge turned to the opponent.
+92|Meyer's note.
+93|Every play done from the other guards can be done even more conveniently from this one; still, he adds a few quick and cunning plays.
+94|Play (p.104).
+95|If the opponent is in Langort or the straight parry, strike up hard once or twice from right Wechsel with the half edge. On the third, go under his sword, step with the right foot and strike high to his left ear with the flat or short edge (plate F, left small pair). When he lifts his arms straight up, let go with your left hand, turn the blade with one hand, set the point on his chest and take the pommel again (plate F, right small pair). Also used against those who like to run in.
+96|Example full sequence (chapter 9).
+97|Go into right Wechsel. The moment he raises his sword to strike, take the initiative, go through above and cut a Zwerch from the right; then throw a second Zwerch to the other side.
+99|Zornhut — the large figure on the left, sword on the shoulder
+100|In the drawing: the large figure on the left, sword on the shoulder
+101|Left foot forward, sword on the right shoulder, the blade hanging behind you ready to strike. It takes its name from the wrathful body language.
+102|Its relation to Ochs.
+103|Every sequence done from Ochs can also be done from Zornhut. The difference is showing a different body language to deceive the opponent.
+104|Plays (p.82–86).
+105|The moment you can reach him, a quick Zornhau to his left ear, then an Unterhau from the opposite direction to the lower right opening. Before he recovers, fall on his arms, block his movement and make him stagger with an unexpected push. Meyer's rule: “He who cannot cut cannot fence to any purpose.”
+106|Verschieben and Winden.
+107|Standing in right Zorn, if he strikes from his right to your left, step forward with the right foot and push your sword over your head under his blade. Catch the strike on your flat, thumb underneath. When it clashes, step to his right with your left foot and wind the short edge inside to his head under his sword (plate L, middle small pair).
+108|Rule.
+109|While in Zorn, if he strikes from below, cut from above with the long edge and the moment it touches, throw your point over his sword to his face.
+111|Einhorn (Unicorn) — the large figure on the right, crossed hands raised
+112|In the drawing: the large figure on the right, crossed hands raised
+113|Left foot forward, spread your elbows to both sides as if going into Schlüssel. Raise your crossed hands up to the right, point aimed outward and up.
+114|Entering.
+115|Strike up once or twice with the short edge from the right in front of his face; on the third, stay in Langort. Turn the long edge up to the right; the pommel passes under the right arm and the hands cross. Raise the crossed hands.
+116|Provoking.
+117|With your left foot staying forward, throw two Unterhau and rise into Einhorn again. Lift your left foot slightly and set it down at once. With this body language you provoke him into striking at your left opening.
+118|Play (p.91–93).
+119|When he strikes, let your blade drop in front of you, pull the sword around your head and cut horizontally against his strike with the long edge; catch it on the strong. Spring to the left, push the pommel under your arm and flick to his head behind his blade with the inner flat or short edge (plate C, left small pair). Then return to Langort (C, right small). Or take his blade from above near the ricasso with crossed hands and pull it to your left (D, right small). Or, as he rises, fall on his arms with the short edge and push with the ricasso (I, right small).
+121|Kreuzhut — the middle figure, crossed hands, point on the ground
+123|In the drawing: the middle figure, crossed hands, point on the ground
+125|Right foot forward, hilt in front of the knee, arms hanging straight down, point reaching up toward the opponent's face; it defends like an iron gate. According to Meyer, this guard was forgotten among the Germans when thrusting fell out of use, but the Italians and others use it. Its main description is in the rapier section.
+127|The guard the inexperienced mistake for Eisenport: holding the sword in front of you with crossed hands and the point on the ground.
+128|Plays (p.98).
+129|If he strikes from above, raise your crossed hands and catch the strike on the strong of your blade. As he pulls his sword back and raises his arms, throw strong Unterhau at his arms; when he comes down, work at his head. Or, the moment the blades clash, wind the short edge to his right ear, wind the pommel back under to the left and cut long to his left with a step back. If he comes from below, fall on his sword with the long edge in Langort.
+130|Thrust at his face from Schlüssel, force him upward and work from below as he rises.
+132|Hangetort (Hanging point) — the large figure on the right
+133|Right foot forward, hold the weapon in front of you with arms extended, the blade hanging a little toward the ground. Meyer notes that the arms in the picture are not straight enough.
+134|How it differs from Ochs.
+135|It is almost the same as Ochs. But in Ochs the arms are high; here they are extended right in front of your face and the sword hangs toward the ground.
+136|Entering (p.96).
+137|Strike up hard once or twice from the left toward his face like a wheel. On the third, swing the sword into the correct position in front of your face and return to Hangetort. Repeat until you see your chance.
+138|Plays.
+139|If he strikes from above, horizontally, from below or at your fingers on the left, step out to his left with your left foot behind your right. Pull the hanging sword to your right shoulder and at the same time strike his head; pull the pommel hard against the inner tendon of your arm so the blade swings strongly. If he comes from above on his right, catch it on the flat and wind the short edge inside to his head, then return to Langort.
+141|Cuts (Häue)
+142|9 images
+143|The four main cuts are Oberhau, Unterhau, Mittelhau (horizontal) and Zornhau; the rest derive from them. The five master cuts are Zorn, Krump, Zwerch, Schieler and Scheitel. Meyer says they are called “master” cuts because every proper play befitting a master arises from them.
+145|Unterhau — the small pair at upper left
+146|In the drawing: the small pair at upper left
+147|How it is done.
+148|First cut so that you pass into right Ochs. The moment you can reach the opponent, step and cut diagonally up from below to his left arm; the crossguard ends high above your head.
+149|Its place in parrying.
+150|Done strongly and thrown with an outward step, the Unterhau takes an Oberhau by lifting it up.
+151|Cutting lines.
+152|The vertical line can be cut horizontally or diagonally; Meyer shows these lines in detail in the dusack section.
+154|Kurzhau — the small pair at upper right, end of the movement
+155|In the drawing: the small pair at upper right, end of the movement
+156|What is it?
+157|A concealed passage.
+158|If the opponent strikes from above, act as if you will bind his sword with the short edge in a Krumphau. Instead, go quickly under his sword and strike his head over his right arm with the short edge and crossed arms. This way you have caught his sword with your long edge. At the finish you stand like the small pair at upper right.
+159|Meyer's warning.
+160|Cuts such as the Kurzhau and Fehlen, which neither parry nor strike, are not really part of fencing. They are used to mislead the opponent, provoke him and draw him out of his advantage; this is often not without risk.
+162|Krumphau — the small pair at upper right, a horizontal cut to the hands; also pulling the blade away to the left (Außreißen)
+163|In the drawing: the small pair at upper right, a horizontal cut to the hands; also pulling the blade away to the left (Außreißen)
+164|Left foot forward, stand in Zornhut. If the opponent strikes, step with your right foot to his left side, outside his strike. With the long edge and crossed hands, cut against his cut or horizontally to his hands between his head and blade; let your blade pass well beyond his arms.
+165|From Nebenhut.
+166|According to Meyer, the true work from the side guard (Nebenhut) is with the Krumphau: spring to his left out of his strike with your right foot and cut to his head behind his blade with crossed hands.
+167|Same drawing, Außreißen.
+168|In the Einhorn sequence (p.92): keep your hands crossed, pull your head to the right, throw your blade over his as close to the ricasso as possible and pull his blade to your left.
+170|Schielhau — the large figure on the left at the end of the cut
+171|In the drawing: the large figure on the left at the end of the cut
+172|This too is an Oberhau. It takes its name from being cut with a slight twist, as if squinting.
+173|Left foot forward, go into Tag or Zorn. If someone cuts at you, cut against it, but in the strike turn the short edge against his strike and hit evenly with inverted hands. Step well to his left side with your right foot and take your head quickly along with the strike. If done correctly you stand like the large left figure.
+174|Counter-winding.
+175|If the opponent winds the short edge inside to your left ear from a Zwerch, wind your long edge up against his blade. Then you stand in “the old Schielhau” and strike his head (p.107–108).
+177|Zwerch — the small pair at upper left, binding with a counter-cut
+179|In the drawing: the small pair at upper left, binding with a counter-cut
+180|At the onset go into Zornhut on the right, left foot forward, sword on the right shoulder, as if about to throw a Zornhau. If the opponent cuts from Tag or from above, cut at the same time diagonally from below against his cut with the half edge. Keep the crossguard high above your head so your head is covered. With the cut, step well to his left side; the weapons meet (the two small figures at upper left).
+181|Parrying and striking at once.
+182|Meyer's example: from Zornhut, when cut at from above, step aside with your right foot and cut a horizontal Zwerch inward with the short edge. You catch his strike on the strong of your blade, right up to the crossguard, while the outer part of your blade hits his ear.
+183|On the left side.
+184|Turn to his right and strike his right with the long edge.
+186|Windhau — the large figure on the right, long edge over the arm to the head
+187|In the drawing: the large figure on the right, long edge over the arm to the head
+188|If the opponent cuts from above, cut from the left with crossed hands from below against his sword; the pommel shows beneath your right arm. As soon as it clashes, step well out to his left with your left foot. Pull the pommel back up to your left side with a Rund; the long edge swings over his right arm, behind his blade, to his head (the large figure on the right).
+189|Then.
+190|At once let your sword fly from your side and cut back diagonally.
+192|Prellhau (single) — the large figure on the right, a rebounding strike to the ear with the outer flat
+193|Prellhau (single)
+194|In the drawing: the large figure on the right, a rebounding strike to the ear with the outer flat
+195|If the opponent cuts from above, meet his strike with a Zwerch. As soon as it clashes, pull your sword around your head and strike his ear from his left with the outer, reversed flat so that the sword bounces back (the large figure on the right). Pull the rebounding swing back around your head and cut a Zwerch to the left.
+196|In the Ochs sequence (p.89).
+197|After taking his blade away, pull your sword around your head and throw a strong swinging strike from outside to his right ear with the outer flat. In this strike, step well out to his right with your left foot.
+198|Prellhau (double) — the large figure on the left, inner flat to the blade, pommel under the elbow
+199|Prellhau (double)
+200|In the drawing: the large figure on the left, inner flat to the blade, pommel under the elbow
+201|The moment the opponent lifts his sword to work at the onset, go into right Ochs. Pull the sword around your head and strike his blade hard from the right with the inner flat; in the strike, the pommel hits under his forearm, on the elbow bone (the large figure on the left).
+202|What follows.
+203|In the strike, turn well to his left with your right foot. As soon as it clashes or touches, pull up, at the same time pull out to the left, and with inverted hands strike back from outside to the right ear with the inner flat. Strike the same opening once more with the reversed flat; if it rebounds strongly, you have done it right.
+204|Half-edge strike
+205|A strike to the left ear with the half edge and crossed hands — the two small figures at upper left
+206|Half edge to the ear
+207|In the drawing: the two small figures at upper left
+208|From the four-openings drill (p.70).
+209|Draw a high strike from right to left with the half edge. In the air, cross your hands and strike his left ear with the half edge (the two small figures at upper left). Pull the crossed hands back up and strike his left ear again with a Zwerch from below.
+210|In the Einhorn sequence (p.92).
+211|The same pair also shows the flick made after catching his strike horizontally on your strong. As you spring to his left, push the pommel under your right arm and strike his head behind his blade with the inner flat or short edge.
+213|Binding and handwork (Handarbeit)
+214|7 images
+215|According to Meyer, handwork begins once you have reached the opponent's sword with your cuts. The aim is to press him with work such as Verführen, Nachreisen, Wechseln, Duplieren and Nachdrucken and win the prize. The glossary below summarises Meyer's own definitions.
+217|Returning to Langort for the straight parry — the small figures at upper right
+218|In the drawing: the small figures at upper right
+219|From the Einhorn sequence (p.92).
+220|After flicking his head with the short edge, your left side is left open and the opponent attacks there. Simply pull the pommel back under your arm and turn the sword into Langort, long edge toward his blade. You then stand in the straight parry (Gerader Gegenstand) (the small figures on the right).
+221|Stay in Langort on his blade and withdraw whenever you wish.
+223|Winding the short edge under the sword to the head (Winden) — the small pair in the middle
+224|In the drawing: the small pair in the middle
+225|From the Zornhut sequence (p.83–84).
+226|Standing in right Zorn, if the opponent strikes from his right to your left, step forward with the right foot and push the sword over your head under his blade. Catch the strike on the flat, thumb underneath; the blade hangs toward the ground on your left. When it clashes, step to his right with the left foot and wind the short edge inside to his head under his sword (the small pair in the middle).
+227|Once wound, stay on his sword with the short edge, then pull up to your right with your sword so that your hands cross in the air. Strike the lower right opening with the inner flat. If he goes for your sword to parry, do not let it touch; pull up and throw a Klitzhau to his left ear.
+228|What Winden is.
+229|Staying hard in the bind and turning the fore part of the blade inward toward the head and back out again; you always stay below and on his sword.
+230|Flat strike
+231|Going under the sword and striking high to the left ear with the flat or short edge — the small pair on the left
+232|With the flat to the left ear
+233|In the drawing: the small pair on the left
+234|From the Wechsel sequence (p.104).
+235|If the opponent is in Langort or the straight parry, strike up once or twice from right Wechsel with the half edge. On the third, go under his sword, step with the right foot and strike strong and high to his left ear with the flat or short edge (left small pair).
+236|The aim.
+237|This strike forces him to lift his arms straight up; the next move is in the pair on the right.
+238|Point on the chest
+239|Setting the point on the chest and taking the pommel again — the small pair on the right
+240|Setting the point on the chest
+241|In the drawing: the small pair on the right
+242|Continuation of the Wechsel sequence (p.104).
+243|The moment he raises his arms, let go of the pommel with your left hand and turn the blade with one hand from below toward his right. Set the point on his chest and at the same time take the pommel again (the small pair on the right).
+244|Finish.
+245|Push him away from you with inverted hands and let go of the pommel again. Swing the sword around your head and cut long, taking the pommel. This sequence is against those who like to run in.
+246|Between the arms
+247|A cut from below between both arms to the chin — the two small figures at upper left
+248|Between the arms to the chin
+249|From the Langort sequence (p.101).
+250|At the onset, bind his sword with an Oberhau. The moment he lifts his sword back up, cut from below between both arms to his chin as he raises them (the two small figures at upper left).
+251|Short edge to the arms
+252|Coming down on the arms with the short edge as the opponent lifts them — upper right, the outermost small figure
+253|In the drawing: upper right, the outermost small figure
+254|From the Einhorn sequence (p.93).
+255|While in Einhorn, if he cuts from above, swing your blade around your head and bind his sword horizontally from right to left. The moment he rises from your sword, swing your blade back; right hand over the left, hands crossed. While he is still rising, fall forward on his arms with the short edge (the outermost small figure on the right).
+256|Push him hard to his left, aside, with the ricasso. While he staggers, cut to the nearest opening or hold him with Nachreisen until you gain the advantage.
+257|Answer to the Unterhau
+258|A cut from below to the left arm with the long edge; the other side fixes the Unterhau with crossed hands and the short edge. The same pair is also shown for sword taking (striking up and taking the sword) — upper right small pair
+259|Fixing the Unterhau
+260|In the drawing: upper right small pair
+261|From the Tag sequence (p.79).
+262|While withdrawing, cut from below to his left arm with the long edge (the left figure of the pair). If during this withdrawal he cuts an Unterhau to your lower left opening, step toward him with your left foot and fall on his sword with the short edge and crossed hands. This fixes his Unterhau in place (the figure on the right).
+263|The moment he pulls his sword back up, pull your sword fully to your left with crossed hands. When he strikes again, take the incoming cut strongly away horizontally from left to right with the outer flat. Let your sword turn over your head in one full swing, your hands crossing again in the air. Step well to his right and drop the half edge beside his right ear with a Zirkel. Withdraw cutting long.
+264|Same pair, sword taking (p.102).
+265|In the bind from Langort, let go with your left hand and seize his blade, pass your right hand with the hilt underneath and take his sword by striking up to his right.
+266|Handwork glossary
+268|The swords touching each other. One stays in two ways: waiting on the sword to see what the opponent will do, or feigning a withdrawal and coming back to the same place with the short edge. Fühlen is sensing whether he is hard or soft in the bind.
+270|A very good handwork. When the opponent strikes too high, too low or too wide, you chase after him into the opening and stop him from finishing his strike. The moment he lifts his sword, you cut beneath it.
+272|The best obstacle when pressed with quick sequences. If he stays in the bind and goes around, go to his arm with the long edge, push with the strong or the ricasso and strike the nearest opening.
+274|Rising back from a bind on the right and striking or flicking to the other side.
+276|In the bind, turning the hand and letting the blade run down with the half edge, while pulling the hilt up for a new strike.
+278|Feigning a strike at one opening and hitting another. The Schielhau, Fehlen, Verfliegen, Winden, Zucken and Zirkel are its tools; body language is part of it too.
+280|If the opponent wants to meet your strike in the air, you pull the strike to another opening in mid-air without letting it touch his sword. Against those who fence at the sword, not at the body.
+282|Not merely parrying a strike crosswise, but at the moment of contact stepping aside and striking an opening at the same time. If it comes from above, rise with the long edge, step to his left with your right foot, and when it clashes, flick the short edge to his head.
+284|From Alber, pulling the sword back from your right side and, stepping with the right foot, hurling the strike straight at his head like a stone from a sling.
+286|After binding with the long edge, pulling up quickly as if to strike the other side, but striking back with the short edge to where you started.
+288|Doing a strike twice: first with the long edge from the right to the ear; when the swords clash, pushing the pommel under the right arm, lifting the arms and striking the head behind his blade with the short edge.
+290|When bound on the left, pushing the pommel under the right arm, pulling the head to the right away from the strike, and pressing his blade or arm down with crossed hands so he cannot work.
+292|Holding his arm or blade under your crossguard with Verkehren and turning your blade to his head. Or, when pressed, giving way with the left foot, gripping over his right arm with the pommel and turning to his head with the short edge.
+294|While striking at an opening, if the opponent wants to parry, letting the strike drop without touching and hitting another opening. Example: a Zornhau to the left ear; before it lands, lift the pommel, drop the blade to his left, pull it around your head and strike his head over his right arm.
+296|If neither side gives an opening in the bind, cutting with the half edge and crossed hands from above beside his right. The right hand crosses strongly over the left so you can draw the half edge across his right ear.
+298|Pulling the sword back with a single or double swing, circling over the head; also used to deceive.
+299|Staying hard in the bind and turning the fore part of the blade inward toward the head and back out again. You always stay below and on his sword.
+301|After binding with a Zwerch and winding the short edge inside, passing to his right with your right foot, winding the hilt under his blade to the left, passing the pommel out over his right arm, pulling down and striking his head with the long edge.
+302|It takes experience; done at the wrong time it opens you up for nothing. Suited against those who fence at the sword rather than the body. If he strikes at your sword, pass the point underneath with crossed hands and strike long to the other upper opening.
+304|With arms extended or waiting in Alber, cutting away long strikes from both sides with the long edge until you see your advantage. Liechtenauer: “Cut the hard ones from both directions.”
+306|Get under his strike with a Kronhau or Hängen, follow with your strong as he rises, and catch both his hands at once by falling from below in front of his fists with the ricasso. Push up and strike long.
+308|Standing in right Zorn, letting the blade hang behind you and pushing it over your head under his blade. You catch the strike on the flat, thumb under the ricasso.
+310|Standing in Pflug, raising the hilt, letting the blade hang toward the ground and catching the strike on the flat. Then winding to the nearest opening.
+312|When bound on the right, turning the sword and pulling it to his left, or entering between his arms with the pommel and wrenching up or down.
+314|Falling with the long edge on the blade of someone standing in Wechsel or Alber. When it clashes, crossing the hands and locking it so he cannot get free.
+316|Falling with a slice on the arms or sword of someone working quickly to the four openings, and not letting him rise again. Wherever he goes, you stay on his arm with the slice and restrict him.
+318|While cutting to the upper left opening, gripping over the crossguard or ricasso with the fingers, thumb staying on the grip. Lifting the pommel with the left hand and striking his head over or behind his parry with the hanging blade.
+320|Running in under his sword so that the swords touch. Because it relates to wrestling and throws, it is described in the plays.
+322|5 images
+323|Meyer defines Einlaufen as running in under the opponent's sword so that the swords touch. Because this is tied to wrestling and throws, he leaves the details to later plays.
+325|Wrestling with the sword, throwing the opponent over the shoulder — the small pair at upper left
+326|Wrestling with the sword
+327|The drawing shows lifting and throwing the opponent over the shoulder with the sword in hand.
+329|Meyer describes the path into wrestling as Einlaufen: running in under his sword so that the swords touch. He leaves it to the wrestling and throwing plays.
+330|Close-range wrestling / grappling — the large pair on the left
+331|Close-range grappling
+332|In the drawing: the large pair on the left
+333|The drawing shows a body grip at close range.
+334|Related technique.
+335|The throw in the Brechfenster section: step behind his right with your right foot, take him by the neck with the short edge, push the pommel to his right and throw him on his back over your right leg.
+336|Gripping over the crossguard and lifting over both arms — the large figures below (left)
+337|Übergreifen and throw
+338|In the drawing: the large figures below (left)
+339|It belongs to the high guards and is used only in the bind, after you have got under the opponent's sword. Do not enter this guard while his point is still in front of you; here you leave your arms and fingers exposed. If he strikes at your fingers, step aside and cut against his strike with a Zwerch.
+340|Übergreifen (p.106).
+341|If he cuts from above, cut against it from the left from below with the long edge. The moment he lifts his blade and raises his arms, reach over his crossguard to the blades with your fingers and lift over both his arms with your blade (the two large figures below). Pull to your right.
+342|Throw.
+343|If you wish, step behind his right with your right foot and take him by the neck with the short edge. Push the pommel to your right, away from you, and throw him to the left over your right leg, onto his back.
+344|Gripping over the crossguard, setting the short edge on the head — the large figures below (right)
+345|Short edge to the head
+346|In the drawing: the large figures below (right)
+347|Against the Zwerch (p.107).
+348|If he cuts a Zwerch to your left ear, fall from above with the long edge onto the middle of his blade. The moment you fall, grip with your fingers over his crossguard toward the blade. Set the short edge on his head behind his blade (the large figures).
+349|Don't let him escape.
+350|Push the pommel you are holding him with away from you so that he cannot get free without being wounded. If he slips forward out from under your blade, follow quickly and again grip over both his arms.
+351|Winding out
+352|Holding the ricasso and crossguard with the left hand and winding the opponent out — upper right small pair
+353|Winding out
+354|The moment he cuts a Zwerch, catch it on your hanging blade. Reach for his ricasso and crossguard with your left hand and wind him out away from you (the small pairs at upper right).
+355|The winding rule.
+356|When you bind against a high cut with a Zwerch, wind the short edge inside to his head. If the opponent winds inside against you, wind outside: he misses, you hit.
+358|16 images
+359|Other pairs and figures from the plates, ordered by plate.
+360|Other
+361|Plate A, the large figure on the left (from above with crossed hands)
+362|Plate G, upper right small pair
+363|Plate M, upper left small pair
+364|Plate B, middle small pair
+365|Plate C, middle pair
+366|Plate D, middle pair
+367|Plate E, upper left small pair
+368|Plate E, upper right small pair
+369|Plate E, middle pair
+370|Plate G, upper left small pair
+371|Plate K, the large figure on the left
+372|Plate K, the small pair at the top
+373|Plate K, left and middle figures
+374|Plate L, upper left small pair
+375|Plate L, upper right small pair
+376|Plate L, the large pair in front
+378|The engravings in full.
+379|Langort plate
+380|Ochs and Pflug plate
+381|Vom Tag and Alber plate
+382|Kreuzhut and Hangetort plate
+383|Prellhau plate
+384|Schielhau plate
+385|Schlüssel and Wechsel plate
+386|Plate L
+387|Langort plate (different colouring)
+388|Diagram
+389|Diagram of cutting lines
+390|Windhau plate
+391|Zornhut and Einhorn plate
+392|Plate I
+393|Kreuzhut and Hangetort plate (different colouring)
+394|Windhau plate (different colouring)
+395|Plate M
+396|Section filter

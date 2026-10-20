@@ -1,0 +1,254 @@
+3|Drawing Atlas
+4|Every manuscript drawing in the book is sorted by the guard, cut or technique it shows. Click a drawing to enlarge it; use the arrow keys to move within the same category. Each category opens with a summary of the book's Zettel verses and gloss. Page numbers are the printed page numbers of the book.
+5|drawings
+6|categories
+7|main sections
+8|All
+9|Guards
+10|Master cuts
+11|Tactics and techniques
+12|Wrestling and sword taking
+13|Armoured combat
+19|Half-sword guards
+36|Mounted and spear plays
+37|Sword against spear
+38|Armoured wrestling and pinning
+39|Half-sword plays
+40|Pommel strike
+41|Core teachings of the book
+42|Before and After (Vor / Nach).
+43|Zettel 17–20: “Before and After, these two things, are the source of all the art. Weak and Strong; keep the word ‘Indes’ in mind with them. Thus you learn to work and to defend with art. If you frighten easily, never learn to fence.” According to the gloss, the whole foundation of fencing is these three things: Before/After, the Weak and Strong of the sword, and ‘Indes’ (in that moment, at the same time).
+44|A right-hander should not start from the left.
+45|Zettel 15–16: if you are right-handed, do not throw your first strike from the upper left. That side is weak and you cannot hold if the opponent binds strongly. A left-hander should likewise not start from the right.
+46|Five secret cuts.
+47|Zettel 21–22: “Learn five cuts from the right hand.” These are the Zornhau, Krumphau, Zwerchhau, Schielhau and Scheitelhau. Gloss: many masters know nothing of these cuts; whoever can break them is praised by other masters.
+48|Seventeen headings.
+49|The Recital's contents in order: the five cuts, four guards, four parries (Versetzen), Nachreisen, Überlaufen, Absetzen, Durchwechseln, Zucken, Durchlaufen, Abschneiden, Hende drücken, Hängen and Winden.
+50|Waiting in a guard.
+51|The third source's commentary quotes Liechtenauer: “He who lies still is dead; he who moves still lives.” Rather than staying long in guards, move with attacks and techniques.
+53|Guards (Guard / Leger)
+54|17 drawings
+55|Ox
+56|Sword at head height, hilt beside the head, point to the opponent's face.
+57|Zettel 68–69: “Four guards alone; hold to them and shun the common ones. Ochs, Pflug, Alber, Vom Tag; let them not be strange to you.”
+58|How to stand.
+59|Left foot forward, sword on your right side, hilt in front of your head, thumb under the sword, point hanging toward the opponent's face. Left Ochs is its mirror: right foot forward, sword on the left side, hilt again in front of the head, thumb underneath.
+60|Origin.
+61|The third source describes Ochs as “the upper hanging guard that comes from the shoulder” (Oberhängen). All four guards arise from the upper and lower hangings.
+62|What breaks it.
+63|According to the four Versetzen, the Krumphau breaks Ochs. The Zwerchhau is also struck at Ochs, that is, at the upper opening.
+67|Plough
+68|Hilt at waist/hip height, point to the opponent's chest or face.
+69|Zettel 96–97 (Hängen): “Two hangings come from one hand and from the ground. In every work: strike, thrust, guard; soft or hard.”
+70|Left foot forward, hold the sword with crossed hands, pommel down at your right hip, short edge up, point to the opponent's face. On the left side: right foot forward, pommel at the left hip, long edge up.
+71|Its link to the lower hangings.
+72|According to the Hängen section, the “two hangings from the ground” are the Pflug on either side. Working from this guard, you must feel (Fühlen) in the bind whether the opponent is soft or hard.
+73|The Schielhau breaks Pflug. Absetzen is also mostly done from Pflug: offer an opening on your left; if he thrusts, wind onto his sword with the short edge and thrust at the same time.
+76|same drawing repeated
+78|Fool
+79|An inviting guard with arms extended and the point lowered toward the ground.
+80|The third source: “Alber breaks what is struck and thrust. Break the swings with the hangings too; Nachreisen must follow at once.”
+81|Right foot forward, arms extended, the point of the sword toward the ground in front of you.
+82|The Scheitelhau (parting cut) breaks Alber.
+83|Working from Alber.
+84|According to the Abschneiden section, if the opponent drops his sword onto yours while you wait in Alber, stay underneath and lift strongly with the short edge. If he presses hard, slip out from under his blade and strike his mouth from the other side.
+88|From the roof
+89|Sword on the shoulder or above the head, ready to strike from above.
+90|Zettel 49: “The Zwerch takes what comes from Vom Tag.”
+91|Left foot forward, the sword held on the right shoulder or high above the head with arms extended.
+92|Its relation to Langort.
+93|The third source says: “The fourth guard, Vom Tag, is also the long point. Whoever uses it with arms extended cannot be hit with strikes and thrusts.”
+94|The Zwerchhau breaks Vom Tag and every strike coming down from above. It is also a good starting point for Nachreisen: stand in Vom Tag and watch the opponent raise his strike.
+98|Barrier guard
+99|Sword diagonal toward the ground, a defensive guard from the side.
+100|Gloss: “You can also do the Krumphau from Schrankhut to both sides.”
+101|Left foot forward, sword on your right side, point on the ground, long edge up. This offers an opening on your left. On the left side: right foot forward, sword on your left side held with crossed hands, short edge up.
+102|How it is used.
+103|If the opponent strikes at the opening, spring wide to the right with your right foot and strike his hands with the long edge and crossed hands, the point coming over his hands. From the left side you strike over his hands with the short edge.
+104|The third source.
+105|Schrankhut comes from the point: the point is set on the ground to whichever side you wish, and you prepare for Absetzen. Done with the point in front of you, it is also done from the “gate” (Pforte). If someone strikes or thrusts, catch his point as you rise with Absetzen and strike his feet or wherever lands best.
+107|Armoured half-sword guards
+108|The four guards of the shortened sword (armoured combat) section: guards 1, 2, 3 and 4.
+109|In armoured combat (Kampffechten) the sword is held shortened: right hand on the grip, left hand at the middle of the blade.
+110|Guard 1 (high).
+111|Left foot forward, sword on your right side above your head, point hanging toward the opponent's face. If the opponent thrusts from a low guard from below, do not parry; thrust at his face. According to Kampffechten, all high attacks beat low ones.
+112|Guard 2 (low).
+113|Left foot forward, sword low on your right side, pommel resting on the right knee, point to the opponent's face or chest.
+114|Guard 3.
+115|Left foot forward, sword held diagonally across the left knee. From this guard the opponent's plays are broken by parrying.
+116|Guard 4.
+117|Hilt under the right armpit, crossguard against the chest, point at the opponent. You arrive in this guard by attacking from the others: when the thrust enters a gap in the armour, brace the hilt against your chest at once and drive the opponent before you; do not let him escape the point.
+123|Master cuts (Meisterhäue)
+124|37 drawings
+125|Wrath cut
+126|A powerful Oberhau thrown from the shoulder; Liechtenauer's first master cut.
+127|Zettel 27–29: “Whoever strikes at you from above, the point of the Zornhau threatens him. If he notices, take it away above without danger. Be stronger against him, wind, thrust. If he sees it, take it down.”
+128|What is it?
+129|An Oberhau thrown from the shoulder. The gloss calls it “a simple peasant's strike”, yet it breaks every strike from above with the point. According to the third source, no strike comes as readily to an angry man as the Zornhau.
+130|How it is done.
+131|If the opponent strikes at your head from the right, you also strike from the right, without parrying, wrathfully onto his sword. If he is soft in the bind (weich), shoot the long point straight at his face or chest.
+132|Abnehmen.
+133|If he notices the point, parries strongly and pushes your sword aside, pull your sword away above his blade and strike his head from the other side.
+134|Winden.
+135|If he stays strong in the bind, stay strong too. Lift your arms, wind and thrust the point at his face. If he sees this too, go to the lower opening.
+136|Counters.
+137|If the opponent does Abnehmen, bind strongly from above with the long edge and go to his head. Or wind a little onto his sword with the short edge and strike his head with the long edge, or step aside from the strike and work to the nearest opening.
+144|Crooked cut
+145|A crooked cut down to the hands/sword with a crossing step; it breaks Ochs.
+146|Zettel 42–45: “Strike crooked nimbly, throw the point at the hands. Whoever sets the Krump well with a step spoils many strikes. If you would weaken masters, strike crooked at their flat. When it clashes above, step aside; this I praise.”
+147|An Oberhau thrown crooked with a good step to the side. It is one of the four Versetzen: it breaks Ochs and also the Oberhau and Unterhau.
+148|If the opponent stands in Ochs on his left side, bring your left foot forward and hold the sword on your right shoulder. Spring wide to his right with your right foot and strike over his hands with the long edge and crossed arms, throwing your point over his hilt onto his hands.
+149|Taking aside.
+150|If he cuts from above on the right at your opening, step to his left side with your right foot, lay your sword on his, your point staying on the ground in Schrankhut. This is done to both sides, and from here you can strike his head.
+156|Thwart (horizontal) cut
+157|A horizontal cut with the hilt above the head; it breaks Vom Tag. Drawings of its breaks (Bruch) are included.
+158|Zettel 49–52: “The Zwerch takes what comes from Vom Tag. Zwerch with the strong, do your work with it. Zwerch to the Pflug, bind hard to the Ochs. When you zwerch well, you harm his head with a spring.”
+159|According to the third source, no strike made with the sword is as fair, strong and good as the Zwerchhau. It is struck with both edges, from both sides, high and low, at all the openings. It wards off everything that comes from Vom Tag and from above.
+160|Left foot forward, sword on the right shoulder. If the opponent threatens to strike from above, take the initiative: spring well to the right with your right foot. As you spring, turn the sword so the hilt is in front of your head and your thumb comes underneath, and strike his left head with the short edge. Thus you catch his cut on your hilt and strike his head at the same time.
+161|To the four openings.
+162|Pflug means the lower openings, Ochs the upper ones. With the Zwerch you work at all four openings.
+163|Commentary.
+164|Someone fighting for his life should take the first strike (Vorschlag) with a good Zwerchhau: as soon as he can reach, straight to the head from the upper right with the back edge, wrapping the point around the opponent's sword like a strap.
+178|Squinting cut
+179|A cut thrown with the back of the long edge; it breaks Pflug and Langort.
+180|Zettel 58–62: “The Schieler breaks what the Büffel (the brute-force fighter) strikes or thrusts. Whoever threatens to change through, the Schieler robs him. If he stays short, squint; Durchwechseln defeats him. Squint at the point, take the throat without fear. Squint at the upper head if you would harm the hands.”
+181|A strike from the upper right with the back (short) edge of the sword. Like a squinting man, you look to the left while stepping to the right, the sword and hand turned over. It breaks Pflug and Langort. According to the gloss, many masters know nothing of this strike.
+182|Left foot forward, sword on the right shoulder. If he strikes at your head from above, turn the sword and strike long over his sword to his head with the short edge against his strike, arms extended. Thus parry and strike are a single movement.
+183|Against Pflug.
+184|If the opponent stands in Pflug wanting to thrust from below, go in with a long Schielhau and shoot your point long to his chest; he cannot reach you from below.
+185|Against Durchwechseln.
+186|If the opponent tries to change through underneath, leave your point long in front of him so he cannot get through.
+195|Parting cut
+196|A vertical cut from the crown; it breaks Alber. The Krone (crown) and its slicing counters are included.
+197|Zettel 63–67: “The Scheitler is dangerous to the face; with its turn, to the chest as well. What comes from it, the Krone takes. Cut the Krone with a slice, and you break it hard. Press into the strike, withdraw with slices.”
+198|A vertical cut from the crown. It breaks Alber and, with its turn, is very dangerous to the face and chest.
+199|If the opponent is in Alber, stand with left foot forward and sword on the right shoulder, spring toward him and strike hard from above with the long edge. Keep your arms high. If he parries, hang your point over his hilt into his face.
+200|The turn.
+201|If he pushes your point up with his hilt, turn your sword so the hilt comes in front of your head, thumb underneath, and set the point on his chest under his hands.
+202|The Krone and its break.
+203|If the opponent parries with hilt and point above his head, this is called the Krone; with it he runs in. As a counter, wind your sword under the Krone onto his arms with a slice and press, then withdraw with a slice.
+208|41 drawings
+209|Four openings
+210|The four target zones.
+211|Zettel 36–37: “Know the four openings; aim at them and you will hit knowingly. In every work, regardless of what he does.”
+212|Imagine a vertical line from the crown to the groin and a horizontal line at the belt. This gives four openings: upper right and left, lower right and left. Each has its own techniques; techniques always go to the opening, not to the sword.
+213|How to seek them.
+214|There are two ways: in the onset (Zufechten), with Nachreisen and by shooting the long point; in the bind, with the eight Winden.
+215|Why it matters.
+216|Without fear, go to the opening with a strike or thrust; this forces the opponent to parry. The moment he parries, seek the nearest opening again with Winden. Do not fence at the sword; fence at the opening.
+219|Doubling and mutating
+220|Striking behind the sword after the bind, or turning the point over to thrust.
+221|Zettel 38–41: “If you would break the four openings with mastery: Duplieren above, Mutieren below, rightly. I tell you truly: no one can protect himself without danger. If you have understood this, he can hardly come to strike.”
+223|Strike from above on the right. If the opponent parries and stays strong on the sword, raise your arms at that moment, pass the pommel under your right arm with your left hand and strike his head behind his blade with the long edge and crossed arms. In a bind from the left you do the same with the short edge.
+225|If he parries but is soft on the sword, wind onto his sword to the left with the short edge, lift your arms well, pass your blade over his sword and thrust to the lower opening.
+226|Rule.
+227|Against the opponent's strength, Duplieren to the upper opening; if he is soft, Mutieren to the lower opening. Gloss: these two are done from every cut, wherever you find weak and strong on the sword.
+233|Failers and inverters
+234|Feints (Fehler) and the Verkehrer plays involving seizing the elbow and throwing.
+235|Zettel 53–57: “The Fehler deceives; strike from below as you please. The Verkehrer compels; with Durchlaufen, and with wrestling too. Take the elbow knowingly, spring onto the scale. Deceive twice; if one hits, follow with the slice. Double again; go in to the left and do not be idle.”
+237|Against those who love to parry and fence at the sword (not the body). Feign a strike at his head with a free Oberhau, pull the strike and hit his lower left or right opening with a Zwerch. Protect the top of your head with your hilt.
+238|Double Fehler.
+239|Show the first feint to one side, the second to the other, and finish whichever lands with a slice.
+241|Fencers call this a “half strike” or “inverted strike”. Approach throwing half strikes up and down from the right with the inverted long edge. When you bind his sword, hang the point over the top into his face. If he parries the thrust and lifts his arms, run under (Durchlaufen), seize his elbow and throw him with wrestling.
+249|Four parries
+250|What to do when parried; locking with the hilt, half-sword.
+251|Zettel 70–73: “There are four Versetzen, and they badly wound the guards too. Beware of parrying; if it happens, it presses you hard. If you are parried, however it happens, hear what I teach: rip off, strike quickly.”
+252|Four Versetzen = four cuts.
+253|The Krumphau breaks Ochs, the Zwerchhau Vom Tag, the Schielhau Pflug, the Scheitelhau Alber.
+254|Beware of common parrying.
+255|Common fencers parry holding the point up or to the side; because they do not know how to keep the point at the opening, they are often hit. If you parry, parry with a strike or thrust and at the same time (Indes) aim your point at the nearest opening. “If he strikes, strike too; if he thrusts, thrust too.”
+256|When parried.
+257|Counter-plays in the drawings: passing the pommel over the opponent's forward hand and pulling his wrist; pressing his sword to the ground and thrusting at his face with the half-sword. If the opponent falls on your sword, pass the pommel over his sword and strike his head (Schnappen).
+259|Zettel 74: “Attack the four points; if you would finish, learn to stay there.” Stand in Ochs or Pflug. While the opponent raises to strike or draws back to thrust, take the initiative and shoot the long point at the nearest opening.
+267|Travelling after and running over
+268|Going in right behind the opponent's movement; striking from above at one who aims low.
+269|Zettel 75–82: “Learn Nachreisen two ways, or with a slice to the weapon. Two outer takings; begin your work. Test whether attacks are soft or hard. Learn Fühlen; Indes cuts sharp. Double Nachreisen; if one hits, do the old slice. Run over whoever aims from below; he is shamed. When it clashes above, be strong; this I praise.”
+271|While the opponent raises his sword to strike, before his cut comes down, go to his upper opening with a strike, slice or thrust. Or fall on his arm with the long edge and push him away. The moment he draws his sword back to thrust, go after him too and thrust before he completes his thrust.
+272|Outer takings and Fühlen.
+273|Feel in the bind whether the opponent is soft or hard. The word Indes is sharp here: act the moment you feel it.
+275|Do not answer one who strikes at your lower opening; strike his head strongly from above or set the long point to his face or chest. Gloss: all upper attacks break the lower ones. If he binds above, stay strong with the long edge and work to the nearest opening.
+282|Setting aside
+283|Deflecting incoming cuts and thrusts with the point and thrusting at the same time.
+284|Zettel 83–85: “Learn Absetzen; spoil strikes and thrusts with skill. Whoever thrusts at you, your point hits and his is broken. From both sides, strike each time you step.”
+285|If the opponent looks ready to thrust, stand with left foot forward in Pflug on the right and offer an opening on your left. If he thrusts at that opening, wind onto his sword with the short edge, keeping it on the left side of your sword. Thus you set aside the thrust. At the same time step with your right foot and thrust at his face or chest.
+286|Against a strike from above.
+287|Standing in right Pflug, if he strikes at your left head, raise the sword, wind against his strike so the hilt is in front of your head, step with your right foot and thrust at his face or chest. This is done from both sides.
+288|Its essence.
+289|Parry and attack are one movement: as his point is deflected, yours hits.
+294|Changing through and pulling
+295|Passing the point under before the bind, or pulling the sword back and striking again.
+296|Zettel 86–90: “Learn Durchwechseln from both sides, hard with thrusts. Whoever binds with you, Durchwechseln finds him quickly. Step close in the bind; Zucken gives good chances. Pull; if it hits, pull more. If you would deceive masters, pull in every hit.”
+298|Against fencers who parry readily and strike at the sword. Strike strongly from above. If the opponent strikes at your sword, pass your point under his sword before the bind and thrust at his chest from the other side. If he sees the thrust and parries, change through again. Do it carefully so he cannot set his point on you as you pass.
+300|Against masters who bind hard and wait motionless, watching for you to pull away. Strike hard at his head from the right. If he puts his sword forward to parry, pull your sword back to you before the bind and thrust from the other side. If he binds, step close, pull your sword away above and strike his head from the other side. If he parries again, continue to the upper openings with Duplieren or other plays.
+305|Slicing off
+306|Slices (Schnitt) to the hands and arms.
+307|Zettel 93–95: “Cut away the hard ones from below, in two directions. There are four slices: two from below, two from above. Turn your edge; press the hands to get free.”
+309|Coming with an Unterhau or waiting in Alber, if the opponent drops his sword onto yours, stay underneath and lift strongly with the short edge. If he presses hard, slip out from under his blade and strike his mouth from the other side.
+311|If he falls near your hilt and his point goes to your right, quickly pass the pommel over his sword and strike his head with the long edge. If his point goes to your left, strike with the short edge.
+312|Four slices.
+313|The two upper slices are against those who turn to the other side with a Zwerch without parrying: fall on both his arms with the long edge and press. The two lower slices go to the arms of those who raise their arms and run in (Einlaufen).
+315|Passing from the lower slice to the upper slice. Fall on the arm of one running in with the long edge under his pommel and press up. While stepping to his right, pass the pommel under, turn the long edge over his arms without leaving his arm, and push him away.
+319|Hanging and the speaking window
+320|Staying in the bind and reading the opponent.
+321|Zettel 96–99: “Two hangings from one hand, from the ground. In every work: strike, thrust, guard; soft or hard. Make the Sprechfenster; stand freely, find out what he does. Strike so that it springs; from whoever pulls back before you…”
+323|The two hangings from the ground are the Pflug on either side. When bound from below, let your pommel hang toward the ground and thrust at his face from the hanging. If he pushes your point up, stay on the sword, rise with it and hang your point into his face from above. In the hangings apply strike, thrust and slice quickly; test whether he is soft or hard in the bind. The four Winden, and a strike, thrust and slice from each, are done from here.
+325|“The speaking window”: stay in the bind with the long point, stand freely and read what the opponent will do. If he pulls away from the sword, you strike; no one can protect himself without danger.
+328|10 drawings
+329|Running through and wrestling at the sword
+330|Arm locks, throws and hip throws at close range.
+331|Zettel 91–92: “Run through, let it hang with the pommel; grip if you would wrestle. Whoever is strong against you, mark him with Durchlaufen.”
+332|There are two kinds.
+333|Body wrestling and arm wrestling. Used against fencers who like to run in.
+334|Body wrestling.
+335|If the opponent raises his arms and presses down strongly from above, raise your arms too. Hold your sword by the pommel above your head with your left hand, the blade hanging down your back. Go with your head under his right arm and spring behind his right foot with your right foot. Wrap your right arm around the front of his waist, take him onto your right hip and throw him in front of you.
+336|Arm wrestling.
+337|Let go of your sword, turn your right hand over and grip his right hand from outside, hold his right elbow with your left hand. Spring in front of his right foot with your left foot and lift his arm. You can break the arm or throw him over your leg.
+346|Sword taking
+347|Taking the opponent's sword out of his hands.
+348|The sword-taking plays of the Durchlaufen section.
+349|Against an opponent running in.
+350|Turn your left hand over, reach over his right arm and grip his sword by the handle between his two hands. Press it to your left side; you take the sword from him.
+351|In the bind.
+352|If he parries or binds your sword, grip both swords in the middle, by the blades, with your left hand and hold them fast. With your right hand pass your pommel under and in front of his two hands, and press up to your right. Both swords remain with you.
+356|Armoured combat (Kampffechten)
+357|33 drawings
+359|Plays with the spear for a dismounted fighter against a rider.
+360|Kampffechten introduction: “Here begins serious combat on horse and on foot; Liechtenauer's armoured fencing.”
+361|You have dismounted, he has not.
+362|Left foot forward, hold your spear upright on the ground at your right side, point toward him. Whichever side he comes from, turn to that side and deflect his spear with yours.
+363|Against a rider with a sword.
+364|If a rider comes at you with a sword while you are on foot, thrust at his openings with the spear and wait.
+365|Bringing down the horse.
+366|Hold the spear by its far end, point toward the ground in front of you. As the horse approaches, drive the spear between its forelegs, spring aside and try to bring the horse down.
+375|Deflecting the spear with the sword, parrying with the left hand.
+376|Zettel: “Strike long from the left hand, spring wisely and watch whether he would avoid harm; strike so that his openings are harried by the point of the sword.”
+377|You have the sword, he has the spear.
+378|If he holds the spear short and stands in a low guard, stand in a low guard too. If he thrusts from below, deflect the thrust with the sword, left hand forward. Pass the pommel over his right shoulder to his neck, spring behind his left foot with your right foot and pull him over your right knee with the pommel.
+379|Parrying with the left hand.
+380|Go in pushing the spear aside with your left hand and aim your sword point at his openings.
+385|Wrestling in armour: takedowns, pins and arm breaks; finishing with the dagger.
+386|Zettel: “If you would wrestle, learn rightly to spring behind the leg; set a trap before the throw, lock the forward leg with skill.”
+387|The basis.
+388|Above all, know how to spring behind his forward foot and lock that foot.
+389|Throw.
+390|When you close to wrestle, see whether one of his feet is forward. Pull him toward you or push him so that he steps. If he comes forward with his left foot, spring behind his left foot with your right foot and strike the back of his left knee with your right kneecap.
+392|If, when you seize his arms, he braces with his leg straight and stands firm, kick that knee and break his leg. Do not let him catch the foot you kick with.
+393|Pinning and arm breaking.
+394|If he falls face down, sit on his back, bend one arm behind his back and hold it with one hand; he cannot rise. Lift his elbow with the other hand and the arm breaks. If he falls on his back, fall with your body on his face, trap his neck under your arm and pull the arm he reaches out to help himself with your other hand; then he cannot work with the dagger.
+402|Thrusts, counters, sword taking and releases done holding the sword by the middle of the blade.
+403|Half-sword plays of armoured combat: the thrusts go to the gaps in the armour (gauntlet, armpit, face).
+404|From the high guard.
+405|If the opponent thrusts low from below, thrust from above between his sword and his forward hand. Press his pommel to the ground, pass your point under his sword and set it at his right side. If you thrust at his face and he deflects it, go to the other side with Zucken or Durchwechseln.
+406|From the low guard.
+407|If he thrusts from high at your face, thrust at the gauntlet opening of his forward hand or under his left shoulder.
+408|From the third guard.
+409|Deflect the thrust at your face to the right with the sword in front of your left hand and rise into the high guard. Or catch the thrust between your two hands, pass the pommel over his forward hand and pull down.
+410|Thrusting the arm, releases, sword taking.
+411|Thrust at the arm with which he holds the sword by the middle, outside the gauntlet; when the thrust holds, walk toward the ring; you win his side. If he attacks your right shoulder and you have attacked his, step back with your left foot, turn your left side and lift your point; his goes astray. If he thrusts at the same time while you thrust strongly from the low guard, turn your left hand over, grip his sword in the middle, pass your pommel underneath and take his sword.
+429|Holding the sword reversed and striking with the pommel and crossguard.
+430|Zettel: “Guard the forward foot with the strike.”
+431|Pommel strike.
+432|The pommel strikes the limbs the opponent extends forward. Hold your sword above your head in the high guard and feign a thrust at his face. Drive the sword with your right hand and bring your left hand to the middle of the blade to help. With the pommel, strike the knuckles of the forward hand with which he holds his sword.
+433|Other targets.
+434|When it suits, the head, elbows or shoulders are struck too.
+436|Section filter

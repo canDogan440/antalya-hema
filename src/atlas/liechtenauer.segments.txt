@@ -1,0 +1,436 @@
+1|The Recital of the Chivalric Art of Fencing
+2|Liechtenauer
+3|Çizim Atlası
+4|Kitaptaki tüm el yazması çizimleri, gösterdikleri duruşa, kesişe ya da tekniğe göre ayrıldı. Bir çizime tıklayınca büyür; ok tuşlarıyla aynı kategoride ilerleyebilirsin. Her kategorinin başında kitaptaki Zettel beyitleri ve gloss açıklamalarının Türkçe özeti var. Sayfa numaraları kitabın baskı numaralarıdır.
+5|çizim
+6|kategori
+7|ana bölüm
+8|Tümü
+9|Duruşlar
+10|Usta kesişleri
+11|Taktik ve teknikler
+12|Güreş ve kılıç alma
+13|Zırhlı dövüş
+14|Ochs
+15|Pflug
+16|Alber
+17|Vom Tag
+18|Schrankhut
+19|Halbschwert duruşları
+20|Zornhau
+21|Krumphau
+22|Zwerchhau
+23|Schielhau
+24|Scheitelhau
+25|Vier Blößen
+26|Duplieren & Mutieren
+27|Fehler & Verkehrer
+28|Vier Versetzen
+29|Nachreisen & Überlaufen
+30|Absetzen
+31|Durchwechseln & Zucken
+32|Abschneiden
+33|Hängen / Sprechfenster
+34|Durchlaufen & Ringen am Schwert
+35|Schwertnehmen
+36|Atlı ve mızrak oyunları
+37|Mızrağa karşı kılıç
+38|Zırhlı güreş ve yere bastırma
+39|Yarım kılıç oyunları
+40|Topuzla vuruş
+41|Kitabın temel öğretileri
+42|Önce ve Sonra (Vor / Nach).
+43|Zettel 17–20: “Önce ve Sonra, bu iki şey, tüm sanatın kaynağıdır. Zayıf ve Güçlü; ‘Indes’ sözünü bununla birlikte aklında tut. Böylece sanatla çalışmayı ve korunmayı öğrenirsin. Kolay korkarsan hiç eskrim öğrenme.” Gloss'a göre eskrimin bütün temeli bu üç şeydir: Önce/Sonra, kılıcın Zayıf ve Güçlü kısmı ve ‘Indes’ (o anda, aynı anda).
+44|Sağ elli soldan başlamasın.
+45|Zettel 15–16: sağ elliysen ilk vuruşu sol üstten atma. Orası zayıftır ve rakip güçlü bağlanırsa tutamazsın. Sol elli de sağdan başlamamalı.
+46|Beş gizli kesiş.
+47|Zettel 21–22: “Sağ elden beş kesiş öğren.” Bunlar Zornhau, Krumphau, Zwerchhau, Schielhau ve Scheitelhau'dur. Gloss: birçok usta bu kesişler hakkında bir şey bilmez; bunları kıran kişi diğer ustalarca övülür.
+48|On yedi başlık.
+49|Recital'in içeriği sırasıyla: beş kesiş, dört duruş, dört karşılama (Versetzen), Nachreisen, Überlaufen, Absetzen, Durchwechseln, Zucken, Durchlaufen, Abschneiden, Hende drücken, Hängen ve Winden.
+50|Duruşta bekleme.
+51|Üçüncü kaynağın yorumu Liechtenauer'in sözünü aktarır: “Yatan ölüdür, hareket eden hâlâ yaşar.” Duruşlarda uzun kalmak yerine saldırı ve tekniklerle hareket et.
+52|I
+53|Duruşlar (Guard / Leger)
+54|17 çizim
+55|Öküz
+56|Kılıç baş hizasında, kabza başın yanında, uç rakibin yüzüne.
+57|Zettel 68–69: “Yalnızca dört duruş; onlara sarıl, sıradan olanlardan kaç. Ochs, Pflug, Alber, Vom Tag; sana yabancı olmasın.”
+58|Nasıl durulur.
+59|Sol ayak önde, kılıç sağ yanında, kabza başının önünde, başparmak kılıcın altında, uç rakibin yüzüne doğru asılı. Sol Ochs bunun aynasıdır: sağ ayak önde, kılıç sol yanda, kabza yine başın önünde, başparmak altta.
+60|Kökeni.
+61|Üçüncü kaynak Ochs'u “omuzdan gelen üst asılı duruş” (Oberhängen) olarak tanımlar. Dört duruşun hepsi üst ve alt asılılardan doğar.
+62|Neyle kırılır.
+63|Dört Versetzen'e göre Ochs'u Krumphau kırar. Zwerchhau da Ochs'a, yani üst açıklığa vurulur.
+64|[86] The first guard: Ox (both sides)
+65|[59] The first guard is called the ox
+66|Ochs (Ox)
+67|Saban
+68|Kabza bel/kalça hizasında, uç rakibin göğsüne ya da yüzüne.
+69|Zettel 96–97 (Hängen): “İki asılı, tek elden ve yerden gelir. Her işte: vuruş, saplama, duruş; yumuşak ya da sert.”
+70|Sol ayak önde, kılıcı çapraz ellerle tut, topuz aşağıda sağ kalçanda, kısa kenar üstte, uç rakibin yüzüne. Sol tarafta sağ ayak önde, topuz sol kalçada, uzun kenar üstte.
+71|Alt asılılarla bağı.
+72|Hängen bölümüne göre “yerden iki asılı”, iki yandaki Pflug'dur. Bu duruştan çalışırken bağlanmada rakibin yumuşak mı sert mi olduğunu hissetmen (Fühlen) gerekir.
+73|Pflug'u Schielhau kırar. Absetzen de çoğunlukla Pflug'dan yapılır: sol yanına açıklık ver, saplarsa kısa kenarla kılıcına sar ve aynı anda sapla.
+74|[88] The second guard: Plow
+75|[60] The second guard is called the plow
+76|aynı çizim tekrar
+77|Pflug (Plough)
+78|Ahmak
+79|Kollar uzanmış, uç yere doğru indirilmiş davetkâr duruş.
+80|Üçüncü kaynak: “Alber, vurulanı ve saplananı kırar. Asılılarla da savuruşları kır; ardından hemen Nachreisen gelmeli.”
+81|Sağ ayak önde, kollar uzanmış, kılıcın ucu önünde yere doğru.
+82|Alber'i Scheitelhau (tepe kesişi) kırar.
+83|Alber'den çalışma.
+84|Abschneiden bölümüne göre Alber'de beklerken rakip kılıcını seninkinin üstüne düşürürse altta kal ve kısa kenarla güçlü kaldır. Sert bastırırsa bıçağının altından sıyırıp diğer taraftan ağzına vur.
+85|Alber (Fool)
+86|[90] The third guard: Fool
+87|[61] The third guard is called the fool
+88|Çatıdan
+89|Kılıç omuzda ya da başın üstünde, yukarıdan vuruşa hazır.
+90|Zettel 49: “Zwerch, Vom Tag'dan geleni alır.”
+91|Sol ayak önde, kılıç sağ omuzda ya da kollar uzanmış hâlde başının üstünde yüksekte tutulur.
+92|Langort ile ilişkisi.
+93|Üçüncü kaynak şunu söyler: “Dördüncü duruş Vom Tag aynı zamanda uzun uçtur. Kolları uzatarak kullanan, vuruş ve saplamalarla vurulamaz.”
+94|Vom Tag'ı ve yukarıdan inen tüm vuruşları Zwerchhau kırar. Nachreisen için de iyi bir çıkış noktasıdır: Vom Tag'da dur ve rakibin vuruşu kaldırmasını izle.
+95|Vom Tag (high guard)
+96|[91] The fourth guard: From the Day
+97|[62] The fourth guard is called from-the-roof
+98|Bariyer duruşu
+99|Kılıç çaprazlama yere doğru, yandan savunma duruşu.
+100|Gloss: “Krumphau'yu Schrankhut'tan da iki tarafa yapabilirsin.”
+101|Sol ayak önde, kılıç sağ yanında, uç yerde, uzun kenar üstte. Böylece sol yanına bir açıklık verirsin. Sol tarafta sağ ayak önde, kılıç sol yanında çapraz ellerle tutulur ve kısa kenar üstte olur.
+102|Nasıl kullanılır.
+103|Rakip açıklığa vurursa sağ ayakla sağa geniş sıçra ve çapraz ellerle uzun kenarla ellerine vur, uç ellerinin üstüne gelsin. Sol taraftan kısa kenarla ellerinin üstüne vurursun.
+104|Üçüncü kaynak.
+105|Schrankhut uçtan gelir: uç hangi yana istersen yere konur ve böylece Absetzen'e hazırlanırsın. Önündeki uçla yapıldığında “kapı”dan (Pforte) da yapılır. Biri vurur ya da saplarsa Absetzen ile yukarı çıkarken ucunu yakala ve ayaklarına ya da en iyi isabet eden yere vur.
+106|[44] Of the Barrier-Guard
+107|Zırhlı yarım kılıç duruşları
+108|Kısa kılıç (zırhlı dövüş) bölümündeki dört duruş: 1., 2., 3. ve 4. duruş.
+109|Zırhlı dövüşte (Kampffechten) kılıç kısaltılarak tutulur: sağ el kabzada, sol el bıçağın ortasında.
+110|1. duruş (yüksek).
+111|Sol ayak önde, kılıç sağ yanında başının üstünde, uç rakibin yüzüne asılı. Rakip alçak duruştan alttan saplarsa karşılama, yüzüne sapla; Kampffechten'e göre tüm yüksek saldırılar alçak olanları yener.
+112|2. duruş (alçak).
+113|Sol ayak önde, kılıç sağ yanında aşağıda, topuz sağ dizine dayalı, uç rakibin yüzüne ya da göğsüne.
+114|3. duruş.
+115|Sol ayak önde, kılıç sol dizinin üstünden çaprazlama tutulur. Bu duruştan rakibin oyunları karşılayarak kırılır.
+116|4. duruş.
+117|Kabza sağ koltuk altında, balçak göğse dayalı, uç rakibe. Bu duruşa diğer duruşlardan saldırarak gelinir: saplama zırhın açıklığına girince kabzayı hemen göğsüne dayayıp rakibi önünden it, uçtan kurtulmasına izin verme.
+118|[40] First guard with the shortened sword
+119|[50] Second guard with the shortened sword
+120|[70] Third guard with the shortened sword
+121|[75] Fourth guard with the shortened sword
+122|II
+123|Usta kesişleri (Meisterhäue)
+124|37 çizim
+125|Öfke kesişi
+126|Omuzdan atılan güçlü Oberhau; Liechtenauer'in ilk usta kesişi.
+127|Zettel 27–29: “Sana yukarıdan kim vurursa, Zornhau'nun ucu onu tehdit eder. Fark ederse, tehlikesizce üstten al. Karşısında daha güçlü ol, sar, sapla. Görürse, aşağı al.”
+128|Ne?
+129|Omuzdan atılan bir Oberhau'dur. Gloss onu “basit bir köylü vuruşu” diye anar, ama yukarıdan gelen tüm vuruşları uçla kırar. Üçüncü kaynağa göre öfkelenen birine hiçbir vuruş Zornhau kadar hazır gelmez.
+130|Nasıl yapılır.
+131|Rakip sağdan başına vurursa sen de sağdan, karşılamadan, öfkeyle onun kılıcına vur. Bağlanmada yumuşaksa (weich) uzun ucu dümdüz yüzüne ya da göğsüne sal.
+132|Abnehmen.
+133|Ucu fark edip güçlü karşılarsa ve kılıcını kenara iterse kılıcını onun bıçağından üstten çek, diğer taraftan başına vur.
+134|Winden.
+135|Bağlanmada güçlü kalırsa sen de güçlü kal. Kollarını kaldırıp sar ve ucu yüzüne sapla. Bunu da görürse aşağı açıklığa geç.
+136|Karşılıkları.
+137|Rakip Abnehmen yaparsa üstten uzun kenarla güçlü bağlan ve başına git. Ya da kısa kenarla kılıcına biraz sarıp uzun kenarla başına vur, ya da vuruştan yana çıkıp en yakın açıklığa çalış.
+138|[19] Mark. Here begins the text and the gloss.
+139|[16] This is the wrath-cut with its plays
+140|[38] This is about the Zornhau (wrath strike)
+141|[17] Again a play from the wrath-cut
+142|This is about the Zornhau (devam)
+143|[27] This is the text and the gloss on yet another of the Wrath-hew
+144|Eğri kesiş
+145|Çapraz adımla ellere/kılıca inen eğri kesiş; Ochs'u kırar.
+146|Zettel 42–45: “Çevikçe eğri vur, ucu ellere at. Krump'u adımla iyi koyan çok vuruşu bozar. Ustaları zayıflatmak istersen düzlerine eğri vur. Yukarıda çaktığında kenara çekil; bunu övüyorum.”
+147|Yana iyi bir adımla eğri atılan bir Oberhau'dur. Dört Versetzen'den biridir: Ochs'u ve ayrıca Oberhau ile Unterhau'yu kırar.
+148|Rakip sol tarafında Ochs'ta durursa sol ayağını öne al, kılıcı sağ omzunda tut. Sağ ayakla sağına geniş sıçra ve çapraz kollarla uzun kenarla ellerinin üstüne vur, ucu kabzasının üstünden ellerine at.
+149|Yana alma.
+150|Sağdan yukarıdan açıklığına keserse sağ ayakla sol yanına adım at, kılıcını onunkinin üstüne koy, ucun yerde Schrankhut'ta kalsın. Bu iki tarafa da yapılır ve buradan başına vurulabilir.
+151|[43] This is about the Krumphau
+152|This is the text and the gloss of the Crooked Hew with its techniques (devam)
+153|[30] Again a play from the crooked-cut
+154|[31] Again a play from the crooked-cut
+155|This is the text and the gloss of yet another from the Crooked-hew (devam)
+156|Çapraz (yatay) kesiş
+157|Kabza başın üstünde, yatay gelen kesiş; Vom Tag'ı kırar. Karşılık (Bruch) çizimleri de dahil.
+158|Zettel 49–52: “Zwerch, Vom Tag'dan geleni alır. Güçlüyle zwerch'le, işini bununla yap. Pflug'a zwerch, Ochs'a sert bağla. İyi zwerch'lediğinde sıçrayışla başına zarar verirsin.”
+159|Üçüncü kaynağa göre kılıçla yapılan hiçbir vuruş Zwerchhau kadar adil, güçlü ve iyi değildir. Her iki kenarla, iki taraftan, yukarı ve aşağı tüm açıklıklara vurulur. Vom Tag'dan ve yukarıdan gelen her şeyi savar.
+160|Sol ayak önde, kılıç sağ omuzda. Rakip yukarıdan vurmakla tehdit ederse önce davran: sağ ayakla sağa iyi sıçra. Sıçrarken kılıcı kabza başının önünde olacak şekilde çevir, başparmağın alta gelsin, kısa kenarla sol başına vur. Böylece onun kesişini kabzanda yakalar ve aynı anda başına vurursun.
+161|Dört açıklığa.
+162|Pflug alt açıklıklar, Ochs üst açıklıklar demektir. Zwerch ile dört açıklığın hepsine çalışılır.
+163|Yorum.
+164|Hayatı için dövüşen biri ilk vuruşu (Vorschlag) iyi bir Zwerchhau ile almalıdır: ulaşabileceği an sağ üstten arka kenarla doğrudan başa, ucu bir kayış gibi rakibin kılıcının etrafına dolayarak.
+165|Here begins the text and the gloss of the Thwart Hew with its techniques (devam)
+166|[52] Here mark the break against the Thwart Hew
+167|[53] Break against the Thwart (Zwerch)
+168|[54] Here mark the break against the Upper-slice on the arm
+169|Here mark the break against the Upper-slice on the arm
+170|[40] Here note the break against the upper thwart-cut
+171|[41] Here note the break against the low thwart-strike
+172|[59] This is the text and the gloss of yet a technique from the Thwart hew
+173|[65] This is the text and the gloss of the Thwart strike to the Four Openings
+174|[42] This is the text and the gloss: How one shall strike with the thwart to the four openings
+175|[43] Again a play from the thwart-cut
+176|[68] Here mark a break against the lower Thwart strike
+177|Break against the Thwart
+178|Şaşı kesiş
+179|Uzun kenarın sırtıyla atılan kesiş; Pflug'u ve Langort'u kırar.
+180|Zettel 58–62: “Schieler, Büffel'in (kaba güçle dövüşenin) vurduğunu ya da sapladığını kırar. Değiştirmekle tehdit edeni Schieler soyar. Kısa kalırsa şaşı bak, Durchwechseln onu yener. Uca şaşı vur, boğazı korkusuzca al. Üst başa şaşı vur, ellere zarar vermek istersen.”
+181|Sağ üstten kılıcın arka (kısa) kenarıyla atılan bir vuruş. Şaşı biri gibi sola bakarken sağa adım atılır, kılıç ve el ters çevrilir. Pflug'u ve Langort'u kırar. Gloss'a göre birçok usta bu vuruştan habersizdir.
+182|Sol ayak önde, kılıç sağ omuzda. Başına yukarıdan vurursa kılıcı çevir ve onun vuruşuna karşı kısa kenarla, kollar uzanmış hâlde, kılıcının üstünden başına uzun vur. Böylece karşılama ve vuruş tek harekettir.
+183|Pflug'a karşı.
+184|Rakip Pflug'da durup alttan saplamak isterse uzun bir Schielhau ile içeri gir ve ucu uzun göğsüne sal; alttan sana ulaşamaz.
+185|Durchwechseln'e karşı.
+186|Rakip altından geçmeye kalkarsa ucu uzun önüne bırak, geçemesin.
+187|[77] Here mark how one shall do the Squinter-hew
+188|This is the text and the gloss of the squint-cut and of the plays: How a man shall execute them (devam)
+189|[79] This is the text and the gloss of a lesson of the Squinter
+190|[50] This is the text and the gloss of yet another play from the squinter
+191|[81] This is the text and the gloss of how one breaks the Long Point with the Squinter
+192|[52] This is the text and the gloss of yet another play from the squint-cut
+193|[82] This is the text and the gloss of yet a technique from the Squint Hew
+194|[53] This is the text and the gloss of yet another play from the squint-cut
+195|Tepe kesişi
+196|Tepeden dikey kesiş; Alber'i kırar. Krone (taç) ve kesik karşılıkları dahil.
+197|Zettel 63–67: “Scheitler yüze tehlikelidir; dönüşüyle göğse de. Ondan geleni Krone alır. Krone'yi kesikle kes, böylece sertçe kırarsın. Vuruşa bastır, kesiklerle çekil.”
+198|Tepeden dikey kesiş. Alber'i kırar ve dönüşüyle yüze ve göğse çok tehlikelidir.
+199|Rakip Alber'deyse sol ayak önde, kılıç sağ omuzda dur, ona doğru sıçra ve uzun kenarla yukarıdan güçlü vur. Kolların yüksek kalsın. Karşılarsa ucu kabzasının üstünden yüzüne as.
+200|Dönüş.
+201|Ucunu kabzasıyla yukarı iterse kılıcını kabza başının önüne gelecek şekilde çevir, başparmak altta olsun, ucu ellerinin altından göğsüne koy.
+202|Krone ve kırılışı.
+203|Rakip kabza ve uç başının üstünde olacak şekilde karşılarsa buna Krone denir; bununla içeri koşar. Karşılık olarak kılıcını Krone'nin altından kollarına kesikle sar ve bastır, sonra kesikle geri çekil.
+204|[54] This is the text and the gloss about the parter, and about the plays thereof
+205|Here begins the text and the gloss of the Parting-Hew
+206|[57] This is the text and the gloss: how the slice breaks the crown
+207|III
+208|41 çizim
+209|Dört açıklık
+210|Hedef alınacak dört bölge.
+211|Zettel 36–37: “Dört açıklığı bil; onları hedef al, bilerek isabet edersin. Her işte, onun ne yaptığına aldırmadan.”
+212|Tepeden kasığa dikey bir çizgi ve kemer hizasında yatay bir çizgi düşün. Sağ ve sol üst ile sağ ve sol alt olmak üzere dört açıklık çıkar. Her birinin kendi tekniği vardır; teknikler kılıca değil hep açıklığa gider.
+213|Nasıl aranır.
+214|İki yolu var: ön dövüşte (Zufechten) Nachreisen ve uzun ucu salarak; bağlanmada ise sekiz Winden ile.
+215|Neden önemli.
+216|Korkmadan, vuruş ya da saplamayla açıklığa git; böylece rakip karşılamak zorunda kalır. Karşıladığı anda Winden ile yine en yakın açıklığı ara. Kılıca dövüşme, açıklığa dövüş.
+217|[41] This is about the four openings
+218|Four openings (devam)
+219|İkileme ve dönüştürme
+220|Bağlanmadan (Bind) sonra kılıcın arkasından vurma ya da ucu çevirip saplama.
+221|Zettel 38–41: “Dört açıklığı ustaca kırmak istersen: üstte Duplieren, altta doğru Mutieren yap. Sana doğrusunu söylüyorum: kimse kendini tehlikesizce koruyamaz. Bunu anladıysan, rakip vuruşa pek gelemez.”
+222|Duplieren.
+223|Sağdan yukarıdan vur. Rakip karşılayıp kılıçta güçlü kalırsa o anda kollarını kaldır, sol elinle topuzu sağ kolunun altından geçir ve çapraz kollarla uzun kenarla onun bıçağının arkasından başına vur. Soldan bağlanmada aynı şeyi kısa kenarla yaparsın.
+224|Mutieren.
+225|Karşılar ama kılıçta yumuşaksa kısa kenarla kılıcına sol tarafa sar, kollarını iyice kaldır, bıçağını onun kılıcının üstünden aşırıp alt açıklığa sapla.
+226|Kural.
+227|Rakibin güçlüsüne karşı üst açıklığa Duplieren, yumuşaksa alt açıklığa Mutieren. Gloss: bu ikisi tüm kesişlerden, kılıçta zayıfı ve güçlüyü buldukça yapılır.
+228|[38] Here mark how you shall drive the Doubling to both sides
+229|Doubling
+230|[39] Another
+231|[40] Here mark how one shall drive the Mutating to both sides
+232|Mutating
+233|Aldatma ve çevirici
+234|Sahte saldırılar (Fehler) ile dirsek tutup atma içeren Verkehrer oyunları.
+235|Zettel 53–57: “Fehler yanıltır; alttan dilediğin gibi vur. Verkehrer zorlar; Durchlaufen ile, güreşle de. Dirseği bilerek al, teraziye sıçra. İki kez aldat; biri isabet ederse kesikle devam et. Daha da ikile; sola gir ve tembel olma.”
+236|Fehler.
+237|Karşılamayı seven ve kılıca (bedene değil) dövüşenlere karşı. Serbest bir Oberhau ile başına vuracakmış gibi yap, vuruşu çek ve Zwerch ile sol ya da sağ alt açıklığa vur. Kabzanla başının üstünü koru.
+238|Çifte Fehler.
+239|İlk aldatmayı bir tarafa göster, ikinciyi diğer tarafa, isabet edeni kesikle bitir.
+240|Verkehrer.
+241|Eskrimciler buna “yarım vuruş” ya da “çevrik vuruş” der. Ters çevrilmiş uzun kenarla sağdan yukarı ve aşağı yarım vuruşlar atarak yaklaş. Kılıcına bağlandığında ucu üstten yüzüne as. Saplamayı karşılayıp kollarını yukarı kaldırırsa altından geç (Durchlaufen), dirseğini kavra ve güreşle at.
+242|[45] This is the text and the gloss of yet another play from the thwart-cut, and is called the failer
+243|This is the text and the gloss of yet another play from the thwart-cut, and this is called the inverter (devam)
+244|The Inverter (Verkehrer)
+245|This is the text and the gloss of the technique that is called the Inverter (devam)
+246|[47] This is the text and the gloss of a failer
+247|This is the text and the gloss of yet another Failer
+248|[48] This is the text and the gloss of yet another play from the failer
+249|Dört karşılama
+250|Savuşturulduğunda ne yapılacağı; kabza ile kilitleme, yarım kılıç.
+251|Zettel 70–73: “Dört Versetzen vardır, duruşları da ağır yaralar. Karşılamaktan sakın; olursa seni çok sıkıştırır. Karşılanırsan, nasıl olursa olsun, öğrettiğimi dinle: sıyırıp çek, çabuk vur.”
+252|Dört Versetzen = dört kesiş.
+253|Krumphau Ochs'u, Zwerchhau Vom Tag'ı, Schielhau Pflug'u, Scheitelhau Alber'i kırar.
+254|Sıradan karşılamaktan sakın.
+255|Sıradan eskrimciler ucu yukarıya ya da yana tutarak karşılar; ucu açıklıkta tutmayı bilmedikleri için sık vurulurlar. Karşılayacaksan vuruşla ya da saplamayla karşıla ve aynı anda (Indes) ucu en yakın açıklığa yönelt. “O vurursa sen de vur, saplarsa sen de sapla.”
+256|Karşılandığında.
+257|Çizimlerdeki karşı oyunlar: topuzu rakibin öndeki elinin üstünden geçirip bileğini çekmek, kılıcını yere bastırıp yarım kılıçla yüzüne saplamak. Rakip kılıcına düşerse topuzu onun kılıcının üstünden geçirip başına vurmak (Schnappen).
+258|Ansetzen.
+259|Zettel 74: “Dört uca saldır; bitirmek istersen orada kalmayı öğren.” Ochs ya da Pflug'da dur. Rakip vurmak için kaldırırken ya da saplamak için çekerken önce davran, uzun ucu en yakın açıklığa sal.
+260|[99] This is the text and the gloss on what you shall drive against him when one has parried you
+261|This is about the four displacements (devam)
+262|This is the text and the gloss of a play against the parrying (devam)
+263|[70] Yet another play against the parrying
+264|Play against the parrying
+265|[71] This is the text and the gloss of yet another play against the parrying
+266|[72] This is the text and the gloss of yet another play against the parrying
+267|Takip ve üstten aşma
+268|Rakibin hareketinin ardından hemen girmek; alçak hedef alana üstten vurmak.
+269|Zettel 75–82: “Nachreisen'i öğren, iki türlü, ya da silaha kesikle. İki dış alış; işine başla. Saldırıları yumuşak mı sert mi sına. Fühlen'i öğren; Indes keskin keser. Çifte Nachreisen; biri isabet ederse eski kesiği yap. Alttan hedef alanı üstten aş; utanır. Yukarıda çaktığında güçlen, bunu överim.”
+270|Nachreisen.
+271|Rakip vurmak için kılıcını kaldırırken, kesişi inmeden önce vuruş, kesik ya da saplamayla üst açıklığına git. Ya da uzun kenarla koluna düş ve onu kendinden it. Saplamak için kılıcını çektiği an da peşinden git ve saplamasını bitirmeden onu sapla.
+272|Dış alışlar ve Fühlen.
+273|Bağlanmada rakibin yumuşak mı sert mi olduğunu hisset. Indes sözü burada keskindir: hissettiğin an davran.
+274|Überlaufen.
+275|Alt açıklığına vurana karşılık verme, yukarıdan güçlüce başına vur ya da uzun ucu yüzüne ya da göğsüne koy. Gloss: tüm üst saldırılar alttakileri kırar. Yukarıda bağlanırsa uzun kenarla güçlü kal ve en yakın açıklığa çalış.
+276|[109] Drive the Travelling-after thus
+277|[110] This technique described hereafter is called the Outside Manner
+278|This is from the Nachreissen (devam)
+279|[117] Here mark the text and the gloss of yet a Travelling-after
+280|[80] This is yet another play text and gloss about traveling-after
+281|[81] This is the text and the gloss about running-over
+282|Saptırma
+283|Gelen kesiş ve saplamaları uçla saptırıp aynı anda saplamak.
+284|Zettel 83–85: “Absetzen'i öğren; vuruşları ve saplamaları ustaca boz. Sana kim saplarsa, senin ucun isabet eder, onunki kırılır. İki taraftan, adım atacaksan her seferinde vur.”
+285|Rakip saplayacakmış gibi duruyorsa sol ayak önde, sağ tarafta Pflug'da dur ve sol yanına açıklık ver. O açıklığa saplarsa kısa kenarla kılıcına sar ve kılıcın sol yanında kalsın. Böylece saplamayı saptırırsın. Aynı anda sağ ayakla adım atıp yüzüne ya da göğsüne sapla.
+286|Yukarıdan gelen vuruşa.
+287|Sağ Pflug'da dururken sol başına vurursa kılıcı kaldır, kabza başının önünde olacak şekilde vuruşuna karşı sar, sağ ayakla adım at ve yüzüne ya da göğsüne sapla. Bu iki taraftan da yapılır.
+288|Özü.
+289|Karşılama ve saldırı tek harekettir: onun ucu saparken seninki isabet eder.
+290|[120] Here mark, this is the text and the gloss on how one shall Set-off stabs and hews
+291|[82] This is the text and the gloss: how one shall set-aside cuts and thrusts
+292|[121] Another technique
+293|[83] Yet another play from setting-aside
+294|İçinden geçiş ve geri çekme
+295|Bağlanmadan ucu alttan geçirmek ya da kılıcı çekip yeniden vurmak.
+296|Zettel 86–90: “Durchwechseln'i iki taraftan öğren, saplamalarla sert. Sana kim bağlanırsa Durchwechseln onu çabuk bulur. Bağlanmada yakın adım at; Zucken iyi fırsat verir. Çek; isabet ederse daha çek. Ustaları aldatmak istersen tüm isabetlerde çek.”
+297|Durchwechseln.
+298|Kolay karşılayan ve kılıca vuran eskrimcilere karşı. Yukarıdan güçlü vur. Rakip senin kılıcına vurursa, bağlanmadan önce ucu onun kılıcının altından geçir ve diğer taraftan göğsüne sapla. Saplamayı görüp karşılarsa yine geç. Bunu dikkatle yap ki geçerken sana uç koyamasın.
+299|Zucken.
+300|Sert bağlanıp hareketsiz bekleyen, senin çekilmeni kollayan ustalara karşı. Sağdan başına güçlü vur. Karşılamak için kılıcını öne sürerse, bağlanmadan önce kılıcını kendine çek ve diğer taraftan sapla. Bağlanırsa yakın adım at, kılıcını üstten çek ve diğer taraftan başına vur. Yine karşılarsa Duplieren ya da başka oyunlarla üst açıklıklara devam et.
+301|[125] Drive the Changing-through thus
+302|This is the text and the gloss about Changing-through
+303|This is from the Durchwechsel (devam)
+304|[87] This is the text and the gloss about pulling
+305|Kesip alma
+306|Ellere ve kollara kesik (Schnitt).
+307|Zettel 93–95: “Sertleri alttan, iki yönde kes. Dört kesik vardır: ikisi alttan, ikisi üstten. Kenarını çevir; kurtulmak için elleri bastır.”
+308|Abschneiden.
+309|Unterhau ile gelirken ya da Alber'de beklerken rakip kılıcını seninkinin üstüne düşürürse altta kal ve kısa kenarla güçlü kaldır. Sertçe bastırırsa bıçağının altından sıyrıl ve diğer taraftan ağzına vur.
+310|Schnappen.
+311|Kabzanın yakınına düşüp ucu sağına giderse topuzu çabucak kılıcının üstünden geçir ve uzun kenarla başına vur. Ucu soluna giderse kısa kenarla vur.
+312|Dört kesik.
+313|İki üst kesik, karşılamadan Zwerch ile öbür tarafa dönenlere karşıdır: iki kolunun üstüne uzun kenarla düşüp bastır. İki alt kesik, kollarını kaldırıp içeri koşanların (Einlaufen) kollarınadır.
+314|Hende drücken.
+315|Alt kesikten üst kesiğe geçmek. İçeri koşanın koluna, topuzunun altından uzun kenarla düş ve yukarı bastır. Sağına adım atarken topuzu alttan geçir, kılıcı kolundan ayırmadan uzun kenarla kollarının üstüne çevir ve kendinden it.
+316|[75] Abschneiden (cutting off)
+317|This is the text and gloss about slicing-away (devam)
+318|Slicing-away
+319|Asılı duruş ve konuşan pencere
+320|Bağlanmada kalıp rakibi okumak.
+321|Zettel 96–99: “İki asılı tek elden, yerden gelir. Her işte: vuruş, saplama, duruş; yumuşak ya da sert. Sprechfenster yap; serbestçe dur, ne yaptığını araştır. Öyle vur ki sıçrasın; senden önce çekilenden…”
+322|Hängen.
+323|Yerden iki asılı, iki yandaki Pflug'dur. Alttan bağlandığında topuzunu yere doğru as ve asılıdan yüzüne sapla. Ucunu yukarı iterse kılıçta kal, onunla yukarı çık ve ucu yukarıdan yüzüne as. Asılılarda vuruş, saplama ve kesiği hızla uygula; bağlanmada yumuşak mı sert mi olduğunu yokla. Dört Winden ve her birinden bir vuruş, saplama, kesik buradan yapılır.
+324|Sprechfenster.
+325|“Konuşan pencere”: uzun uçla bağlanmada kal, serbestçe dur ve rakibin ne yapacağını oku. Kılıçtan çekilirse vurursun; kimse kendini tehlikesizce koruyamaz.
+326|[154] The Speaking-Window
+327|IV
+328|10 çizim
+329|Altından geçme ve kılıçlı güreş
+330|Yakın mesafede kol kilitleri, atışlar ve kalçadan savurma.
+331|Zettel 91–92: “İçinden koş, topuzla asılı bırak; güreşmek istersen kavra. Sana karşı güçlü olanı Durchlaufen ile işaretle.”
+332|İki türü vardır.
+333|Beden güreşi ve kol güreşi. İçeri koşmayı seven eskrimcilere karşı kullanılır.
+334|Beden güreşi.
+335|Rakip kollarını yukarı kaldırıp güçle yukarıdan bastırırsa sen de kollarını kaldır. Kılıcını sol elinle topuzdan başının üstünde tut, bıçak sırtına doğru sarksın. Başınla sağ kolunun altından geç, sağ ayakla sağ ayağının arkasına sıçra. Sağ kolunu belinin önünden dola, sağ kalçana al ve önüne at.
+336|Kol güreşi.
+337|Kılıcını bırak, sağ elini ters çevirip sağ elini dışarıdan kavra, sol elinle sağ dirseğini tut. Sol ayakla sağ ayağının önüne sıçra ve kolunu kaldır. Kolu kırabilir ya da bacağının üstünden atabilirsin.
+338|[132] The Running-through, drive the first of that thus
+339|This is the text and the gloss about running-through
+340|[133] Yet another body wrestling
+341|[89] This is yet another play about running-through
+342|[134] Yet another body wrestling
+343|[135] Yet another body wrestling
+344|[92] Yet another wresting at the sword
+345|[93] Yet another wresting at the sword
+346|Kılıç alma
+347|Rakibin kılıcını elinden almak.
+348|Durchlaufen bölümünün kılıç alma oyunları.
+349|İçeri koşan rakibe.
+350|Sol elini ters çevir, sağ kolunun üstünden geç ve kılıcını iki elinin arasından kabzadan kavra. Sol yanına bastır; kılıcı ondan alırsın.
+351|Bağlanmada.
+352|Karşılar ya da kılıcına bağlanırsa iki kılıcı ortadan, bıçaklardan sol elinle kavra ve sıkı tut. Sağ elinle topuzu alttan iki elinin önünden geçir, sağına yukarı bastır. İki kılıç sende kalır.
+353|[141] A sword taking
+354|[96] This is yet another sword taking
+355|V
+356|Zırhlı dövüş (Kampffechten)
+357|33 çizim
+358|Ross / Spieß
+359|Attan inmiş savaşçının atlıya karşı mızrakla oyunları.
+360|Kampffechten girişi: “Burada atlı ve yaya ciddi dövüş başlar; Liechtenauer'in zırhlı eskrimi.”
+361|Attan indin, o inmedi.
+362|Sol ayak önde, mızrağını sağ yanında yere dik tut, ucu ona dönük. Hangi taraftan gelirse o tarafa dön ve mızrağınla onunkini saptır.
+363|Kılıçla gelen atlıya.
+364|Yayayken atlı kılıçla üzerine gelirse mızrakla açıklıklarına sapla ve bekle.
+365|Atı devirmek.
+366|Mızrağı en uzak ucundan, ucu yere doğru önünde tut. At yaklaşınca mızrağı ön bacaklarının arasına sok, yana sıçra ve atı devirmeyi dene.
+367|[5] This is the first play
+368|First play (on horse vs on foot)
+369|[6] Yet one play
+370|[8] Yet another play
+371|[9] Yet another play
+372|Yet another play (lance vs rider)
+373|[13–14] Throwing the horse / combat wrestling
+374|Spieß gegen Schwert
+375|Kılıçla mızrağı saptırma, sol elle karşılama.
+376|Zettel: “Sol elden uzun vur, akıllıca sıçra ve bak, zarardan kaçınmak istiyor mu; vur ki açıklıkları kılıcın ucuyla taciz edilsin.”
+377|Kılıç sende, mızrak onda.
+378|Mızrağı kısa tutup alçak duruşta durursa sen de alçak duruşta dur. Alttan saplarsa saplamayı kılıçla, sol elin önde olacak şekilde saptır. Topuzu sağ omzunun üstünden boynuna geçir, sağ ayakla sol ayağının arkasına sıçra ve topuzla sağ dizinin üstünden çek.
+379|Sol elle karşılama.
+380|Mızrağı sol elle yana iterek gir ve kılıcın ucunu açıklıklarına yönelt.
+381|[21] Sword against lance
+382|[22] Displacing with the left hand against the lance
+383|[23] Another play
+384|Kampfringen / Unterhalten
+385|Zırhta güreş, yere düşürme, bastırma ve kol kırma; hançerle bitiriş.
+386|Zettel: “Güreşeceksen bacağın arkasına sıçramayı doğru öğren; atmadan önce tuzak kur, ön bacağı ustaca kilitle.”
+387|Temel.
+388|Her şeyden önce onun öndeki ayağının arkasına doğru sıçramayı ve o ayağı kilitlemeyi bil.
+389|Atış.
+390|Güreşe girince bir ayağı önde mi diye bak. Adım atması için onu kendine çek ya da it. Sol ayakla öne gelirse sağ ayakla sol ayağının arkasına sıçra ve sağ diz kapağınla sol diz arkasına vur.
+391|Mordstoß.
+392|Kollarından kavradığında ayağını düz uzatıp sağlam durursa o dizine tekme at ve bacağını kır. Tekme attığın ayağı yakalamasına izin verme.
+393|Bastırma ve kol kırma.
+394|Yüzüstü düşerse sırtına otur, bir kolunu sırtına bük ve tek elle tut; kalkamaz. Diğer elle dirseğini yukarı kaldırırsan kol kırılır. Sırtüstü düşerse gövdenle yüzüne düş, boynunu kolunun altına kıstır ve kendine yardım etmek için uzattığı kolu diğer elinle çek; böylece hançerle çalışamaz.
+395|[15] This is one wrestling
+396|[32] A wrestling and a murder thrust
+397|[35] A hold down and an arm break
+398|[37] Yet a hold down
+399|[99] Another (hold down)
+400|[100] Another (hold down)
+401|Halbschwert-Stücke
+402|Kılıcın ortasından tutularak yapılan saplamalar, karşılıklar, kılıç alma ve kurtulmalar.
+403|Zırhlı dövüşün yarım kılıç oyunları: saplamalar zırhın açıklıklarına (eldiven, koltuk altı, yüz) gider.
+404|Yüksek duruştan.
+405|Rakip alçaktan alttan saplarsa yukarıdan, onun kılıcı ile öndeki elinin arasına sapla. Topuzu yere bastır, ucunu kılıcının altından geçirip sağ yanına koy. Yüzüne saplarsan ve savuşturursa Zucken ya da Durchwechseln ile diğer tarafa geç.
+406|Alçak duruştan.
+407|Yüksekten yüzüne saplarsa öndeki elinin eldiven açıklığına ya da sol omzunun altına sapla.
+408|Üçüncü duruştan.
+409|Yüzüne saplamayı sol elinin önünde kılıçla sağına saptır ve yüksek duruşa çık. Ya da saplamayı iki elinin arasında karşıla, topuzu öndeki elinin üstünden geçirip aşağı çek.
+410|Kolu sapla, kurtulmalar, kılıç alma.
+411|Kılıcı ortadan tuttuğu kolunu eldivenin dışından sapla, saplama tutunca halkaya doğru yürü; yanını kazanırsın. Sağ omzuna saldırıp sen de onunkine saldırdıysan sol ayakla geri adım at, sol yanını çevir, ucunu kaldır; onunki boşa gider. Alçak duruştan güçlü saplarken aynı anda saplarsa sol elini ters çevirip kılıcını ortadan kavra, topuzu altından geçir ve kılıcını al.
+412|[42] Yet one play
+413|[44] This is yet one play
+414|[33] Grabbing each other's swords
+415|[45] The first counter against the play
+416|[51] First play from the low guard
+417|[52] The second play
+418|[54] Counter it thus
+419|[55] The fourth play
+420|[65] The 11th play is a sword taking
+421|[43] Thrust from the lower guard, pommel over the neck
+422|[69] Striking with the pommel
+423|[71] The first play
+424|[73] Yet a play
+425|[86] Another
+426|[87] Yet a release
+427|[88] Yet a release
+428|Mordschlag / Knopf
+429|Kılıcı tersten tutup topuz (pommel) ve balçakla vurmak.
+430|Zettel: “Vuruşla ön ayağı koru.”
+431|Topuzla vuruş.
+432|Topuzla rakibin öne uzattığı uzuvlara vurulur. Kılıcını yüksek duruşta başının üstünde tut ve yüzüne saplayacakmış gibi yap. Sağ elinle kılıcı sür, sol elini yardım için bıçağın ortasına getir. Topuzla kılıcı tuttuğu öndeki elinin parmak eklemlerine vur.
+433|Diğer hedefler.
+434|Uygun düştüğünde başa, dirseklere ya da omuzlara da vurulur.
+435|[97] Strike with the pommel
+436|Bölüm filtresi

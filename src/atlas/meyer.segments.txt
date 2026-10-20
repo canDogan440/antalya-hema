@@ -1,0 +1,396 @@
+1|Joachim Meyer, 1570
+2|Uzun kılıç (Garber & Chidester taslak çevirisi)
+3|Çizim Atlası
+4|Meyer'in gravürlerindeki sahneler duruş, kesiş ve tekniğe göre ayrıldı. Bir görsele tıklayınca büyür. Duruş, kesiş, el işi ve güreş sahnelerinin yanında kitaptan alınmış Türkçe açıklamalar var. Sayfa numaraları PDF sayfasıdır.
+5|görsel
+6|kesilmiş sahne
+7|farklı gravür
+8|Tümü
+9|Duruşlar
+10|Kesişler
+11|Bağlama ve el işi
+12|Güreş ve kavrama
+13|Diğer sahneler
+14|Tam plakalar
+15|Kitabın temel öğretileri
+16|Üç bölüm.
+17|Meyer her eskrim dizisini üçe ayırır: girişte duruşlar ve kesişlerle saldırırsın (Zufechten), ortada el işiyle (Handarbeit) rakibi sıkıştırırsın, sonunda yaralanmadan geri çekilirsin (Abzug). Bunları alfabe harflerine benzetir: her harfi bilirsen, durum ne isterse onu yazarsın.
+18|Önce, Sonra, Aynı anda, Indes.
+19|Önce (Vor): ilk saldıran sensin ve rakibi yalnızca karşılamaya zorluyorsun. Sonra (Nach): rakip seni bastırıyor. Aynı anda (Gleich): ikiniz aynı anda kesiyorsunuz. Indes: sol açıklığa vururken sağdakini de görmek, hamle yaparken rakibin nereden gelebileceğini algılamak. Meyer'e göre Sonra'dan Önce'ye geçmenin yolu Indes'tir.
+20|Karşılama (Versetzen) iki türlüdür.
+21|Korkuyla, avantaj aramadan yalnızca silahı arada tutmak birinci türdür; alışkanlık hâline gelirse zararlıdır. Asıl iyisi aynı anda karşılamak ve vurmaktır: eski ustaların sözüyle “Doğru eskrimci karşılamaz; rakip keserse o da keser, adım atarsa o da atar, saplarsa o da saplar.” Schielhau, Glitzhau, Kronhau ve Zwerch gibi ters kesişler tam bunun için icat edilmiştir.
+22|Dört açıklık egzersizi.
+23|Uzun uçtan başla. Sol üst, sağ alt, sol alt ve sağ üst açıklığa sırayla, adımlarıyla birlikte, hızla kes ve Zwerch ile çekil. Sonra sırayı değiştir. Önce uzun kenarla, sonra yarım kenarla, sonra yassı yüzle çalış. Kesiş çizgileri diyagramı bu sırayı gösterir.
+24|Adımlar.
+25|Her vuruşun kendi adımı vardır ve vuruşla aynı anda atılır. Eskilerin on ikinci kuralı: vuruştan sonra adım atan, sanatından pek sevinç bulmaz. Adımlar ileri-geri, yana (üçgen adımı) ve kırık (gizli) adımlar olmak üzere üçe ayrılır.
+26|Duruşlarda bekleme.
+27|Duruşlar beklemek için değil, vuruşu kaldırdığın en uç noktayı adlandırmak için vardır. Örneğin Oberhau'yu kaldırınca ulaştığın en üst nokta Vom Tag'dır. Orada göz açıp kapayıncaya kadar durup daha iyi bir fırsat varsa vuruşu başka bir kesişe, örneğin Zwerch'e çevirirsin.
+28|I
+29|Duruşlar (Huten)
+30|11 görsel
+31|Meyer dört ana duruş sayar (Ochs, Pflug, Tag, Alber) ve diğerlerinin onlardan doğduğunu söyler: Zornhut, Langort, Wechsel, Nebenhut, Eisenport, Hangetort, Schlüssel ve Einhorn. Rakip de dört bölgeye ayrıldığı için dört ana duruş ve dört açıklık vardır.
+32|Langort
+33|Langort — sağdaki büyük figür uzun uçla duruyor
+34|Çizimde: sağdaki büyük figür uzun uçla duruyor
+35|Nasıl durulur.
+36|Sol ayak önde, kollar uzanmış hâlde silahı yüzünün önünde uzun tut, ön ucun rakibin yüzüne doğru gitsin.
+37|Brechfenster.
+38|Meyer'e göre eski ustalar Langort'a Brechfenster derdi, çünkü diğer bütün oyunlar ondan kırılabilir. Langort “tüm bağlanmaların sonudur”.
+39|Langort'tan oyunlar (s.101–103).
+40|Oberhau ile bağlan; kılıcını kaldırdığı an iki kolunun arasından alttan çenesine kes. Bağlanmada Rose ile alttan kır ve kısa kenarı diğer tarafa at. Bağlanmada sol elini topuzdan bırakıp onun bıçağını kavra, sağ elini kabzayla alttan geçir ve yukarı sağa vurarak kılıcını al. Uzun kılıçla bağlanırsa hızla altından geç ve zayıfı yatay kulağına fiskele.
+41|Aynı figür, başka bir an.
+42|Zornhut dizisinin sonunda (s.84) ters yassı yüzle soldan sağ kulağa, orta çizgiden yatay vuruş da “A plakasında sağdaki büyük figür” ile gösterilir.
+43|Ochs
+44|Ochs — soldaki büyük figür
+45|Çizimde: soldaki büyük figür
+46|Ochs üst bölüme aittir ve sağ ile sol olmak üzere ikiye ayrılır. Sağ Ochs: sol ayak önde, kabza başının yanında sağda yüksekte, ön uç rakibin yüzüne. Sol Ochs: sağ ayak önde, kabza başının solunda.
+47|Ortadaki Ochs (s.87–90).
+48|Sturzhau ile yaklaşırken ucu rakibe tutarsan buna Ochs denir; saldırı için özellikle iyi bir duruştur. Dört ana çizginin herhangi birinden saldır, sonra aynı çizginin karşı yönünden kes.
+49|Örnek dizi.
+50|Ulaşır ulaşmaz büyük bir sağ ayak adımıyla sol kulağa güçlü Zornhau. Değince geri çekip uzun kenarla sağ koluna kes; sol ayakla sağına geniş adım at, başını bıçağın arkasına çek. Kılıcını öne uzatırsa bıçağı arkanda asılı bırak, kabzayı başının etrafından çevir ve onun bıçağını yatay olarak güçlüce dışarı al. Ardından dış yassı yüzle sağ kulağa Prellhau (K plakası).
+51|Sıkıştırılırsan.
+52|Önce davranamıyorsan ucu Langort'a, yüzüne sal ve uzun kenarı gelen kesişe çevir; yakalayınca kılıcında en yakın açıklığa sar.
+53|Pflug
+54|Pflug — sağdaki büyük figür
+55|Çizimde: sağdaki büyük figür
+56|Pflug alt bölüme aittir; sağ ve sol olmak üzere iki tanedir. İkisi de aslında alttan yukarı bir saplamadır. Sağ Pflug: sağ ayak önde, kabza öndeki dizinin yanında, uç rakibin yüzüne, sanki alttan saplayacakmışsın gibi. Sol ayakla öne çıkıp aynısını yaparsan sol Pflug olur.
+57|Pflug'dan Hängen.
+58|Pflug'da dururken rakip vurursa kabzayı kaldır, bıçak biraz yere doğru asılsın, vuruşu yassı yüzünde karşıla. Sonra sararak en yakın açıklığa çalış.
+59|Kesişlerin geçtiği duruş.
+60|Meyer'e göre kesişler duruşlardan geçer. Örneğin Unterhau'yu Ochs'tan başlatıp Pflug'dan geçirerek yukarı çıkarırsın.
+61|Vom Tag
+62|Vom Tag (Hochhut) — soldaki büyük figür
+63|Vom Tag (Hochhut)
+64|Sol ayak önde, kılıcı başının üstünde yüksekte tut, uç dimdik yukarı baksın. Yukarıdan yapılan her iş “Tag'dan eskrim” diye anılır.
+65|Neden var.
+66|Oberhau'yu kaldırırken ulaştığın en üst nokta Tag'dır. Orada bir an durup vuruşu tamamlamaya ya da daha iyi bir fırsat varsa onu Zwerch'e çevirmeye karar verirsin. Scheitelhau'nun başladığı yerdir: Tag'da başlar, ortada Langort'tan geçer, Alber'de biter.
+67|Tag'dan dört oyun (s.75–80), kısaca.
+68|(1) Sol başına vurursa onun vuruşundan dışarı sıçra ve dış yassı yüzle güçlüsüne güçlü vur ki bıçağın başına sallansın; sonra sağ koluna alttan. (2) Alttan soluna vurursa uzun kenarla onun güçlüsünün üstüne kes, çakınca kısa kenarla sol kulağa. (3) Sağına vurursa sol ayakla dışarı çık, uzun kenarla güçlüsüne düş, topuzu kolun altından itip çapraz ellerle başına. (4) Hiç vurmuyorsa önce davran: çapraz ellerle saplayacakmış gibi yap ve Zwerch'lerle iki tarafa çalış.
+69|Kırılışı.
+70|Rakip Tag'a çıkmayı seviyorsa Schlüssel'e geç. Çapraz elleri başının üstüne kaldır, kısa kenarla alttan yukarı onun tepe çizgisinden vur, sonra iki Unterhau ve bir Zwerch at.
+71|Alber
+72|Alber — sağdaki büyük figür, uç yerde
+73|Çizimde: sağdaki büyük figür, uç yerde
+74|Sol ayak önde, kılıcın ucu önündeki ayağın önünde yerde, kısa kenar yukarı, uzun kenar aşağı.
+75|Adı.
+76|Meyer'e göre ad “saf, budala” anlamındaki kelimeden gelir. Bu duruştan, rakibin vuruşunu yana aldıktan sonra yeni bir vuruşla toparlanmadan tam bir vuruş yapılamaz. Hazır bir karşı vuruş olmadan kendini vurdurmak budalanın ölçüsüdür.
+77|Alber'den el işi.
+78|Abschneiden: kollar uzanmış ya da Alber'e düşmüşken uzun vuruşları iki yandan uzun kenarla kesip uzaklaştır. Sperren: Alber ya da Wechsel'de duran birinin bıçağına uzun kenarla düş ve çapraz ellerle kilitle.
+79|Schlüssel
+80|Schlüssel (Anahtar) — soldaki büyük figür, çapraz eller göğüs önünde
+81|Çizimde: soldaki büyük figür, çapraz eller göğüs önünde
+82|Sol ayak önde, kılıcı kabza ve çapraz ellerle göğsünün önünde tut. Kısa kenar sol kolunun üstünde dursun, uç rakibin yüzüne.
+83|Küçük bir anahtarın büyük bir kilidi zahmetsizce açması gibi, zayıf görünen bu duruştan diğer bütün oyunlar ve duruşlar kırılabilir.
+84|Oyunlar (s.94–95).
+85|Rakip yüksek ya da alçak duruşta bekliyorsa Schlüssel'den dümdüz yüzüne, Langort'a sapla. Hangi yana savuşturursa kılıcını onun gösterdiği yoldan başının etrafından çevir ve aynı taraftan vur. Rakip vuruşlarla bastırıyorsa uzun ucu yine yüzüne sal, uzun kenarı gelen kesişe çevir, güçlüde yakalayınca içe ve dışa başına sar.
+86|Kırdıkları.
+87|Vom Tag'ı ve Eisenport'u (Kreuzhut) Schlüssel'den kırarsın: yüzüne saplayıp onu yukarı zorla, kalkarken alttan çalış.
+88|Wechsel
+89|Wechsel — sağdaki büyük figür, uç yanda yere doğru
+90|Çizimde: sağdaki büyük figür, uç yanda yere doğru
+91|Sağ ayak önde, silahın ucu ya da zayıfı yanında yere doğru uzanmış, kısa kenar rakibe dönük.
+92|Meyer'in notu.
+93|Diğer duruşlardan yapılan bütün oyunlar bu duruştan daha da uygun yapılabilir; yine de birkaç hızlı ve kurnaz oyun ekler.
+94|Oyun (s.104).
+95|Rakip Langort'ta ya da düz karşı duruştaysa sağ Wechsel'den yarım kenarla bir iki kez güçlüce yukarı vur. Üçüncüde kılıcının altından geç, sağ ayakla adım at ve yassı yüz ya da kısa kenarla sol kulağına yüksek vur (F plakası, sol küçük çift). Kollarını dik yukarı kaldırınca sol elini bırak, bıçağı tek elle döndür, ucu göğsüne koy ve topuzu yeniden kavra (F plakası, sağ küçük çift). İçeri koşmayı sevenlere karşı da kullanılır.
+96|Örnek tam dizi (bölüm 9).
+97|Sağ Wechsel'e geç. Kılıcını vuruş için kaldırdığı an önce davranıp yukarıdan geç ve sağdan Zwerch kes; sonra ikinci Zwerch'i diğer tarafa at.
+98|Zornhut
+99|Zornhut — soldaki büyük figür, kılıç omuzda
+100|Çizimde: soldaki büyük figür, kılıç omuzda
+101|Sol ayak önde, kılıç sağ omuzda, bıçak hazır bir vuruş için arkana sarkar. Adını öfkeli beden dilinden alır.
+102|Ochs ile ilişkisi.
+103|Ochs'tan yapılan bütün diziler Zornhut'tan da yapılabilir. Fark, rakibi aldatmak için farklı bir beden dili göstermektir.
+104|Oyunlar (s.82–86).
+105|Ulaşabildiğin an sol kulağına hızlı bir Zornhau, ardından karşı yönden sağ alt açıklığa Unterhau. Toparlanmadan kollarına düş, hareketini engelle ve beklenmedik bir itişle sendelet. Meyer'in kuralı: “Kesemeyen işe yarar eskrim yapamaz.”
+106|Verschieben ve Winden.
+107|Sağ Zorn'da dururken sağdan soluna vurursa sağ ayakla ileri çık ve kılıcı başının üstünden onun bıçağının altına it. Vuruşu yassı yüzünde, başparmak altta yakala. Çakınca sol ayakla sağına geç ve kısa kenarı kılıcının altından içe başına sar (L plakası, ortadaki küçük çift).
+108|Kural.
+109|Zorn'dayken alttan vurursa yukarıdan uzun kenarla kes ve değdiği an ucu kılıcının üstünden yüzüne at.
+110|Einhorn
+111|Einhorn (Tek boynuz) — sağdaki büyük figür, çapraz eller yukarıda
+112|Çizimde: sağdaki büyük figür, çapraz eller yukarıda
+113|Sol ayak önde, dirseklerini iki yana aç, sanki Schlüssel'e geçecekmişsin gibi. Çapraz ellerini sağa yukarı kaldır, uç dışarı yukarı baksın.
+114|Girme.
+115|Kısa kenarla sağdan yüzünün önünden bir iki kez yukarı vur, üçüncüde Langort'ta kal. Uzun kenarı sağa yukarı çevir; topuz sağ kolun altından geçer, eller çaprazlanır. Çapraz elleri kaldır.
+116|Kışkırtma.
+117|Sol ayağın önde kalırken iki Unterhau at, tekrar Einhorn'a kalk. Sol ayağını biraz kaldırıp hemen indir. Bu beden diliyle onu sol açıklığına vurmaya kışkırtırsın.
+118|Oyun (s.91–93).
+119|Vurduğunda bıçağı önüne düşür, kılıcı başının etrafından çek ve uzun kenarla yatay onun vuruşuna kes; güçlüde yakala. Sola sıçra, topuzu kolun altından itip iç yassı yüz ya da kısa kenarla bıçağının arkasından başına fiskele (C plakası, sol küçük çift). Sonra Langort'a dön (C, sağ küçük). Ya da çapraz ellerle onun bıçağını ricasso'ya yakın üstünden alıp soluna çek (D, sağ küçük). Ya da kalkarken kollarına kısa kenarla düşüp ricasso ile it (I, sağ küçük).
+120|Kreuzhut
+121|Kreuzhut — ortadaki figür, çapraz eller, uç yerde
+122|Kreuzhut / Eisenport
+123|Çizimde: ortadaki figür, çapraz eller, uç yerde
+124|Eisenport.
+125|Sağ ayak önde, kabza dizinin önünde, kollar düz aşağı sarkar, uç rakibin yüzüne doğru yukarı uzanır; demir bir kapı gibi savunur. Meyer'e göre Almanlar arasında saplama kalkınca bu duruş unutuldu ama İtalyanlar ve başkaları kullanıyor. Asıl anlatım rapier bölümündedir.
+126|Kreuzhut.
+127|Deneyimsizlerin Eisenport sandığı duruş: kılıcı çapraz ellerle önünde tutup ucu yere koymak.
+128|Oyunlar (s.98).
+129|Yukarıdan vurursa çapraz ellerini kaldır, vuruşu bıçağının güçlüsünde yakala. Kılıcını geri çekip kollarını kaldırırken kollarına güçlü Unterhau'lar at; aşağı inince başına çalış. Ya da çakıştığı an kısa kenarı sağ kulağına sar, topuzu alttan sola geri sarıp geri adımla soluna uzun kes. Alttan gelirse Langort'ta uzun kenarla kılıcına düş.
+130|Schlüssel'den yüzüne sapla, onu yukarı zorla ve kalkarken alttan çalış.
+131|Hangetort
+132|Hangetort (Asılı uç) — sağdaki büyük figür
+133|Sağ ayak önde, silahı kolların uzanmış hâlde önünde tut, bıçak biraz yere doğru sarksın. Meyer resimdeki kolların yeterince düz olmadığını not eder.
+134|Ochs'tan farkı.
+135|Neredeyse Ochs ile aynıdır. Ama Ochs'ta kollar yüksektedir; burada tam yüzünün önünde uzanır ve kılıç yere doğru asılır.
+136|Girme (s.96).
+137|Soldan yüzüne doğru bir iki kez çark gibi güçlüce yukarı vur. Üçüncüde kılıcı yüzünün önüne, doğru konuma sallayıp Hangetort'a dön. Fırsatı görene dek tekrarla.
+138|Oyunlar.
+139|Yukarıdan, yatay, alttan ya da parmaklarına soluna vurursa sol ayakla sağının arkasından onun soluna çık. Asılı kılıcı sağ omzuna çek ve aynı anda başına vur; topuzu kolunun iç tendonuna sertçe çek ki bıçak güçlü sallansın. Sağından yukarıdan gelirse yassı yüzde yakala ve kısa kenarı içe başına sar, sonra Langort'a dön.
+140|II
+141|Kesişler (Häue)
+142|9 görsel
+143|Dört ana kesiş Oberhau, Unterhau, Mittelhau (yatay) ve Zornhau'dur; geri kalanlar bunlardan türer. Beş usta kesiş Zorn, Krump, Zwerch, Schieler ve Scheitel'dir. Meyer'e göre bunlara “usta” denmesinin nedeni, bir ustaya yakışan bütün doğru oyunların onlardan doğmasıdır.
+144|Unterhau
+145|Unterhau — sol üstteki küçük çift
+146|Çizimde: sol üstteki küçük çift
+147|Nasıl yapılır.
+148|Önce sağ Ochs'a geçecek şekilde kes. Rakibe ulaşabildiğin an adım at ve alttan çapraz yukarı sol koluna kes; balçak başının üstünde yüksekte biter.
+149|Karşılamadaki yeri.
+150|Unterhau güçlü yapılır ve dışarı adımla atılırsa Oberhau'yu yukarı kaldırarak alır.
+151|Kesiş çizgileri.
+152|Dikey çizgi yatay ya da çapraz kesilebilir; Meyer bu çizgileri dusak bölümünde ayrıntılı gösterir.
+153|Kurzhau
+154|Kurzhau — sağ üstteki küçük çift, hareketin sonu
+155|Çizimde: sağ üstteki küçük çift, hareketin sonu
+156|Ne?
+157|Gizli bir geçiş.
+158|Rakip yukarıdan vurursa kısa kenarla Krumphau ile kılıcına bağlanacakmış gibi yap. Bunun yerine hızla kılıcının altından geç ve kısa kenarla, çapraz kollarla sağ kolunun üstünden başına vur. Böylece onun kılıcını uzun kenarınla yakalamış olursun. Bitişte sağ üstteki küçük çift gibi durursun.
+159|Meyer'in uyarısı.
+160|Kurzhau ve Fehlen gibi ne karşılayan ne vuran kesişler aslında eskrimin parçası sayılmaz. Rakibi yanıltmak, kızdırmak ve avantajından çıkarmak için kullanılır; bu da çoğu zaman risksiz olmaz.
+161|Krumphau
+162|Krumphau — sağ üstteki küçük çift, ellere yatay kesiş; ayrıca bıçağı sola çekip alma (Außreißen)
+163|Çizimde: sağ üstteki küçük çift, ellere yatay kesiş; ayrıca bıçağı sola çekip alma (Außreißen)
+164|Sol ayak önde, Zornhut'ta dur. Rakip vurursa sağ ayakla onun sol yanına, vuruşunun dışına adım at. Uzun kenar ve çapraz ellerle onun kesişine karşı ya da başı ile bıçağı arasından yatay olarak ellerine kes; bıçağın kollarının iyice ötesine geçsin.
+165|Nebenhut'tan.
+166|Meyer'e göre yan duruştan (Nebenhut) asıl Krumphau ile çalışılır: vuruşundan sağ ayakla soluna sıçra ve çapraz ellerle bıçağının arkasından başına kes.
+167|Aynı çizim, Außreißen.
+168|Einhorn dizisinde (s.92): ellerini çapraz tut, başını sağa çek, bıçağını onunkinin üstünden mümkün olduğunca ricasso'ya yakın at ve onun bıçağını soluna çek.
+169|Schielhau
+170|Schielhau — soldaki büyük figür kesişin sonunda
+171|Çizimde: soldaki büyük figür kesişin sonunda
+172|Bu da bir Oberhau'dur. Adını küçük bir çarpıklıkla, şaşı bakarak kesilmesinden alır.
+173|Sol ayak önde, Tag ya da Zorn'a geç. Biri sana keserse karşı kes, ama vuruşta kısa kenarı onun vuruşuna çevir ve ters ellerle eşit vur. Sağ ayakla iyice onun sol yanına adım at ve başını vuruşla birlikte hızla götür. Doğru yaptıysan büyük sol figür gibi durursun.
+174|Karşı sarma.
+175|Rakip Zwerch'ten kısa kenarı içe sol kulağına sararsa uzun kenarı yukarı onun bıçağına sar. O zaman “eski Schielhau”da durur ve başına vurursun (s.107–108).
+176|Zwerchhau
+177|Zwerch — sol üstteki küçük çift, karşı kesişle bağlanma
+178|Zwerch
+179|Çizimde: sol üstteki küçük çift, karşı kesişle bağlanma
+180|Girişte sağda Zornhut'a geç, sol ayak önde, kılıç sağ omzunda, sanki Zornhau atacakmışsın gibi. Rakip Tag'dan ya da yukarıdan keserse aynı anda yarım kenarla alttan çapraz onun kesişine kes. Balçağın başının üstünde yüksekte kalsın ki başın kapansın. Kesişle birlikte iyice sol yanına adım at; silahlar birbirine değer (sol üstteki iki küçük figür).
+181|Aynı anda karşılamak ve vurmak.
+182|Meyer'in örneği: Zornhut'tan, yukarıdan kesilince sağ ayakla yana çık ve kısa kenarla yatay içeri Zwerch kes. Vuruşunu bıçağının güçlüsünde, balçağa kadar yakalarsın; bıçağının dış kısmıyla kulağına değersin.
+183|Sol tarafta.
+184|Onun sağına yönel ve sağına uzun kenarla vur.
+185|Windhau
+186|Windhau — sağdaki büyük figür, uzun kenar kolun üstünden başa
+187|Çizimde: sağdaki büyük figür, uzun kenar kolun üstünden başa
+188|Rakip yukarıdan keserse soldan çapraz ellerle alttan kılıcına kes; topuz sağ kolunun altından gözüksün. Çakar çakmaz sol ayakla iyice soluna dışarı adım at. Topuzu bir Rund ile sol tarafına geri yukarı çek; uzun kenar sağ kolunun üstünden, bıçağının arkasından başına sallanarak değsin (sağdaki büyük figür).
+189|Ardından.
+190|Hemen kılıcını yanından uçur ve çaprazdan geri kes.
+191|Prellhau
+192|Prellhau (tek) — sağdaki büyük figür, dış yüzle kulağa sekme vuruşu
+193|Prellhau (tek)
+194|Çizimde: sağdaki büyük figür, dış yüzle kulağa sekme vuruşu
+195|Rakip yukarıdan keserse vuruşuna Zwerch ile karşı çık. Çakar çakmaz kılıcını başının etrafından çek ve solundan dış, ters yassı yüzle kulağına vur ki kılıç geri seksin (sağdaki büyük figür). Seken sallanmayı başının etrafından geri çek ve sola Zwerch kes.
+196|Ochs dizisinde (s.89).
+197|Onun bıçağını dışarı aldıktan sonra kılıcını başının etrafından çek ve dış yassı yüzle sağ kulağına dışarıdan sallanan güçlü bir vuruş at. Bu vuruşta sol ayakla iyice dışarı, sağına adım at.
+198|Prellhau (çift) — soldaki büyük figür, iç yüzle bıçağa, topuz dirseğin altında
+199|Prellhau (çift)
+200|Çizimde: soldaki büyük figür, iç yüzle bıçağa, topuz dirseğin altında
+201|Rakip girişte çalışmak için kılıcını havaya kaldırdığı an sağ Ochs'a geç. Kılıcı başının etrafından çek ve sağdan iç yassı yüzle onun bıçağına güçlü vur; vuruşta topuzun ön kolunun altına, dirsek kemiğine değsin (soldaki büyük figür).
+202|Devamı.
+203|Vuruşta sağ ayakla iyice onun soluna dön. Çakar ya da değer değmez yukarı çek, aynı anda dışarı sola çek ve ters ellerle dışarıdan iç yassı yüzle sağ kulağa geri vur. Ters yassı yüzle aynı açıklığa bir kez daha vurulur; güçlüce geri sekiyorsa doğru yapmışsındır.
+204|Yarım kenar vuruşu
+205|Çapraz ellerle yarım kenarla sol kulağa vuruş — sol üstteki iki küçük figür
+206|Yarım kenarla kulağa
+207|Çizimde: sol üstteki iki küçük figür
+208|Dört açıklık egzersizinden (s.70).
+209|Sağdan soluna yarım kenarla yüksek bir vuruş çek. Havada ellerini çaprazla ve yarım kenarla sol kulağına vur (sol üstteki iki küçük figür). Çapraz elleri geri yukarı çek ve alttan bir Zwerch ile tekrar sol kulağına vur.
+210|Einhorn dizisinde (s.92).
+211|Aynı çift, onun vuruşunu güçlünde yatay yakaladıktan sonra yapılan fiskeyi de gösterir. Soluna sıçrarken topuzu sağ kolunun altından it ve iç yassı yüz ya da kısa kenarla bıçağının arkasından başına vur.
+212|III
+213|Bağlama ve el işi (Handarbeit)
+214|7 görsel
+215|Meyer'e göre el işi, kesişlerle rakibin kılıcına geldikten sonra başlar. Amaç rakibi Verführen, Nachreisen, Wechseln, Duplieren, Nachdrucken gibi işlerle sıkıştırıp ödülü almaktır. Aşağıdaki sözlük Meyer'in kendi tanımlarının özetidir.
+216|Gerader Gegenstand
+217|Langort'a dönüp düz karşı duruş — sağ üstteki küçük figürler
+218|Çizimde: sağ üstteki küçük figürler
+219|Einhorn dizisinden (s.92).
+220|Kısa kenarla başına fiskeledikten sonra sol yanın açıkta kalır ve rakip oraya saldırır. Sen yalnızca topuzu kolunun altından geri çek ve kılıcı Langort'a çevir, uzun kenar onun bıçağına dönük olsun. Böylece düz karşı duruşta (Gerader Gegenstand) durursun (sağdaki küçük figürler).
+221|Bıçağında Langort'ta kal ve istediğin zaman çekil.
+222|Winden
+223|Kısa kenarı kılıcın altından başa sarma (Winden) — ortadaki küçük çift
+224|Çizimde: ortadaki küçük çift
+225|Zornhut dizisinden (s.83–84).
+226|Sağ Zorn'da dururken rakip sağından soluna vurursa sağ ayakla ileri çık ve kılıcı başının üstünden onun bıçağının altına it. Vuruşu yassı yüzünde, başparmak altta yakala; bıçak sol yanında yere doğru sarksın. Çakınca sol ayakla sağına adım at ve kısa kenarı kılıcının altından içe başına sar (ortadaki küçük çift).
+227|Sarınca kısa kenarla kılıcında kal, sonra kılıcınla sağına yukarı çek ki ellerin havada çaprazlansın. İç yassı yüzle sağ alt açıklığa vur. Karşılamak için kılıcına giderse değdirme; yukarı çekip sol kulağına bir Klitzhau at.
+228|Winden nedir.
+229|Bağlanmada sert kalıp bıçağın ön kısmını içe, başa doğru ve tekrar dışa çevirmek; hep altta ve onun kılıcında kalırsın.
+230|Düz yüz vuruşu
+231|Kılıcın altından geçip yassı yüz ya da kısa kenarla sol kulağa yüksek vuruş — soldaki küçük çift
+232|Yassı yüzle sol kulağa
+233|Çizimde: soldaki küçük çift
+234|Wechsel dizisinden (s.104).
+235|Rakip Langort'ta ya da düz karşı duruştaysa sağ Wechsel'den yarım kenarla bir iki kez yukarı vur. Üçüncüde kılıcının altından geç, sağ ayakla adım at ve yassı yüz ya da kısa kenarla sol kulağına güçlü ve yüksek vur (sol küçük çift).
+236|Amaç.
+237|Bu vuruş onu kollarını dik yukarı kaldırmaya zorlar; bir sonraki hamle sağdaki çiftte.
+238|Uç göğüste
+239|Ucu göğse dayayıp topuzu yeniden kavrama — sağdaki küçük çift
+240|Ucu göğse koymak
+241|Çizimde: sağdaki küçük çift
+242|Wechsel dizisinin devamı (s.104).
+243|Kollarını kaldırdığı an sol elini topuzdan bırak ve bıçağı tek elle alttan sağına doğru döndür. Ön ucu göğsüne koy ve aynı anda topuzu yeniden kavra (sağdaki küçük çift).
+244|Bitiriş.
+245|Onu ters ellerle kendinden it ve topuzu yine bırak. Kılıcı başının etrafından döndür ve topuzu kavrayarak uzun kes. Bu dizi içeri koşmayı sevenlere karşıdır.
+246|Kollar arasından
+247|Alttan iki kolun arasından çeneye kesiş — sol üstteki iki küçük figür
+248|Kolların arasından çeneye
+249|Langort dizisinden (s.101).
+250|Girişte Oberhau ile kılıcına bağlan. Kılıcını yukarı geri kaldırdığı an, kollarını kaldırırken iki kolunun arasından alttan çenesine kes (sol üstteki iki küçük figür).
+251|Kollara kısa kenar
+252|Rakip kollarını kaldırırken kısa kenarla kollarına inme — sağ üst, en dıştaki küçük figür
+253|Çizimde: sağ üst, en dıştaki küçük figür
+254|Einhorn dizisinden (s.93).
+255|Einhorn'dayken yukarıdan keserse bıçağını başının etrafından döndür ve sağdan soluna yatay kılıcına bağlan. Kılıcından kalktığı an bıçağını geri döndür; sağ el solun üstüne gelsin, çapraz ellerle. Daha kalkarken kısa kenarla öne, kollarına düş (sağ taraftaki en dış küçük figür).
+256|Ricasso ile onu soluna, yana güçlüce it. Sendelerken en yakın açıklığa kes ya da avantajı alana dek Nachreisen ile onu tut.
+257|Unterhau karşılığı
+258|Alttan sol kola uzun kenarla kesiş; karşı taraf çapraz ellerle kısa kenarla Unterhau'yu sabitliyor. Aynı çift kılıç alma (yukarı vurup kılıcı alma) için de gösteriliyor — sağ üst küçük çift
+259|Unterhau'yu sabitlemek
+260|Çizimde: sağ üst küçük çift
+261|Tag dizisinden (s.79).
+262|Geri çekilirken alttan uzun kenarla sol koluna kes (çiftte soldaki figür). Bu geri çekilmede sol alt açıklığına Unterhau keserse sol ayakla ona doğru adım at ve çapraz ellerle kısa kenarla kılıcına düş. Bu, onun Unterhau'sunu yerinde sabitler (sağdaki figür).
+263|Kılıcını geri yukarı çektiği an kılıcını çapraz ellerle tamamen soluna çek. Yine vurduğunda gelen kesişi dış yassı yüzle soldan sağına güçlüce yatay olarak dışarı al. Kılıcın başının üstünde tam bir sallanışla dönsün, ellerin havada yine çaprazlansın. Sağına iyice adım at ve bir Zirkel ile yarım kenarı sağ kulağının yanına düşür. Geri çekilerek uzun kes.
+264|Aynı çift, kılıç alma (s.102).
+265|Langort'tan bağlanmada sol elini bırakıp onun bıçağını kavra, sağ elini kabzayla alttan geçir ve sağına yukarı vurarak kılıcını al.
+266|El işi sözlüğü
+267|Anbinden / Bleiben / Fühlen
+268|Kılıçların birbirine değmesi. İki türlü kalınır: rakibin ne yapacağını görmek için kılıçta beklemek ya da çekiliyormuş gibi yapıp kısa kenarla aynı yere geri gelmek. Fühlen, onun bağlanmada sert mi yumuşak mı olduğunu yoklamaktır.
+269|Nachreisen
+270|Çok iyi bir el işi. Rakip fazla yükseğe, alçağa ya da geniş vurduğunda açıklığa onun peşinden koşup vuruşunu bitirmesini engellemek. Kılıcını kaldırdığı an altından kesersin.
+271|Schneiden
+272|Hızlı dizilerle sıkıştırıldığında en iyi engel. Bağlanmada kalıp etrafından dönerse uzun kenarla koluna git, güçlü kısımla ya da ricasso ile it ve en yakın açıklığa vur.
+273|Umschlagen
+274|Sağdan bağlanmadan geri kalkıp diğer tarafa vurmak ya da fiske atmak.
+275|Ablaufen
+276|Bağlanmada eli çevirip bıçağı yarım kenarla aşağı kaydırmak; bu sırada kabzayı yeni bir vuruş için yukarı çekmek.
+277|Verführen
+278|Bir açıklığa vuracakmış gibi yapıp başka birine vurmak. Schielhau, Fehlen, Verfliegen, Winden, Zucken ve Zirkel bunun araçlarıdır; beden dili de buna dahildir.
+279|Verfliegen
+280|Rakip vuruşunu havada karşılamak isterse kılıcına dokundurmadan vuruşu havada başka açıklığa çekmek. Bedene değil yalnızca kılıca dövüşenlere karşı.
+281|Absetzen
+282|Vuruşu yalnızca çapraz karşılamak değil, değdiği anda yana adımla aynı zamanda açıklığa vurmak. Yukarıdan gelirse uzun kenarla yukarı kalk, sağ ayakla soluna adım at, çakınca kısa kenarı başına fiskele.
+283|Schlaudern
+284|Alber'den kılıcı sağ yanından geri çekip sağ ayakla adım atarak vuruşu sapandan atılan taş gibi düz başına fırlatmak.
+285|Zucken
+286|Uzun kenarla bağlandıktan sonra diğer tarafa vuracakmış gibi hızla yukarı çekmek, ama kısa kenarla başladığın yere geri vurmak.
+287|Duplieren
+288|Bir vuruşu iki kez yapmak: önce uzun kenarla sağdan kulağa, kılıçlar çakışınca topuzu sağ kolun altından itip kolları kaldırmak ve kısa kenarla onun bıçağının arkasından başa vurmak.
+289|Verkehren
+290|Sola bağlanınca topuzu sağ kolun altından itmek, başı vuruştan sağa çekmek ve çapraz ellerle onun bıçağını ya da kolunu aşağı bastırıp çalışamaz hâle getirmek.
+291|Umschnappen
+292|Verkehren ile kolunu ya da bıçağını balçakla altında tutup bıçağını başına çevirmek. Ya da bastırılınca sol ayakla yol verip topuzla sağ kolunun üstünden kavrayıp kısa kenarla başına dönmek.
+293|Fehlen
+294|Açıklığa vururken rakip karşılamak isterse vuruşu değdirmeden aşağı düşürüp başka açıklığa vurmak. Örnek: sol kulağa Zornhau, değmeden topuzu kaldır, bıçağı soluna düşür, başın etrafından çekip sağ kolunun üstünden başına vur.
+295|Zirkel
+296|Bağlanmada iki taraf da açıklık vermiyorsa yarım kenarla çapraz ellerle yukarıdan sağının yanından kesmek. Sağ el solun üstünden güçlüce çaprazlanır ki sağ kulağını yarım kenarla çizebilesin.
+297|Rund (Ründe)
+298|Kılıcı tek ya da çift sallanışla başın üstünde daire çizdirerek geri çekmek; yanıltmak için de kullanılır.
+299|Bağlanmada sert kalıp bıçağın ön kısmını içe, başa doğru ve tekrar dışa çevirmek. Hep altta ve onun kılıcında kalırsın.
+300|Durchwinden
+301|Zwerch ile bağlanıp kısa kenarı içe sardıktan sonra sağ ayakla onun sağına geçmek, kabzayı bıçağının altından sola sarmak, topuzu sağ kolunun üstünden dışarı geçirip aşağı çekmek ve uzun kenarla başına vurmak.
+302|Deneyim ister; yanlış zamanda yapan kendini boşuna açar. Bedene değil kılıca dövüşenlere karşı uygundur. Kılıcına vurursa ucu çapraz ellerle altından geçirip diğer üst açıklığa uzun vurmak.
+303|Abschneiden
+304|Kollar uzanmış ya da Alber'de beklerken uzun vuruşları iki yandan uzun kenarla kesip uzaklaştırmak; avantajını görene dek sürer. Liechtenauer: “Sertleri iki yönden kes.”
+305|Händedrücken
+306|Kronhau ya da Hängen ile vuruşunun altına gir, kalkarken güçlü kısmınla takip et ve ricasso ile yumruklarının önüne alttan düşerek iki elini birden yakala. Yukarı itip uzun vur.
+307|Verschieben
+308|Sağ Zorn'da dururken bıçağı arkanda asılı bırakıp başının üstünden onun bıçağının altına itmek. Vuruşu yassı yüzde, başparmak ricasso'nun altında yakalarsın.
+309|Hängen
+310|Pflug'da dururken kabzayı kaldırıp bıçağı yere doğru asmak ve vuruşu yassı yüzde yakalamak. Sonra sararak en yakın açıklığa.
+311|Außreißen
+312|Sağdan bağlanınca kılıcı çevirip soluna çekmek ya da topuzla kollarının arasına girip yukarı/aşağı söküp almak.
+313|Sperren
+314|Wechsel ya da Alber'de duranın bıçağına uzun kenarla düşmek. Çakınca elleri çaprazlayıp kurtulamayacağı şekilde kilitlemek.
+315|Verstellen
+316|Dört açıklığa hızla çalışan birinin kollarına ya da kılıcına kesikle düşmek ve geri kalkmasına izin vermemek. Nereye giderse kesikle kolunda kalıp onu kısıtlarsın.
+317|Übergreifen
+318|Sol üst açıklığa keserken parmaklarla balçak ya da ricasso'nun üstünden kavramak, başparmak kabzada kalır. Sol elle topuzu kaldırıp asılı bıçakla karşılamasının üstünden ya da arkasından başına vurmak.
+319|Einlaufen
+320|Kılıçlar birbirine değecek şekilde onun kılıcının altına koşmak. Güreş ve atışla ilgili olduğu için oyunlarda anlatılır.
+321|IV
+322|5 görsel
+323|Meyer Einlaufen'i, kılıçlar birbirine değecek şekilde rakibin kılıcının altına koşmak olarak tanımlar. Bu, güreş ve atışlara bağlı olduğu için ayrıntısını sonraki oyunlara bırakır.
+324|Ringen
+325|Kılıçla güreş, rakibi omuzdan atma — sol üstteki küçük çift
+326|Kılıçla güreş
+327|Çizimde kılıç elindeyken rakibi omuzdan kaldırıp atma görülüyor.
+328|Einlaufen.
+329|Meyer güreşe giden yolu Einlaufen olarak tanımlar: kılıçlar birbirine değecek şekilde onun kılıcının altına koşmak. Bunu güreş ve atış oyunlarına bırakır.
+330|Yakın mesafe güreş / kavrama — soldaki büyük çift
+331|Yakın mesafe kavrama
+332|Çizimde: soldaki büyük çift
+333|Çizimde yakın mesafede gövdeden kavrama görülüyor.
+334|İlgili teknik.
+335|Brechfenster bölümündeki atış: sağ ayakla onun sağının arkasına adım at, kısa kenarla boynundan tut, topuzu sağına it ve sağ bacağının üstünden sırtüstü at.
+336|Balçağın üstünden kavrayıp iki kolun üstünden kaldırma — alttaki büyük figürler (sol)
+337|Übergreifen ve atış
+338|Çizimde: alttaki büyük figürler (sol)
+339|Yüksek duruşlara aittir ve yalnızca rakibin kılıcının altına girdikten sonra, bağlanmada kullanılır. Onun ucu hâlâ önündeyken bu duruşa girme; burada kollarını ve parmaklarını açıkta bırakırsın. Parmaklarına vurursa yana çık ve Zwerch ile vuruşuna karşı kes.
+340|Übergreifen (s.106).
+341|Yukarıdan keserse soldan alttan uzun kenarla karşı kes. Bıçağını kaldırıp kollarını yukarı aldığı an parmaklarınla balçağının üstünden bıçaklara uzan ve bıçağınla iki kolunun üstünden kaldır (alttaki iki büyük figür). Sağına çek.
+342|Atış.
+343|İstersen sağ ayakla onun sağının arkasına adım at ve kısa kenarla boynundan tut. Topuzu sağına, kendinden uzağa it ve sağ bacağının üstünden soluna, sırtüstü at.
+344|Balçağın üstünden kavrama, kısa kenarı başa koyma — alttaki büyük figürler (sağ)
+345|Kısa kenar başa
+346|Çizimde: alttaki büyük figürler (sağ)
+347|Zwerch'e karşı (s.107).
+348|Sol kulağına Zwerch keserse yukarıdan uzun kenarla bıçağının ortasına düş. Düştüğün an parmaklarınla balçağının üstünden bıçağa doğru kavra. Kısa kenarı bıçağının arkasından başına koy (büyük figürler).
+349|Kurtulmasın.
+350|Onu tuttuğun topuzu kendinden it ki onu yaralamadan kurtulamasın. Bıçağının altından öne sıyrılırsa hızla takip et ve yine iki kolunun üstünden kavra.
+351|Sarıp çıkarma
+352|Sol elle ricasso ve balçağı tutup rakibi dışarı sarma — sağ üst küçük çift
+353|Dışarı sarma
+354|Zwerch kestiği an onu asılı bıçağında yakala. Sol elinle ricasso'suna ve balçağına uzan ve onu kendinden dışarı sar (sağ üstteki küçük çiftler).
+355|Sarma kuralı.
+356|Yüksek kesişe karşı Zwerch ile bağlandığında kısa kenarı içe başına sar. Rakip sana içe sararsa sen dışa sar: o ıskalar, sen vurursun.
+357|V
+358|16 görsel
+359|Plakalardaki diğer çift ve figürler; plakaya göre sıralı.
+360|Diğer
+361|A plakası, soldaki büyük figür (çapraz ellerle yukarıdan)
+362|G plakası, sağ üst küçük çift
+363|M plakası, sol üst küçük çift
+364|B plakası, ortadaki küçük çift
+365|C plakası, ortadaki çift
+366|D plakası, ortadaki çift
+367|E plakası, sol üst küçük çift
+368|E plakası, sağ üst küçük çift
+369|E plakası, ortadaki çift
+370|G plakası, sol üst küçük çift
+371|K plakası, soldaki büyük figür
+372|K plakası, üstteki küçük çift
+373|K plakası, sol ve orta figürler
+374|L plakası, sol üst küçük çift
+375|L plakası, sağ üst küçük çift
+376|L plakası, öndeki büyük çift
+377|VI
+378|Gravürlerin tamamı.
+379|Langort plakası
+380|Ochs ve Pflug plakası
+381|Vom Tag ve Alber plakası
+382|Kreuzhut ve Hangetort plakası
+383|Prellhau plakası
+384|Schielhau plakası
+385|Schlüssel ve Wechsel plakası
+386|L plakası
+387|Langort plakası (farklı boyama)
+388|Diyagram
+389|Kesiş çizgileri diyagramı
+390|Windhau plakası
+391|Zornhut ve Einhorn plakası
+392|I plakası
+393|Kreuzhut ve Hangetort plakası (farklı boyama)
+394|Windhau plakası (farklı boyama)
+395|M plakası
+396|Bölüm filtresi
