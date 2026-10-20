@@ -39,12 +39,13 @@ python -m http.server 8642 --bind 127.0.0.1 --directory site
 
 Tarayıcıda http://localhost:8642 adresini açın (`http://[::]:8642` çalışmaz).
 
-## Yayına almadan önce (önemli)
+## Yayın
 
-1. **Alan adı:** `tools/build.py` içindeki `SITE_URL` şu an yer tutucu (`https://www.antalyahema.com`).
-   Gerçek alan adını yazıp yeniden derleyin; canonical, hreflang, sitemap ve paylaşım görselleri buna bağlı.
-2. **Barındırma:** `site/` klasörünü Cloudflare Pages, Netlify ya da GitHub Pages'e (özel alan adıyla) yükleyin.
-   Hepsi ücretsiz ve HTTPS veriyor.
+1. **Alan adı:** `https://antalyahema.com` (`tools/build.py` içindeki `SITE_URL`). Canonical, hreflang,
+   sitemap ve paylaşım görselleri buna bağlı.
+2. **Yayın:** GitHub Pages. `main` dalına her push'ta `.github/workflows/pages.yml` siteyi üretip yayınlar.
+   DNS (Squarespace): `@` için A kayıtları 185.199.108.153 / .109.153 / .110.153 / .111.153,
+   `www` için CNAME `candogan440.github.io`.
 
 ## Google'da "Antalya HEMA" için üst sıralar
 

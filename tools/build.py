@@ -14,7 +14,7 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 # ---------------------------------------------------------------- config
-SITE_URL = "https://candogan440.github.io/antalya-hema"   # <-- set this to the real domain before going live
+SITE_URL = "https://antalyahema.com"
 TODAY = datetime.date.today().isoformat()
 PHONE_INTL = "+905345225173"
 INSTAGRAM = "https://www.instagram.com/lycian.fighters/"

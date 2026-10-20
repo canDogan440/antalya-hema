@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://candogan440.github.io/antalya-hema/sitemap.xml
+Sitemap: https://antalyahema.com/sitemap.xml
