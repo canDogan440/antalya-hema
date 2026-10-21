@@ -20,8 +20,8 @@ PHONE_INTL = "+905345225173"
 INSTAGRAM = "https://www.instagram.com/lycian.fighters/"
 MAPS = "https://share.google/V4jXBhmK1i5wzDwwB"
 WA_TEXT = {
-    "tr": "Merhaba, HEMA antrenmanına katılmak istiyorum.",
-    "en": "Hi, I'd like to join a HEMA training session.",
+    "tr": "Merhaba, Lycian Fighters hakkında bilgi almak istiyorum.",
+    "en": "Hi, I'd like to learn more about Lycian Fighters.",
 }
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -41,11 +41,11 @@ PAGES = [
 META = {
     ("home", "tr"): dict(
         title="Antalya HEMA Kulübü – Lycian Fighters | Uzun Kılıç Eğitimi",
-        desc="Antalya'nın ilk HEMA kulübü Lycian Fighters: Tarihi Avrupa Dövüş Sanatları ve uzun kılıç antrenmanı. Her cumartesi 10:00, 4x4 Sport Center Uncalı. Tel: 0534 522 51 73.",
+        desc="Antalya'nın ilk HEMA kulübü Lycian Fighters: Tarihi Avrupa Dövüş Sanatları ve uzun kılıç. Kulüp tanıtımı, HEMA rehberi, Meyer ve Liechtenauer atlasları.",
         crumb="Ana sayfa"),
     ("home", "en"): dict(
         title="HEMA Antalya – Lycian Fighters | Longsword Club in Antalya",
-        desc="Lycian Fighters, the first HEMA club in Antalya, Türkiye: Historical European Martial Arts and longsword training every Saturday at 10:00, 4x4 Sport Center Uncalı.",
+        desc="Lycian Fighters, the first HEMA club in Antalya, Türkiye: Historical European Martial Arts and the longsword, with Meyer and Liechtenauer drawing atlases.",
         crumb="Home"),
     ("meyer", "tr"): dict(
         title="Joachim Meyer 1570 Uzun Kılıç Atlası | HEMA Antalya",
@@ -76,11 +76,11 @@ UI = {
              ("Basın", "#basin"), ("İletişim", "#iletisim")],
         enc="Ansiklopedi", enc_anchor="#ansiklopedi",
         lb=("Çizim büyütme", "Kapat", "Önceki", "Sonraki"),
-        foot_about="Antalya'nın ilk Tarihi Avrupa Dövüş Sanatları (HEMA) kulübü. Uzun kılıç antrenmanı her cumartesi 10:00.",
+        foot_about="Antalya'nın ilk Tarihi Avrupa Dövüş Sanatları (HEMA) kulübü. Uzun kılıç ve tarihi dövüş kaynakları.",
         foot_pages="Sayfalar", foot_contact="İletişim", foot_where="Antrenman yeri",
-        cta_h="Bu teknikleri Antalya'da birlikte çalışalım",
-        cta_p="Her cumartesi 10:00, 4x4 Sport Center Uncalı. Deneme antrenmanı için yazın.",
-        cta_btn="WhatsApp'tan yaz", other="Diğer atlas",
+        cta_h="Bu teknikleri Antalya'da çalışıyoruz",
+        cta_p="Lycian Fighters, Antalya'nın ilk HEMA kulübü. Çalışmalarımızı Instagram'da takip edin.",
+        cta_btn="Instagram", other="Diğer atlas",
         lang_name="Türkçe", locale="tr_TR"),
     "en": dict(
         skip="Skip to content", tagline="HEMA Antalya", menu="Menu",
@@ -89,11 +89,11 @@ UI = {
              ("Press", "#press"), ("Contact", "#contact")],
         enc="Encyclopedia", enc_anchor="#encyclopedia",
         lb=("Enlarged drawing", "Close", "Previous", "Next"),
-        foot_about="The first Historical European Martial Arts (HEMA) club in Antalya, Türkiye. Longsword training every Saturday at 10:00.",
+        foot_about="The first Historical European Martial Arts (HEMA) club in Antalya, Türkiye. Longsword and historical fencing sources.",
         foot_pages="Pages", foot_contact="Contact", foot_where="Training venue",
-        cta_h="Train these techniques with us in Antalya",
-        cta_p="Every Saturday at 10:00, 4x4 Sport Center Uncalı. Message us for a trial session.",
-        cta_btn="Message on WhatsApp", other="The other atlas",
+        cta_h="We study these techniques in Antalya",
+        cta_p="Lycian Fighters is the first HEMA club in Antalya. Follow our work on Instagram.",
+        cta_btn="Instagram", other="The other atlas",
         lang_name="English", locale="en_US"),
 }
 
@@ -359,7 +359,7 @@ def build_atlas(name, lang, path, root):
               f'<li aria-current="page">{m["crumb"]}</li></ol></nav></div>')
     after = f"""<div class="wrap">
   <div class="atlas-cta"><div><h2>{esc(ui['cta_h'])}</h2><p>{esc(ui['cta_p'])}</p></div>
-  <a class="btn btn-gold" href="{esc(wa_link(lang))}" rel="noopener" target="_blank">{ICONS['whatsapp']}{esc(ui['cta_btn'])}</a></div>
+  <a class="btn btn-gold" href="{INSTAGRAM}" rel="noopener" target="_blank">{ICONS['instagram']}{esc(ui['cta_btn'])}</a></div>
   <div class="atlas-more"><a class="book" href="{root}{page_path(other, lang)}"><div><div class="eyebrow">{ui['other']}</div><h3>{om.get('h1_html', esc(om['h1']))}</h3><p>{esc(om['desc'])}</p></div></a></div>
 </div>"""
     lb = ui["lb"]

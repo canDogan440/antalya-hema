@@ -54,8 +54,8 @@ Sitedeki teknik SEO hazır: başlık/açıklama, h1, iki dilli hreflang, sitemap
 WebP görseller, mobil uyum. Sıralamayı asıl belirleyecek adımlar sizin tarafınızda:
 
 1. **Google Search Console:** alan adını doğrulayın, `sitemap.xml` gönderin, ana sayfa için "Dizine eklenmesini iste".
-2. **Google İşletme Profili:** "Lycian Fighters – Antalya HEMA" adıyla, 4x4 Sport Center adresi ve
-   cumartesi 10:00 saatiyle açın; web sitesi olarak yeni alan adını girin. Yerel aramalarda (harita kutusu) en etkili adım budur.
+2. **Google İşletme Profili:** "Lycian Fighters – Antalya HEMA" adıyla, 4x4 Sport Center adresiyle
+   açın (antrenman gün/saati eklemeyin); web sitesi olarak yeni alan adını girin. Yerel aramalarda (harita kutusu) en etkili adım budur.
 3. **Geri bağlantılar:** Antalya Gündem'den haberlere site linki eklemelerini rica edin; Instagram biyografisine,
    Free Fighters Guild ve diğer HEMA kulüplerinin sitelerine link verin.
 4. **Tutarlılık:** Ad, adres ve telefon (NAP) Instagram, Google İşletme ve sitede aynı yazılsın.
