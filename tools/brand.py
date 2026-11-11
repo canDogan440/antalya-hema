@@ -78,7 +78,7 @@ def og_image(banner):
     d.text((80, 250), "Antalya HEMA Kulübü", font=serif, fill=CREAM)
     d.text((80, 300), "Tarihi Avrupa Dövüş Sanatları", font=serif, fill=CREAM)
     d.line([(80, 380), (560, 380)], fill=GOLD, width=2)
-    d.text((80, 405), "Uzun kılıç · Meyer · Liechtenauer", font=small, fill=GOLD)
+    d.text((80, 405), "Meyer · Liechtenauer · Fiore", font=small, fill=GOLD)
     d.text((80, 450), "4x4 Sport Center Uncalı · Antalya", font=small, fill=CREAM)
     return im
 

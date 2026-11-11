@@ -1,0 +1,174 @@
+4|Meyer'in gravürlerindeki sahneler guard, cut ve tekniğe göre ayrıldı. Bir görsele tıklayınca büyür. Guard, cut, Handarbeit ve Ringen sahnelerinin yanında kitaptan alınmış Türkçe açıklamalar var. Sayfa numaraları PDF sayfasıdır.
+9|Huten
+10|Häue
+11|Bind ve Handarbeit
+12|Ringen
+17|Meyer her eskrim dizisini üçe ayırır: girişte guard'lar ve cut'larla saldırırsın (Zufechten), ortada Handarbeit ile rakibi sıkıştırırsın, sonunda yaralanmadan geri çekilirsin (Abzug). Bunları alfabe harflerine benzetir: her harfi bilirsen, durum ne isterse onu yazarsın.
+18|Vor, Nach, Gleich, Indes.
+19|Vor: ilk saldıran sensin ve rakibi yalnızca karşılık vermeye zorluyorsun. Nach: rakip seni bastırıyor. Gleich: ikiniz aynı anda cut atıyorsunuz. Indes: sol opening'e vururken sağdakini de görmek, hamle yaparken rakibin nereden gelebileceğini algılamak. Meyer'e göre Nach'tan Vor'a geçmenin yolu Indes'tir.
+20|Parry (Versetzen) iki türlüdür.
+21|Korkuyla, avantaj aramadan yalnızca silahı arada tutmak birinci türdür; alışkanlık hâline gelirse zararlıdır. Asıl iyisi aynı anda parry yapıp vurmaktır: eski ustaların sözüyle “Doğru eskrimci parry yapmaz; rakip cut atarsa o da atar, adım atarsa o da atar, thrust yaparsa o da yapar.” Schielhau, Glitzhau, Kronhau ve Zwerch gibi ters cut'lar tam bunun için icat edilmiştir.
+22|Dört opening egzersizi.
+23|Langort'tan başla. Sol üst, sağ alt, sol alt ve sağ üst opening'e sırayla, adımlarıyla birlikte, hızla cut at ve Zwerch ile çekil. Sonra sırayı değiştir. Önce long edge'le, sonra half edge'le, sonra flat'le çalış. Cut çizgileri diyagramı bu sırayı gösterir.
+26|Guard'larda bekleme.
+27|Guard'lar beklemek için değil, vuruşu kaldırdığın en uç noktayı adlandırmak için vardır. Örneğin Oberhau'yu kaldırınca ulaştığın en üst nokta Vom Tag'dır. Orada göz açıp kapayıncaya kadar durup daha iyi bir fırsat varsa vuruşu başka bir cut'a, örneğin Zwerch'e çevirirsin.
+29|Huten (guard'lar)
+31|Meyer dört ana guard sayar (Ochs, Pflug, Tag, Alber) ve diğerlerinin onlardan doğduğunu söyler: Zornhut, Langort, Wechsel, Nebenhut, Eisenport, Hangetort, Schlüssel ve Einhorn. Rakip de dört bölgeye ayrıldığı için dört ana guard ve dört opening vardır.
+33|Langort — sağdaki büyük figür Langort'ta duruyor
+34|Çizimde: sağdaki büyük figür Langort'ta duruyor
+36|Sol ayak önde, kollar uzanmış hâlde silahı yüzünün önünde uzun tut, point rakibin yüzüne doğru gitsin.
+38|Meyer'e göre eski ustalar Langort'a Brechfenster derdi, çünkü diğer bütün oyunlar ondan kırılabilir. Langort “tüm bind'ların sonudur”.
+40|Oberhau ile bind'a gir; kılıcını kaldırdığı an iki kolunun arasından alttan çenesine cut at. Bind'da Rose ile alttan kır ve short edge'i diğer tarafa at. Bind'da sol elini pommel'dan bırakıp onun bıçağını kavra, sağ elini hilt'le alttan geçir ve yukarı sağa vurarak kılıcını al. Long edge'le bind'a girerse hızla altından geç ve weak'i yatay kulağına fiskele.
+42|Zornhut dizisinin sonunda (s.84) ters flat'le soldan sağ kulağa, orta çizgiden yatay vuruş da “A plakasında sağdaki büyük figür” ile gösterilir.
+46|Ochs üst bölüme aittir ve sağ ile sol olmak üzere ikiye ayrılır. Sağ Ochs: sol ayak önde, hilt başının yanında sağda yüksekte, point rakibin yüzüne. Sol Ochs: sağ ayak önde, hilt başının solunda.
+48|Sturzhau ile yaklaşırken point'i rakibe tutarsan buna Ochs denir; saldırı için özellikle iyi bir guard'dır. Dört ana çizginin herhangi birinden saldır, sonra aynı çizginin karşı yönünden cut at.
+50|Ulaşır ulaşmaz büyük bir sağ ayak adımıyla sol kulağa güçlü Zornhau. Değince geri çekip long edge'le sağ koluna cut at; sol ayakla sağına geniş adım at, başını bıçağın arkasına çek. Kılıcını öne uzatırsa bıçağı arkanda asılı bırak, hilt'i başının etrafından çevir ve onun bıçağını yatay olarak güçlüce dışarı al. Ardından dış flat'le sağ kulağa Prellhau (K plakası).
+52|Vor'u alamıyorsan point'i Langort'a, yüzüne sal ve long edge'i gelen cut'a çevir; yakalayınca kılıcında en yakın opening'e wind et.
+56|Pflug alt bölüme aittir; sağ ve sol olmak üzere iki tanedir. İkisi de aslında alttan yukarı bir thrust'tır. Sağ Pflug: sağ ayak önde, hilt öndeki dizinin yanında, point rakibin yüzüne, sanki alttan thrust yapacakmışsın gibi. Sol ayakla öne çıkıp aynısını yaparsan sol Pflug olur.
+58|Pflug'da dururken rakip vurursa hilt'i kaldır, bıçak biraz yere doğru asılsın, vuruşu flat'inde karşıla. Sonra wind ederek en yakın opening'e çalış.
+59|Cut'ların geçtiği guard.
+60|Meyer'e göre cut'lar guard'lardan geçer. Örneğin Unterhau'yu Ochs'tan başlatıp Pflug'dan geçirerek yukarı çıkarırsın.
+64|Sol ayak önde, kılıcı başının üstünde yüksekte tut, point dimdik yukarı baksın. Yukarıdan yapılan her iş “Tag'dan eskrim” diye anılır.
+68|(1) Sol başına vurursa onun vuruşundan dışarı sıçra ve dış flat'le strong'una güçlü vur ki bıçağın başına sallansın; sonra sağ koluna alttan. (2) Alttan soluna vurursa long edge'le onun strong'unun üstüne cut at, çakınca short edge'le sol kulağa. (3) Sağına vurursa sol ayakla dışarı çık, long edge'le strong'una düş, pommel'ı kolun altından itip çapraz ellerle başına. (4) Hiç vurmuyorsa Vor'u al: çapraz ellerle thrust yapacakmış gibi yap ve Zwerch'lerle iki tarafa çalış.
+70|Rakip Tag'a çıkmayı seviyorsa Schlüssel'e geç. Çapraz elleri başının üstüne kaldır, short edge'le alttan yukarı onun tepe çizgisinden vur, sonra iki Unterhau ve bir Zwerch at.
+72|Alber — sağdaki büyük figür, point yerde
+73|Çizimde: sağdaki büyük figür, point yerde
+74|Sol ayak önde, kılıcın point'i önündeki ayağın önünde yerde, short edge yukarı, long edge aşağı.
+76|Meyer'e göre ad “saf, budala” anlamındaki kelimeden gelir. Bu guard'dan, rakibin vuruşunu yana aldıktan sonra yeni bir vuruşla toparlanmadan tam bir vuruş yapılamaz. Hazır bir karşı vuruş olmadan kendini vurdurmak budalanın ölçüsüdür.
+77|Alber'den Handarbeit.
+78|Abschneiden: kollar uzanmış ya da Alber'e düşmüşken uzun vuruşları iki yandan long edge'le kesip uzaklaştır. Sperren: Alber ya da Wechsel'de duran birinin bıçağına long edge'le düş ve çapraz ellerle kilitle.
+82|Sol ayak önde, kılıcı hilt ve çapraz ellerle göğsünün önünde tut. Short edge sol kolunun üstünde dursun, point rakibin yüzüne.
+83|Küçük bir anahtarın büyük bir kilidi zahmetsizce açması gibi, zayıf görünen bu guard'dan diğer bütün oyunlar ve guard'lar kırılabilir.
+85|Rakip yüksek ya da alçak guard'da bekliyorsa Schlüssel'den dümdüz yüzüne, Langort'a thrust yap. Hangi yana savuşturursa kılıcını onun gösterdiği yoldan başının etrafından çevir ve aynı taraftan vur. Rakip vuruşlarla bastırıyorsa uzun point'i yine yüzüne sal, long edge'i gelen cut'a çevir, strong'da yakalayınca içe ve dışa başına wind et.
+87|Vom Tag'ı ve Eisenport'u (Kreuzhut) Schlüssel'den kırarsın: yüzüne thrust yapıp onu yukarı zorla, kalkarken alttan çalış.
+89|Wechsel — sağdaki büyük figür, point yanda yere doğru
+90|Çizimde: sağdaki büyük figür, point yanda yere doğru
+91|Sağ ayak önde, silahın point'i ya da weak'i yanında yere doğru uzanmış, short edge rakibe dönük.
+93|Diğer guard'lardan yapılan bütün oyunlar bu guard'dan daha da uygun yapılabilir; yine de birkaç hızlı ve kurnaz oyun ekler.
+95|Rakip Langort'ta ya da Gerader Gegenstand'daysa sağ Wechsel'den half edge'le bir iki kez güçlüce yukarı vur. Üçüncüde kılıcının altından geç, sağ ayakla adım at ve flat ya da short edge'le sol kulağına yüksek vur (F plakası, sol küçük çift). Kollarını dik yukarı kaldırınca sol elini bırak, bıçağı tek elle döndür, point'i göğsüne koy ve pommel'ı yeniden kavra (F plakası, sağ küçük çift). İçeri koşmayı sevenlere karşı da kullanılır.
+97|Sağ Wechsel'e geç. Kılıcını vuruş için kaldırdığı an Vor'u alıp yukarıdan geç ve sağdan Zwerch at; sonra ikinci Zwerch'i diğer tarafa at.
+105|Ulaşabildiğin an sol kulağına hızlı bir Zornhau, ardından karşı yönden sağ alt opening'e Unterhau. Toparlanmadan kollarına düş, hareketini engelle ve beklenmedik bir itişle sendelet. Meyer'in kuralı: “Cut atamayan işe yarar eskrim yapamaz.”
+107|Sağ Zorn'da dururken sağdan soluna vurursa sağ ayakla ileri çık ve kılıcı başının üstünden onun bıçağının altına it. Vuruşu flat'inde, başparmak altta yakala. Çakınca sol ayakla sağına geç ve short edge'i kılıcının altından içe başına wind et (L plakası, ortadaki küçük çift).
+109|Zorn'dayken alttan vurursa yukarıdan long edge'le cut at ve değdiği an point'i kılıcının üstünden yüzüne at.
+115|Short edge'le sağdan yüzünün önünden bir iki kez yukarı vur, üçüncüde Langort'ta kal. Long edge'i sağa yukarı çevir; pommel sağ kolun altından geçer, eller çaprazlanır. Çapraz elleri kaldır.
+117|Sol ayağın önde kalırken iki Unterhau at, tekrar Einhorn'a kalk. Sol ayağını biraz kaldırıp hemen indir. Bu beden diliyle onu sol opening'ine vurmaya kışkırtırsın.
+119|Vurduğunda bıçağı önüne düşür, kılıcı başının etrafından çek ve long edge'le yatay onun vuruşuna cut at; strong'da yakala. Sola sıçra, pommel'ı kolun altından itip iç flat ya da short edge'le bıçağının arkasından başına fiskele (C plakası, sol küçük çift). Sonra Langort'a dön (C, sağ küçük). Ya da çapraz ellerle onun bıçağını ricasso'ya yakın üstünden alıp soluna çek (D, sağ küçük). Ya da kalkarken kollarına short edge'le düşüp ricasso ile it (I, sağ küçük).
+121|Kreuzhut — ortadaki figür, çapraz eller, point yerde
+123|Çizimde: ortadaki figür, çapraz eller, point yerde
+125|Sağ ayak önde, hilt dizinin önünde, kollar düz aşağı sarkar, point rakibin yüzüne doğru yukarı uzanır; demir bir kapı gibi savunur. Meyer'e göre Almanlar arasında thrust kullanımı azalınca bu guard unutuldu ama İtalyanlar ve başkaları kullanıyor. Asıl anlatım rapier bölümündedir.
+127|Deneyimsizlerin Eisenport sandığı guard: kılıcı çapraz ellerle önünde tutup point'i yere koymak.
+129|Yukarıdan vurursa çapraz ellerini kaldır, vuruşu bıçağının strong'unda yakala. Kılıcını geri çekip kollarını kaldırırken kollarına güçlü Unterhau'lar at; aşağı inince başına çalış. Ya da çakıştığı an short edge'i sağ kulağına wind et, pommel'ı alttan sola geri wind edip geri adımla soluna uzun cut at. Alttan gelirse Langort'ta long edge'le kılıcına düş.
+130|Schlüssel'den yüzüne thrust yap, onu yukarı zorla ve kalkarken alttan çalış.
+139|Yukarıdan, yatay, alttan ya da parmaklarına soluna vurursa sol ayakla sağının arkasından onun soluna çık. Asılı kılıcı sağ omzuna çek ve aynı anda başına vur; pommel'ı kolunun iç tendonuna sertçe çek ki bıçak güçlü sallansın. Sağından yukarıdan gelirse flat'te yakala ve short edge'i içe başına wind et, sonra Langort'a dön.
+141|Häue (cut'lar)
+143|Dört ana cut Oberhau, Unterhau, Mittelhau (yatay) ve Zornhau'dur; geri kalanlar bunlardan türer. Beş usta cut (Meisterhäue) Zorn, Krump, Zwerch, Schieler ve Scheitel'dir. Meyer'e göre bunlara “usta” denmesinin nedeni, bir ustaya yakışan bütün doğru oyunların onlardan doğmasıdır.
+148|Önce sağ Ochs'a geçecek şekilde cut at. Rakibe ulaşabildiğin an adım at ve alttan çapraz yukarı sol koluna cut at; crossguard başının üstünde yüksekte biter.
+149|Parry'deki yeri.
+151|Cut çizgileri.
+152|Dikey çizgi yatay ya da çapraz kesilebilir; Meyer bu çizgileri Dusack bölümünde ayrıntılı gösterir.
+158|Rakip yukarıdan vurursa short edge'le Krumphau ile kılıcına bind'a girecekmiş gibi yap. Bunun yerine hızla kılıcının altından geç ve short edge'le, çapraz kollarla sağ kolunun üstünden başına vur. Böylece onun kılıcını long edge'inle yakalamış olursun. Bitişte sağ üstteki küçük çift gibi durursun.
+160|Kurzhau ve Fehlen gibi ne parry yapan ne vuran cut'lar aslında eskrimin parçası sayılmaz. Rakibi yanıltmak, kızdırmak ve avantajından çıkarmak için kullanılır; bu da çoğu zaman risksiz olmaz.
+162|Krumphau — sağ üstteki küçük çift, ellere yatay cut; ayrıca bıçağı sola çekip alma (Außreißen)
+163|Çizimde: sağ üstteki küçük çift, ellere yatay cut; ayrıca bıçağı sola çekip alma (Außreißen)
+164|Sol ayak önde, Zornhut'ta dur. Rakip vurursa sağ ayakla onun sol yanına, vuruşunun dışına adım at. Long edge ve çapraz ellerle onun cut'ına karşı ya da başı ile bıçağı arasından yatay olarak ellerine cut at; bıçağın kollarının iyice ötesine geçsin.
+166|Meyer'e göre yan guard'dan (Nebenhut) asıl Krumphau ile çalışılır: vuruşundan sağ ayakla soluna sıçra ve çapraz ellerle bıçağının arkasından başına cut at.
+170|Schielhau — soldaki büyük figür cut'ın sonunda
+171|Çizimde: soldaki büyük figür cut'ın sonunda
+172|Bu da bir Oberhau'dur. Adını küçük bir çarpıklıkla, şaşı bakarak atılmasından alır.
+173|Sol ayak önde, Tag ya da Zorn'a geç. Biri sana cut atarsa karşı cut at, ama vuruşta short edge'i onun vuruşuna çevir ve ters ellerle eşit vur. Sağ ayakla iyice onun sol yanına adım at ve başını vuruşla birlikte hızla götür. Doğru yaptıysan büyük sol figür gibi durursun.
+174|Karşı wind.
+175|Rakip Zwerch'ten short edge'i içe sol kulağına wind ederse long edge'i yukarı onun bıçağına wind et. O zaman “eski Schielhau”da durur ve başına vurursun (s.107–108).
+177|Zwerch — sol üstteki küçük çift, karşı cut'la bind
+179|Çizimde: sol üstteki küçük çift, karşı cut'la bind
+180|Girişte sağda Zornhut'a geç, sol ayak önde, kılıç sağ omzunda, sanki Zornhau atacakmışsın gibi. Rakip Tag'dan ya da yukarıdan cut atarsa aynı anda half edge'le alttan çapraz onun cut'ına cut at. Crossguard'ın başının üstünde yüksekte kalsın ki başın kapansın. Cut'la birlikte iyice sol yanına adım at; silahlar birbirine değer (sol üstteki iki küçük figür).
+181|Aynı anda parry yapmak ve vurmak.
+182|Meyer'in örneği: Zornhut'tan, yukarıdan cut gelince sağ ayakla yana çık ve short edge'le yatay içeri Zwerch at. Vuruşunu bıçağının strong'unda, crossguard'a kadar yakalarsın; bıçağının dış kısmıyla kulağına değersin.
+184|Onun sağına yönel ve sağına long edge'le vur.
+186|Windhau — sağdaki büyük figür, long edge kolun üstünden başa
+187|Çizimde: sağdaki büyük figür, long edge kolun üstünden başa
+188|Rakip yukarıdan cut atarsa soldan çapraz ellerle alttan kılıcına cut at; pommel sağ kolunun altından gözüksün. Çakar çakmaz sol ayakla iyice soluna dışarı adım at. Pommel'ı bir Rund ile sol tarafına geri yukarı çek; long edge sağ kolunun üstünden, bıçağının arkasından başına sallanarak değsin (sağdaki büyük figür).
+190|Hemen kılıcını yanından uçur ve çaprazdan geri cut at.
+192|Prellhau (tek) — sağdaki büyük figür, dış flat'le kulağa sekme vuruşu
+194|Çizimde: sağdaki büyük figür, dış flat'le kulağa sekme vuruşu
+195|Rakip yukarıdan cut atarsa vuruşuna Zwerch ile karşı çık. Çakar çakmaz kılıcını başının etrafından çek ve solundan dış, ters flat'le kulağına vur ki kılıç geri seksin (sağdaki büyük figür). Seken sallanmayı başının etrafından geri çek ve sola Zwerch at.
+197|Onun bıçağını dışarı aldıktan sonra kılıcını başının etrafından çek ve dış flat'le sağ kulağına dışarıdan sallanan güçlü bir vuruş at. Bu vuruşta sol ayakla iyice dışarı, sağına adım at.
+198|Prellhau (çift) — soldaki büyük figür, iç flat'le bıçağa, pommel dirseğin altında
+200|Çizimde: soldaki büyük figür, iç flat'le bıçağa, pommel dirseğin altında
+201|Rakip girişte çalışmak için kılıcını havaya kaldırdığı an sağ Ochs'a geç. Kılıcı başının etrafından çek ve sağdan iç flat'le onun bıçağına güçlü vur; vuruşta pommel'ın ön kolunun altına, dirsek kemiğine değsin (soldaki büyük figür).
+203|Vuruşta sağ ayakla iyice onun soluna dön. Çakar ya da değer değmez yukarı çek, aynı anda dışarı sola çek ve ters ellerle dışarıdan iç flat'le sağ kulağa geri vur. Ters flat'le aynı opening'e bir kez daha vurulur; güçlüce geri sekiyorsa doğru yapmışsındır.
+204|Half edge vuruşu
+205|Çapraz ellerle half edge'le sol kulağa vuruş — sol üstteki iki küçük figür
+206|Half edge'le kulağa
+208|Dört opening egzersizinden (s.70).
+209|Sağdan soluna half edge'le yüksek bir vuruş çek. Havada ellerini çaprazla ve half edge'le sol kulağına vur (sol üstteki iki küçük figür). Çapraz elleri geri yukarı çek ve alttan bir Zwerch ile tekrar sol kulağına vur.
+211|Aynı çift, onun vuruşunu strong'unda yatay yakaladıktan sonra yapılan fiskeyi de gösterir. Soluna sıçrarken pommel'ı sağ kolunun altından it ve iç flat ya da short edge'le bıçağının arkasından başına vur.
+213|Bind ve Handarbeit
+215|Meyer'e göre Handarbeit, cut'larla rakibin kılıcına geldikten sonra başlar. Amaç rakibi Verführen, Nachreisen, Wechseln, Duplieren, Nachdrucken gibi işlerle sıkıştırıp ödülü almaktır. Aşağıdaki sözlük Meyer'in kendi tanımlarının özetidir.
+217|Langort'a dönüp Gerader Gegenstand — sağ üstteki küçük figürler
+220|Short edge'le başına fiskeledikten sonra sol yanın açıkta kalır ve rakip oraya saldırır. Sen yalnızca pommel'ı kolunun altından geri çek ve kılıcı Langort'a çevir, long edge onun bıçağına dönük olsun. Böylece Gerader Gegenstand'da durursun (sağdaki küçük figürler).
+223|Short edge'i kılıcın altından başa wind etme (Winden) — ortadaki küçük çift
+226|Sağ Zorn'da dururken rakip sağından soluna vurursa sağ ayakla ileri çık ve kılıcı başının üstünden onun bıçağının altına it. Vuruşu flat'inde, başparmak altta yakala; bıçak sol yanında yere doğru sarksın. Çakınca sol ayakla sağına adım at ve short edge'i kılıcının altından içe başına wind et (ortadaki küçük çift).
+227|Wind edince short edge'le kılıcında kal, sonra kılıcınla sağına yukarı çek ki ellerin havada çaprazlansın. İç flat'le sağ alt opening'e vur. Parry için kılıcına giderse değdirme; yukarı çekip sol kulağına bir Klitzhau at.
+229|Bind'da sert kalıp bıçağın ön kısmını içe, başa doğru ve tekrar dışa çevirmek; hep altta ve onun kılıcında kalırsın.
+230|Flat vuruşu
+231|Kılıcın altından geçip flat ya da short edge'le sol kulağa yüksek vuruş — soldaki küçük çift
+232|Flat'le sol kulağa
+235|Rakip Langort'ta ya da Gerader Gegenstand'daysa sağ Wechsel'den half edge'le bir iki kez yukarı vur. Üçüncüde kılıcının altından geç, sağ ayakla adım at ve flat ya da short edge'le sol kulağına güçlü ve yüksek vur (sol küçük çift).
+238|Point göğüste
+239|Point'i göğse dayayıp pommel'ı yeniden kavrama — sağdaki küçük çift
+240|Point'i göğse koymak
+243|Kollarını kaldırdığı an sol elini pommel'dan bırak ve bıçağı tek elle alttan sağına doğru döndür. Point'i göğsüne koy ve aynı anda pommel'ı yeniden kavra (sağdaki küçük çift).
+245|Onu ters ellerle kendinden it ve pommel'ı yine bırak. Kılıcı başının etrafından döndür ve pommel'ı kavrayarak uzun cut at. Bu dizi içeri koşmayı sevenlere karşıdır.
+247|Alttan iki kolun arasından çeneye cut — sol üstteki iki küçük figür
+250|Girişte Oberhau ile kılıcına bind'a gir. Kılıcını yukarı geri kaldırdığı an, kollarını kaldırırken iki kolunun arasından alttan çenesine cut at (sol üstteki iki küçük figür).
+251|Kollara short edge
+252|Rakip kollarını kaldırırken short edge'le kollarına inme — sağ üst, en dıştaki küçük figür
+255|Einhorn'dayken yukarıdan cut atarsa bıçağını başının etrafından döndür ve sağdan soluna yatay kılıcına bind'a gir. Kılıcından kalktığı an bıçağını geri döndür; sağ el solun üstüne gelsin, çapraz ellerle. Daha kalkarken short edge'le öne, kollarına düş (sağ taraftaki en dış küçük figür).
+256|Ricasso ile onu soluna, yana güçlüce it. Sendelerken en yakın opening'e cut at ya da avantajı alana dek Nachreisen ile onu tut.
+258|Alttan sol kola long edge'le cut; karşı taraf çapraz ellerle short edge'le Unterhau'yu sabitliyor. Aynı çift sword taking (yukarı vurup kılıcı alma) için de gösteriliyor — sağ üst küçük çift
+262|Geri çekilirken alttan long edge'le sol koluna cut at (çiftte soldaki figür). Bu geri çekilmede sol alt opening'ine Unterhau atarsa sol ayakla ona doğru adım at ve çapraz ellerle short edge'le kılıcına düş. Bu, onun Unterhau'sunu yerinde sabitler (sağdaki figür).
+263|Kılıcını geri yukarı çektiği an kılıcını çapraz ellerle tamamen soluna çek. Yine vurduğunda gelen cut'ı dış flat'le soldan sağına güçlüce yatay olarak dışarı al. Kılıcın başının üstünde tam bir sallanışla dönsün, ellerin havada yine çaprazlansın. Sağına iyice adım at ve bir Zirkel ile half edge'i sağ kulağının yanına düşür. Geri çekilerek uzun cut at.
+264|Aynı çift, sword taking (s.102).
+265|Langort'tan bind'da sol elini bırakıp onun bıçağını kavra, sağ elini hilt'le alttan geçir ve sağına yukarı vurarak kılıcını al.
+266|Handarbeit sözlüğü
+268|Kılıçların birbirine değmesi (bind). İki türlü kalınır: rakibin ne yapacağını görmek için kılıçta beklemek ya da çekiliyormuş gibi yapıp short edge'le aynı yere geri gelmek. Fühlen, onun bind'da sert mi yumuşak mı olduğunu yoklamaktır.
+270|Çok iyi bir Handarbeit. Rakip fazla yükseğe, alçağa ya da geniş vurduğunda opening'e onun peşinden koşup vuruşunu bitirmesini engellemek. Kılıcını kaldırdığı an altından cut atarsın.
+272|Hızlı dizilerle sıkıştırıldığında en iyi engel. Bind'da kalıp etrafından dönerse long edge'le koluna git, strong ya da ricasso ile it ve en yakın opening'e vur.
+274|Sağdan bind'dan geri kalkıp diğer tarafa vurmak ya da fiske atmak.
+276|Bind'da eli çevirip bıçağı half edge'le aşağı kaydırmak; bu sırada hilt'i yeni bir vuruş için yukarı çekmek.
+278|Bir opening'e vuracakmış gibi yapıp (feint) başka birine vurmak. Schielhau, Fehlen, Verfliegen, Winden, Zucken ve Zirkel bunun araçlarıdır; beden dili de buna dahildir.
+280|Rakip vuruşunu havada karşılamak isterse kılıcına dokundurmadan vuruşu havada başka opening'e çekmek. Bedene değil yalnızca kılıca dövüşenlere karşı.
+282|Vuruşu yalnızca çapraz parry etmek değil, değdiği anda yana adımla aynı zamanda opening'e vurmak. Yukarıdan gelirse long edge'le yukarı kalk, sağ ayakla soluna adım at, çakınca short edge'i başına fiskele.
+286|Long edge'le bind'a girdikten sonra diğer tarafa vuracakmış gibi hızla yukarı çekmek, ama short edge'le başladığın yere geri vurmak.
+288|Bir vuruşu iki kez yapmak: önce long edge'le sağdan kulağa, kılıçlar çakışınca pommel'ı sağ kolun altından itip kolları kaldırmak ve short edge'le onun bıçağının arkasından başa vurmak.
+290|Sola bind'a girince pommel'ı sağ kolun altından itmek, başı vuruştan sağa çekmek ve çapraz ellerle onun bıçağını ya da kolunu aşağı bastırıp çalışamaz hâle getirmek.
+292|Verkehren ile kolunu ya da bıçağını crossguard'la altında tutup bıçağını başına çevirmek. Ya da bastırılınca sol ayakla yol verip pommel'la sağ kolunun üstünden kavrayıp short edge'le başına dönmek.
+294|Opening'e vururken rakip parry yapmak isterse vuruşu değdirmeden aşağı düşürüp başka opening'e vurmak. Örnek: sol kulağa Zornhau, değmeden pommel'ı kaldır, bıçağı soluna düşür, başın etrafından çekip sağ kolunun üstünden başına vur.
+296|Bind'da iki taraf da opening vermiyorsa half edge'le çapraz ellerle yukarıdan sağının yanından cut atmak. Sağ el solun üstünden güçlüce çaprazlanır ki sağ kulağını half edge'le çizebilesin.
+299|Bind'da sert kalıp bıçağın ön kısmını içe, başa doğru ve tekrar dışa çevirmek. Hep altta ve onun kılıcında kalırsın.
+301|Zwerch ile bind'a girip short edge'i içe wind ettikten sonra sağ ayakla onun sağına geçmek, hilt'i bıçağının altından sola wind etmek, pommel'ı sağ kolunun üstünden dışarı geçirip aşağı çekmek ve long edge'le başına vurmak.
+302|Deneyim ister; yanlış zamanda yapan kendini boşuna açar. Bedene değil kılıca dövüşenlere karşı uygundur. Kılıcına vurursa point'i çapraz ellerle altından geçirip diğer üst opening'e uzun vurmak.
+304|Kollar uzanmış ya da Alber'de beklerken uzun vuruşları iki yandan long edge'le kesip uzaklaştırmak; avantajını görene dek sürer. Liechtenauer: “Sertleri iki yönden kes.”
+306|Kronhau ya da Hängen ile vuruşunun altına gir, kalkarken strong'unla takip et ve ricasso ile yumruklarının önüne alttan düşerek iki elini birden yakala. Yukarı itip uzun vur.
+308|Sağ Zorn'da dururken bıçağı arkanda asılı bırakıp başının üstünden onun bıçağının altına itmek. Vuruşu flat'te, başparmak ricasso'nun altında yakalarsın.
+310|Pflug'da dururken hilt'i kaldırıp bıçağı yere doğru asmak ve vuruşu flat'te yakalamak. Sonra wind ederek en yakın opening'e.
+312|Sağdan bind'a girince kılıcı çevirip soluna çekmek ya da pommel'la kollarının arasına girip yukarı/aşağı söküp almak.
+314|Wechsel ya da Alber'de duranın bıçağına long edge'le düşmek. Çakınca elleri çaprazlayıp kurtulamayacağı şekilde kilitlemek.
+316|Dört opening'e hızla çalışan birinin kollarına ya da kılıcına slice'la düşmek ve geri kalkmasına izin vermemek. Nereye giderse slice'la kolunda kalıp onu kısıtlarsın.
+318|Sol üst opening'e cut atarken parmaklarla crossguard ya da ricasso'nun üstünden kavramak, başparmak grip'te kalır. Sol elle pommel'ı kaldırıp asılı bıçakla parry'sinin üstünden ya da arkasından başına vurmak.
+335|Brechfenster bölümündeki atış: sağ ayakla onun sağının arkasına adım at, short edge'le boynundan tut, pommel'ı sağına it ve sağ bacağının üstünden sırtüstü at.
+336|Crossguard'ın üstünden kavrayıp iki kolun üstünden kaldırma — alttaki büyük figürler (sol)
+339|Yüksek guard'lara aittir ve yalnızca rakibin kılıcının altına girdikten sonra, bind'da kullanılır. Onun point'i hâlâ önündeyken bu guard'a girme; burada kollarını ve parmaklarını açıkta bırakırsın. Parmaklarına vurursa yana çık ve Zwerch ile vuruşuna karşı cut at.
+341|Yukarıdan cut atarsa soldan alttan long edge'le karşı cut at. Bıçağını kaldırıp kollarını yukarı aldığı an parmaklarınla crossguard'ının üstünden bıçaklara uzan ve bıçağınla iki kolunun üstünden kaldır (alttaki iki büyük figür). Sağına çek.
+343|İstersen sağ ayakla onun sağının arkasına adım at ve short edge'le boynundan tut. Pommel'ı sağına, kendinden uzağa it ve sağ bacağının üstünden soluna, sırtüstü at.
+344|Crossguard'ın üstünden kavrama, short edge'i başa koyma — alttaki büyük figürler (sağ)
+345|Short edge başa
+348|Sol kulağına Zwerch atarsa yukarıdan long edge'le bıçağının ortasına düş. Düştüğün an parmaklarınla crossguard'ının üstünden bıçağa doğru kavra. Short edge'i bıçağının arkasından başına koy (büyük figürler).
+350|Onu tuttuğun pommel'ı kendinden it ki onu yaralamadan kurtulamasın. Bıçağının altından öne sıyrılırsa hızla takip et ve yine iki kolunun üstünden kavra.
+351|Dışarı wind etme
+352|Sol elle ricasso ve crossguard'ı tutup rakibi dışarı wind etme — sağ üst küçük çift
+353|Dışarı wind etme
+354|Zwerch attığı an onu asılı bıçağında yakala. Sol elinle ricasso'suna ve crossguard'ına uzan ve onu kendinden dışarı wind et (sağ üstteki küçük çiftler).
+355|Wind kuralı.
+356|Yüksek cut'a karşı Zwerch ile bind'a girdiğinde short edge'i içe başına wind et. Rakip sana içe wind ederse sen dışa wind et: o ıskalar, sen vurursun.
+389|Cut çizgileri diyagramı

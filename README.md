@@ -10,20 +10,36 @@ herhangi bir statik barındırmaya yüklenebilir.
 | `/` | Türkçe ana sayfa: kulüp, HEMA nedir, disiplinler, antrenman + harita, ansiklopedi, basın, SSS, iletişim |
 | `/meyer-1570/` | Joachim Meyer 1570 uzun kılıç atlası (64 görsel) |
 | `/liechtenauer/` | Liechtenauer atlası (138 çizim) |
-| `/en/`, `/en/meyer-1570/`, `/en/liechtenauer/` | İngilizce karşılıkları |
+| `/fiore-dei-liberi/` | Fiore dei Liberi, Fior di Battaglia atlası (Getty nüshası, 310 çizim) |
+| `/en/...` | Hepsinin İngilizce karşılıkları |
+
+## Terim kuralı
+
+Türkçe metinlerde temel kavramlar çevrilmez: guard, cut, thrust, bind, parry, cover, strong/weak,
+long/short/half edge, flat, crossguard, pommel, hilt, point, half-sword, slice, opening, feint,
+wind, counter, lock İngilizce kalır. Teknik ve guard adları orijinal dilindedir (Almanca: Zornhau,
+Huten, Handarbeit…; İtalyanca: Posta di Donna, Zogho Largo…). Türkçe ek kesme işaretiyle eklenir
+(bind'da, cut'ı, point'i).
 
 ## Klasörler
 
 ```
 src/pages/home.tr.html, home.en.html   ana sayfa içerikleri (düz HTML, düzenlenebilir)
 src/pages/faq.json                      SSS (sayfada ve Google yapılandırılmış verisinde kullanılır)
-src/atlas/*.tr.html                     atlas içerikleri (orijinal Çizim Atlası dosyalarından)
-src/atlas/*.en.txt                      atlasların İngilizce çevirisi (numara|metin)
+src/atlas/meyer|liechtenauer.tr.html    atlas içerikleri (orijinal Çizim Atlası dosyalarından, dokunulmaz)
+src/atlas/*.segments.txt                bu atlaslardaki metin parçalarının numaralı listesi
+src/atlas/*.tr.txt                      Türkçe düzeltmeler (numara|metin), terim kuralı burada uygulanır
+src/atlas/*.en.txt                      İngilizce çeviri (numara|metin)
+src/atlas/fiore_content.py              Fiore atlasının TR/EN içeriği (kategoriler, açıklamalar)
+src/atlas/fiore.plays.json              Fiore çizimlerinin listesi (başlık, Getty folyo, sayfa)
 src/assets/style.css, app.js            tasarım ve etkileşim
 tools/build.py                          siteyi site/ klasörüne üretir
+tools/fiore.py                          fiore_content.py'den src/atlas/fiore.tr.html ve fiore.en.html üretir
 tools/extract.py, brand.py              tek seferlik: görselleri ve logoları üretti
 site/                                   YAYINLANACAK KLASÖR
 ```
+
+Fiore içeriğini değiştirdiysen önce `python tools/fiore.py`, sonra `python tools/build.py` çalıştır.
 
 ## Değişiklik yapınca
 

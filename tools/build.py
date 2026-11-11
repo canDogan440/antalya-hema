@@ -33,23 +33,26 @@ PAGES = [
     ("home", "tr", ""),
     ("meyer", "tr", "meyer-1570/"),
     ("liechtenauer", "tr", "liechtenauer/"),
+    ("fiore", "tr", "fiore-dei-liberi/"),
     ("home", "en", "en/"),
     ("meyer", "en", "en/meyer-1570/"),
     ("liechtenauer", "en", "en/liechtenauer/"),
+    ("fiore", "en", "en/fiore-dei-liberi/"),
 ]
+ATLASES = ["meyer", "liechtenauer", "fiore"]
 
 META = {
     ("home", "tr"): dict(
         title="Antalya HEMA Kulübü – Lycian Fighters | Uzun Kılıç Eğitimi",
-        desc="Antalya'nın ilk HEMA kulübü Lycian Fighters: Tarihi Avrupa Dövüş Sanatları ve uzun kılıç. Kulüp tanıtımı, HEMA rehberi, Meyer ve Liechtenauer atlasları.",
+        desc="Antalya'nın ilk HEMA kulübü Lycian Fighters: Tarihi Avrupa Dövüş Sanatları ve uzun kılıç. Kulüp tanıtımı, HEMA rehberi; Meyer, Liechtenauer ve Fiore atlasları.",
         crumb="Ana sayfa"),
     ("home", "en"): dict(
         title="HEMA Antalya – Lycian Fighters | Longsword Club in Antalya",
-        desc="Lycian Fighters, the first HEMA club in Antalya, Türkiye: Historical European Martial Arts and the longsword, with Meyer and Liechtenauer drawing atlases.",
+        desc="Lycian Fighters, the first HEMA club in Antalya, Türkiye: Historical European Martial Arts and the longsword, with Meyer, Liechtenauer and Fiore drawing atlases.",
         crumb="Home"),
     ("meyer", "tr"): dict(
         title="Joachim Meyer 1570 Uzun Kılıç Atlası | HEMA Antalya",
-        desc="Joachim Meyer'in 1570 tarihli kitabından uzun kılıç duruşları, kesişler, el işi ve güreş: 64 gravür görseli ve Türkçe açıklamalar. Lycian Fighters, HEMA Antalya.",
+        desc="Joachim Meyer'in 1570 tarihli kitabından longsword guard'ları, cut'lar, Handarbeit ve Ringen: 64 gravür görseli ve Türkçe açıklamalar. Lycian Fighters, HEMA Antalya.",
         h1="Joachim Meyer 1570: Uzun Kılıç Atlası", crumb="Meyer 1570",
         h1_html='<span lang="en">Joachim Meyer</span> <span class="num">1570</span>: Uzun Kılıç Atlası'),
     ("meyer", "en"): dict(
@@ -59,20 +62,30 @@ META = {
         h1_html='Joachim Meyer <span class="num">1570</span>: Longsword Atlas'),
     ("liechtenauer", "tr"): dict(
         title="Liechtenauer Uzun Kılıç ve Zırhlı Dövüş Atlası | HEMA Antalya",
-        desc="Liechtenauer geleneğinin dört duruşu, beş usta kesişi, taktikleri, kılıçlı güreş ve zırhlı dövüşü: 138 el yazması çizimi ve Türkçe açıklamalar.",
+        desc="Liechtenauer geleneğinin dört guard'ı, beş usta cut'ı (Meisterhäue), taktikleri, Ringen ve Kampffechten: 138 el yazması çizimi ve Türkçe açıklamalar.",
         h1="Liechtenauer: Uzun Kılıç ve Zırhlı Dövüş Atlası", crumb="Liechtenauer",
         h1_html='<span lang="de">Liechtenauer</span>: Uzun Kılıç ve Zırhlı Dövüş Atlası'),
     ("liechtenauer", "en"): dict(
         title="Liechtenauer Longsword & Armoured Combat Atlas | HEMA Antalya",
         desc="The four guards, five master cuts, tactics, wrestling and armoured combat of the Liechtenauer tradition: 138 manuscript drawings with explanations.",
         h1="Liechtenauer: Longsword & Armoured Combat Atlas", crumb="Liechtenauer"),
+    ("fiore", "tr"): dict(
+        title="Fiore dei Liberi – Fior di Battaglia Atlası | HEMA Antalya",
+        desc="Fiore dei Liberi'nin Fior di Battaglia'sından 310 Getty çizimi: Abrazare, Daga, Spada'nın 12 guard'ı, Zogho Largo ve Stretto, zırhlı dövüş, Azza, Lanza ve atlı dövüş; Türkçe açıklamalarla.",
+        h1="Fiore dei Liberi: Fior di Battaglia Atlası", crumb="Fiore dei Liberi",
+        h1_html='<span lang="it">Fiore dei Liberi</span>: <span lang="it">Fior di Battaglia</span> Atlası'),
+    ("fiore", "en"): dict(
+        title="Fiore dei Liberi – The Flower of Battle Atlas | HEMA Antalya",
+        desc="310 drawings from Fiore dei Liberi's Fior di Battaglia (Getty manuscript): Abrazare, dagger, the 12 sword guards, Zogho Largo and Stretto, armoured combat, axe, spear and mounted combat, with explanations.",
+        h1="Fiore dei Liberi: The Flower of Battle Atlas", crumb="Fiore dei Liberi",
+        h1_html='Fiore dei Liberi: <i lang="it">Fior di Battaglia</i> Atlas'),
 }
 
 UI = {
     "tr": dict(
         skip="İçeriğe geç", tagline="Antalya HEMA", menu="Menü",
         nav=[("Kulüp", "#kulup"), ("HEMA nedir?", "#hema-nedir"), ("Antrenman", "#antrenman"),
-             ("Meyer 1570", "meyer-1570/"), ("Liechtenauer", "liechtenauer/"),
+             ("Meyer 1570", "meyer-1570/"), ("Liechtenauer", "liechtenauer/"), ("Fiore", "fiore-dei-liberi/"),
              ("Basın", "#basin"), ("İletişim", "#iletisim")],
         enc="Ansiklopedi", enc_anchor="#ansiklopedi",
         lb=("Çizim büyütme", "Kapat", "Önceki", "Sonraki"),
@@ -80,12 +93,12 @@ UI = {
         foot_pages="Sayfalar", foot_contact="İletişim", foot_where="Antrenman yeri",
         cta_h="Bu teknikleri Antalya'da çalışıyoruz",
         cta_p="Lycian Fighters, Antalya'nın ilk HEMA kulübü. Çalışmalarımızı Instagram'da takip edin.",
-        cta_btn="Instagram", other="Diğer atlas",
+        cta_btn="Instagram", other="Diğer atlaslar",
         lang_name="Türkçe", locale="tr_TR"),
     "en": dict(
         skip="Skip to content", tagline="HEMA Antalya", menu="Menu",
         nav=[("Club", "#club"), ("What is HEMA?", "#what-is-hema"), ("Training", "#training"),
-             ("Meyer 1570", "meyer-1570/"), ("Liechtenauer", "liechtenauer/"),
+             ("Meyer 1570", "meyer-1570/"), ("Liechtenauer", "liechtenauer/"), ("Fiore", "fiore-dei-liberi/"),
              ("Press", "#press"), ("Contact", "#contact")],
         enc="Encyclopedia", enc_anchor="#encyclopedia",
         lb=("Enlarged drawing", "Close", "Previous", "Next"),
@@ -93,7 +106,7 @@ UI = {
         foot_pages="Pages", foot_contact="Contact", foot_where="Training venue",
         cta_h="We study these techniques in Antalya",
         cta_p="Lycian Fighters is the first HEMA club in Antalya. Follow our work on Instagram.",
-        cta_btn="Instagram", other="The other atlas",
+        cta_btn="Instagram", other="Other atlases",
         lang_name="English", locale="en_US"),
 }
 
@@ -291,9 +304,11 @@ def build_home(lang, path, root):
             + f'\n<main id="main">\n{body}\n</main>\n' + footer("home", lang, root))
 
 
-def load_table(name):
+def load_table(name, lang="en"):
     table = {}
-    p = os.path.join(SRC, "atlas", f"{name}.en.txt")
+    p = os.path.join(SRC, "atlas", f"{name}.{lang}.txt")
+    if not os.path.exists(p):
+        return table
     seg = {}
     for line in open(os.path.join(SRC, "atlas", f"{name}.segments.txt"), encoding="utf-8"):
         i, s = line.rstrip("\n").split("|", 1)
@@ -312,10 +327,22 @@ TURKISH_ONLY = re.compile(r"[ğĞıİşŞçÇ]|\b(ve|bir|ile|için|çizim|duruş
 
 def build_atlas(name, lang, path, root):
     m, ui = META[(name, lang)], UI[lang]
-    frag = open(os.path.join(SRC, "atlas", f"{name}.tr.html"), encoding="utf-8").read()
+    own = os.path.join(SRC, "atlas", f"{name}.{lang}.html")
+    native = lang == "tr" or os.path.exists(own)
+    frag = open(own if native else os.path.join(SRC, "atlas", f"{name}.tr.html"), encoding="utf-8").read()
     soup = BeautifulSoup(frag, "html.parser")
 
-    if lang == "en":
+    if native:
+        table = load_table(name, "tr") if lang == "tr" else {}  # revised Turkish wording (core terms kept in English/original)
+        if table:
+            for node in list(soup.find_all(string=True)):
+                if isinstance(node, NavigableString) and node.strip():
+                    node.replace_with(translate(str(node), table))
+            for tag in soup.find_all(True):
+                for a in TRANSLATABLE_ATTRS:
+                    if tag.has_attr(a):
+                        tag[a] = translate(tag[a], table)
+    else:
         table = load_table(name)
         for node in list(soup.find_all(string=True)):
             if isinstance(node, NavigableString) and node.strip():
@@ -324,17 +351,18 @@ def build_atlas(name, lang, path, root):
             for a in TRANSLATABLE_ATTRS:
                 if tag.has_attr(a):
                     tag[a] = translate(tag[a], table)
+        leftovers = sorted({s.strip() for s in soup.find_all(string=True) if TURKISH_ONLY.search(s)})
+        leftovers += sorted({t[a] for t in soup.find_all(True) for a in ("data-meta", "aria-label")
+                             if t.has_attr(a) and TURKISH_ONLY.search(t[a])})
+        for s in leftovers:
+            print(f"  [untranslated?] {name}: {s[:90]}")
+
+    if name != "fiore":
         for fig in soup.select("figure.card"):
             ttl, cap = fig.select_one(".ttl"), fig.select_one(".cap")
             c = cap.get_text() if cap else ""
             fig["data-cap"] = f"{ttl.get_text()}: {c}" if ttl else c
             fig.img["alt"] = c
-        leftovers = sorted({s.strip() for s in soup.find_all(string=True) if TURKISH_ONLY.search(s)})
-        leftovers += sorted({t[a] for t in soup.find_all(True) for a in ("alt", "data-cap", "data-meta", "aria-label")
-                             if t.has_attr(a) and TURKISH_ONLY.search(t[a])})
-        for s in leftovers:
-            print(f"  [untranslated?] {name}: {s[:90]}")
-
     h1 = soup.select_one(".mast h1")
     h1.clear()
     h1.append(BeautifulSoup(m.get("h1_html", esc(m["h1"])), "html.parser"))
@@ -351,8 +379,6 @@ def build_atlas(name, lang, path, root):
         im["decoding"] = "async"
 
     home = root + ("en/" if lang == "en" else "")
-    other = "liechtenauer" if name == "meyer" else "meyer"
-    om = META[(other, lang)]
     crumbs = (f'<div class="wrap"><nav class="crumbs" aria-label="breadcrumb"><ol>'
               f'<li><a href="{home or "./"}">{META[("home", lang)]["crumb"]}</a></li>'
               f'<li><a href="{home or "./"}{ui["enc_anchor"]}">{ui["enc"]}</a></li>'
@@ -360,7 +386,7 @@ def build_atlas(name, lang, path, root):
     after = f"""<div class="wrap">
   <div class="atlas-cta"><div><h2>{esc(ui['cta_h'])}</h2><p>{esc(ui['cta_p'])}</p></div>
   <a class="btn btn-gold" href="{INSTAGRAM}" rel="noopener" target="_blank">{ICONS['instagram']}{esc(ui['cta_btn'])}</a></div>
-  <div class="atlas-more"><a class="book" href="{root}{page_path(other, lang)}"><div><div class="eyebrow">{ui['other']}</div><h3>{om.get('h1_html', esc(om['h1']))}</h3><p>{esc(om['desc'])}</p></div></a></div>
+  <div class="atlas-more">{"".join(f'<a class="book" href="{root}{page_path(o, lang)}"><div><div class="eyebrow">{ui["other"]}</div><h3>{META[(o, lang)].get("h1_html", esc(META[(o, lang)]["h1"]))}</h3><p>{esc(META[(o, lang)]["desc"])}</p></div></a>' for o in ATLASES if o != name)}</div>
 </div>"""
     lb = ui["lb"]
     lightbox = f"""<div class="lb" id="lb" hidden role="dialog" aria-modal="true" aria-label="{lb[0]}">
@@ -379,8 +405,9 @@ def build_atlas(name, lang, path, root):
          "author": {"@id": f"{SITE_URL}/#club"}, "publisher": {"@id": f"{SITE_URL}/#club"},
          "datePublished": "2026-10-20", "dateModified": TODAY,
          "about": [{"@type": "Thing", "name": n} for n in (
-             ["Joachim Meyer", "Longsword", "Historical European Martial Arts"] if name == "meyer"
-             else ["Johannes Liechtenauer", "Longsword", "Kampffechten", "Historical European Martial Arts"])]},
+             {"meyer": ["Joachim Meyer", "Longsword", "Historical European Martial Arts"],
+              "liechtenauer": ["Johannes Liechtenauer", "Longsword", "Kampffechten", "Historical European Martial Arts"],
+              "fiore": ["Fiore dei Liberi", "Fior di Battaglia", "Longsword", "Armizare", "Historical European Martial Arts"]}[name])]},
         {"@type": "BreadcrumbList", "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": META[("home", lang)]["crumb"], "item": url_of(page_path("home", lang))},
             {"@type": "ListItem", "position": 2, "name": ui["enc"], "item": url_of(page_path("home", lang)) + ui["enc_anchor"]},

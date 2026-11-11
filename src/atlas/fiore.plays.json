@@ -1,0 +1,2792 @@
+[
+ {
+  "n": 1,
+  "page": 40,
+  "section": "Seven Swords",
+  "title": "Prudence",
+  "ref": "",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 2,
+  "page": 41,
+  "section": "Seven Swords",
+  "title": "Celerity",
+  "ref": "",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 3,
+  "page": 42,
+  "section": "Seven Swords",
+  "title": "Audacity",
+  "ref": "",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 4,
+  "page": 43,
+  "section": "Seven Swords",
+  "title": "Fortitude",
+  "ref": "",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 5,
+  "page": 46,
+  "section": "Grappling",
+  "title": "The Extended Guard",
+  "ref": "6r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 6,
+  "page": 47,
+  "section": "Grappling",
+  "title": "The Wild Boar’s Tooth",
+  "ref": "6r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 7,
+  "page": 48,
+  "section": "Grappling",
+  "title": "The Iron Gate",
+  "ref": "6r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 8,
+  "page": 49,
+  "section": "Grappling",
+  "title": "The Guard of the Headband",
+  "ref": "6r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 9,
+  "page": 50,
+  "section": "Grappling",
+  "title": "First Scholar",
+  "ref": "6v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 10,
+  "page": 51,
+  "section": "Grappling",
+  "title": "Second Scholar",
+  "ref": "6v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 11,
+  "page": 52,
+  "section": "Grappling",
+  "title": "Third Scholar",
+  "ref": "6v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 12,
+  "page": 53,
+  "section": "Grappling",
+  "title": "Fourth Scholar",
+  "ref": "6v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 13,
+  "page": 54,
+  "section": "Grappling",
+  "title": "Fifth Scholar",
+  "ref": "7r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 14,
+  "page": 55,
+  "section": "Grappling",
+  "title": "Counter to the Fifth Scholar",
+  "ref": "7r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 15,
+  "page": 56,
+  "section": "Grappling",
+  "title": "Sixth Scholar",
+  "ref": "7r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 16,
+  "page": 57,
+  "section": "Grappling",
+  "title": "Seventh Scholar",
+  "ref": "7v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 17,
+  "page": 58,
+  "section": "Grappling",
+  "title": "Eighth Scholar",
+  "ref": "7r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 18,
+  "page": 60,
+  "section": "Grappling",
+  "title": "Ninth Scholar, the Gambarola",
+  "ref": "7v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 19,
+  "page": 61,
+  "section": "Grappling",
+  "title": "Tenth Scholar",
+  "ref": "7v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 20,
+  "page": 62,
+  "section": "Grappling",
+  "title": "Eleventh Scholar",
+  "ref": "8r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 21,
+  "page": 63,
+  "section": "Grappling",
+  "title": "Counter to the Eleventh Scholar",
+  "ref": "8r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 22,
+  "page": 64,
+  "section": "Grappling",
+  "title": "Twelfth Scholar",
+  "ref": "8r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 23,
+  "page": 66,
+  "section": "Grappling",
+  "title": "Counter to the Twelfth Scholar",
+  "ref": "8r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 24,
+  "page": 67,
+  "section": "Grappling",
+  "title": "Thirteenth Scholar, the Outsider",
+  "ref": "7v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 25,
+  "page": 70,
+  "section": "Baton",
+  "title": "First Scholar",
+  "ref": "8v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 26,
+  "page": 71,
+  "section": "Baton",
+  "title": "Second Scholar",
+  "ref": "8v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 27,
+  "page": 72,
+  "section": "Baton",
+  "title": "Third Scholar",
+  "ref": "8v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 28,
+  "page": 74,
+  "section": "Baton",
+  "title": "Fourth Scholar",
+  "ref": "8v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 29,
+  "page": 78,
+  "section": "Dagger",
+  "title": "Master of Disarms",
+  "ref": "10r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 30,
+  "page": 79,
+  "section": "Dagger",
+  "title": "Master of Breaks",
+  "ref": "10r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 31,
+  "page": 80,
+  "section": "Dagger",
+  "title": "Master of Locks",
+  "ref": "10r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 32,
+  "page": 81,
+  "section": "Dagger",
+  "title": "Master of Throws",
+  "ref": "10r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 33,
+  "page": 82,
+  "section": "Dagger",
+  "title": "Master of Strikes",
+  "ref": "9v",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 34,
+  "page": 83,
+  "section": "Dagger",
+  "title": "Full Iron Gate (Single)",
+  "ref": "9r",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 35,
+  "page": 84,
+  "section": "Dagger",
+  "title": "Full Iron Gate (Double)",
+  "ref": "9r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 36,
+  "page": 85,
+  "section": "Dagger",
+  "title": "Middle Iron Gate (Double)",
+  "ref": "9r-e",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 37,
+  "page": 86,
+  "section": "Dagger",
+  "title": "Full Iron Gate (Double, Crossed)",
+  "ref": "9r-f",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 38,
+  "page": 87,
+  "section": "Dagger",
+  "title": "Middle Iron Gate (Double, Crossed)",
+  "ref": "9r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 39,
+  "page": 90,
+  "section": "First Master of Dagger",
+  "title": "First Remedy Master",
+  "ref": "10v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 40,
+  "page": 91,
+  "section": "First Master of Dagger",
+  "title": "First Counter to the First Remedy",
+  "ref": "10v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 41,
+  "page": 92,
+  "section": "First Master of Dagger",
+  "title": "First Scholar of the First Remedy",
+  "ref": "10v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 42,
+  "page": 93,
+  "section": "First Master of Dagger",
+  "title": "Counter to the First Scholar",
+  "ref": "10v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 43,
+  "page": 94,
+  "section": "First Master of Dagger",
+  "title": "Second Scholar of the First Remedy",
+  "ref": "11r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 44,
+  "page": 95,
+  "section": "First Master of Dagger",
+  "title": "Counter to the Second Scholar",
+  "ref": "11r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 45,
+  "page": 96,
+  "section": "First Master of Dagger",
+  "title": "Third Scholar of the First Remedy",
+  "ref": "11r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 46,
+  "page": 97,
+  "section": "First Master of Dagger",
+  "title": "Fourth Scholar of the First Remedy",
+  "ref": "11r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 47,
+  "page": 98,
+  "section": "First Master of Dagger",
+  "title": "Second Counter to the First Remedy",
+  "ref": "11v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 48,
+  "page": 102,
+  "section": "First Master of Dagger",
+  "title": "Fourth Counter to the First Remedy",
+  "ref": "11v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 49,
+  "page": 103,
+  "section": "First Master of Dagger",
+  "title": "First Scholar of the Fourth Counter",
+  "ref": "11v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 50,
+  "page": 104,
+  "section": "First Master of Dagger",
+  "title": "Fifth Scholar of the First Remedy",
+  "ref": "11v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 51,
+  "page": 105,
+  "section": "First Master of Dagger",
+  "title": "Counter to the Fifth Scholar",
+  "ref": "12r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 52,
+  "page": 106,
+  "section": "First Master of Dagger",
+  "title": "Sixth Scholar of the First Remedy",
+  "ref": "12r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 53,
+  "page": 107,
+  "section": "First Master of Dagger",
+  "title": "Counter to the Sixth Scholar",
+  "ref": "12r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 54,
+  "page": 108,
+  "section": "First Master of Dagger",
+  "title": "Seventh Scholar of the First Remedy",
+  "ref": "12r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 55,
+  "page": 109,
+  "section": "First Master of Dagger",
+  "title": "Counter to the Seventh Scholar",
+  "ref": "12v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 56,
+  "page": 110,
+  "section": "First Master of Dagger",
+  "title": "Eighth Scholar of the First Remedy",
+  "ref": "12v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 57,
+  "page": 111,
+  "section": "First Master of Dagger",
+  "title": "Counter to the Eighth Scholar",
+  "ref": "12v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 58,
+  "page": 112,
+  "section": "First Master of Dagger",
+  "title": "Ninth Scholar of the First Remedy",
+  "ref": "12v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 59,
+  "page": 113,
+  "section": "First Master of Dagger",
+  "title": "Counter to the Ninth Scholar",
+  "ref": "13r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 60,
+  "page": 116,
+  "section": "Second Master of Dagger",
+  "title": "Second Remedy Master",
+  "ref": "13r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 61,
+  "page": 117,
+  "section": "Second Master of Dagger",
+  "title": "Counter to the Second Remedy",
+  "ref": "13r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 62,
+  "page": 118,
+  "section": "Second Master of Dagger",
+  "title": "First Scholar of the Second Remedy, the Upper Key",
+  "ref": "13r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 63,
+  "page": 119,
+  "section": "Second Master of Dagger",
+  "title": "Counter to the First Scholar",
+  "ref": "13v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 64,
+  "page": 126,
+  "section": "Third Master of Dagger",
+  "title": "Third Scholar of the Third Remedy",
+  "ref": "",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 65,
+  "page": 127,
+  "section": "Third Master of Dagger",
+  "title": "Fourth Scholar of the Third Remedy",
+  "ref": "13v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 66,
+  "page": 128,
+  "section": "Third Master of Dagger",
+  "title": "Fifth Scholar of the Third Remedy",
+  "ref": "13v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 67,
+  "page": 130,
+  "section": "Third Master of Dagger",
+  "title": "Seventh Scholar of the Third Remedy",
+  "ref": "14r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 68,
+  "page": 131,
+  "section": "Third Master of Dagger",
+  "title": "Eighth Scholar of the Third Remedy",
+  "ref": "14r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 69,
+  "page": 133,
+  "section": "Third Master of Dagger",
+  "title": "Tenth Scholar of the Third Remedy, the Lower Key",
+  "ref": "14r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 70,
+  "page": 134,
+  "section": "Third Master of Dagger",
+  "title": "Counter to the Third Remedy",
+  "ref": "14r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 71,
+  "page": 136,
+  "section": "Fourth Master of Dagger",
+  "title": "Fourth Remedy Master",
+  "ref": "14v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 72,
+  "page": 137,
+  "section": "Fourth Master of Dagger",
+  "title": "First Scholar of the Fourth Remedy",
+  "ref": "",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 73,
+  "page": 138,
+  "section": "Fourth Master of Dagger",
+  "title": "Second Scholar of the Fourth Remedy",
+  "ref": "14v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 74,
+  "page": 139,
+  "section": "Fourth Master of Dagger",
+  "title": "Third Scholar of the Fourth Remedy, the Upper Key",
+  "ref": "14v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 75,
+  "page": 141,
+  "section": "Fourth Master of Dagger",
+  "title": "Fifth Scholar of the Fourth Remedy",
+  "ref": "14v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 76,
+  "page": 142,
+  "section": "Fourth Master of Dagger",
+  "title": "Sixth Scholar of the Fourth Remedy",
+  "ref": "38r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 77,
+  "page": 143,
+  "section": "Fourth Master of Dagger",
+  "title": "Seventh Scholar of the Fourth Remedy",
+  "ref": "38r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 78,
+  "page": 145,
+  "section": "Fourth Master of Dagger",
+  "title": "Counter to the Fourth Remedy",
+  "ref": "38r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 79,
+  "page": 148,
+  "section": "Fifth Master of Dagger",
+  "title": "Fifth Remedy Master",
+  "ref": "38r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 80,
+  "page": 149,
+  "section": "Fifth Master of Dagger",
+  "title": "First Scholar of the Fifth Remedy",
+  "ref": "15v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 81,
+  "page": 150,
+  "section": "Fifth Master of Dagger",
+  "title": "Second Scholar of the Fifth Remedy",
+  "ref": "38v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 82,
+  "page": 154,
+  "section": "Fifth Master of Dagger",
+  "title": "Fourth Scholar of the Fifth Remedy",
+  "ref": "38v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 83,
+  "page": 155,
+  "section": "Fifth Master of Dagger",
+  "title": "Fifth Scholar of the Fifth Remedy",
+  "ref": "38v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 84,
+  "page": 156,
+  "section": "Fifth Master of Dagger",
+  "title": "Sixth Scholar of the Fifth Remedy",
+  "ref": "15r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 85,
+  "page": 157,
+  "section": "Fifth Master of Dagger",
+  "title": "Seventh Scholar of the Fifth Remedy",
+  "ref": "15r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 86,
+  "page": 158,
+  "section": "Fifth Master of Dagger",
+  "title": "Eighth Scholar of the Fifth Remedy",
+  "ref": "15r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 87,
+  "page": 161,
+  "section": "Fifth Master of Dagger",
+  "title": "Ninth Scholar of the Fifth Remedy",
+  "ref": "15r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 88,
+  "page": 162,
+  "section": "Fifth Master of Dagger",
+  "title": "Tenth Scholar of the Fifth Remedy",
+  "ref": "15v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 89,
+  "page": 163,
+  "section": "Fifth Master of Dagger",
+  "title": "Eleventh Scholar of the Fifth Remedy",
+  "ref": "15v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 90,
+  "page": 164,
+  "section": "Fifth Master of Dagger",
+  "title": "Counter to the Fifth Remedy",
+  "ref": "15v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 91,
+  "page": 166,
+  "section": "Sixth Master of Dagger",
+  "title": "Sixth Remedy Master",
+  "ref": "16r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 92,
+  "page": 167,
+  "section": "Sixth Master of Dagger",
+  "title": "First Scholar of the Sixth Remedy",
+  "ref": "16r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 93,
+  "page": 168,
+  "section": "Sixth Master of Dagger",
+  "title": "Second Scholar of the Sixth Remedy",
+  "ref": "16r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 94,
+  "page": 170,
+  "section": "Sixth Master of Dagger",
+  "title": "Third Scholar of the Sixth Remedy",
+  "ref": "16v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 95,
+  "page": 172,
+  "section": "Sixth Master of Dagger",
+  "title": "Fourth Scholar of the Sixth Remedy",
+  "ref": "16r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 96,
+  "page": 173,
+  "section": "Sixth Master of Dagger",
+  "title": "Fifth Scholar of the Sixth Remedy",
+  "ref": "16v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 97,
+  "page": 174,
+  "section": "Sixth Master of Dagger",
+  "title": "Sixth Scholar of the Sixth Remedy",
+  "ref": "16v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 98,
+  "page": 175,
+  "section": "Sixth Master of Dagger",
+  "title": "Counter to the Sixth Remedy",
+  "ref": "16v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 99,
+  "page": 178,
+  "section": "Seventh Master of Dagger",
+  "title": "Seventh Remedy Master",
+  "ref": "17r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 100,
+  "page": 181,
+  "section": "Seventh Master of Dagger",
+  "title": "Counter to the Seventh Remedy",
+  "ref": "17r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 101,
+  "page": 186,
+  "section": "Eighth Master of Dagger",
+  "title": "Eighth Remedy Master",
+  "ref": "17r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 102,
+  "page": 190,
+  "section": "Eighth Master of Dagger",
+  "title": "Second Scholar of the Eighth Remedy (?)",
+  "ref": "17v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 103,
+  "page": 192,
+  "section": "Eighth Master of Dagger",
+  "title": "Third Scholar of the Eighth Remedy (?)",
+  "ref": "17v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 104,
+  "page": 195,
+  "section": "Eighth Master of Dagger",
+  "title": "Counter to the Eighth Remedy",
+  "ref": "17r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 105,
+  "page": 198,
+  "section": "Ninth Master of Dagger",
+  "title": "Ninth Remedy Master",
+  "ref": "17v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 106,
+  "page": 199,
+  "section": "Ninth Master of Dagger",
+  "title": "First Scholar of the Ninth Remedy",
+  "ref": "17v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 107,
+  "page": 200,
+  "section": "Ninth Master of Dagger",
+  "title": "Second Scholar of the Ninth Remedy",
+  "ref": "18r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 108,
+  "page": 201,
+  "section": "Ninth Master of Dagger",
+  "title": "Third Scholar of the Ninth Remedy",
+  "ref": "18r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 109,
+  "page": 202,
+  "section": "Ninth Master of Dagger",
+  "title": "Fourth Scholar of the Ninth Remedy",
+  "ref": "18r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 110,
+  "page": 204,
+  "section": "Ninth Master of Dagger",
+  "title": "Fifth Scholar of the Ninth Remedy",
+  "ref": "18r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 111,
+  "page": 206,
+  "section": "Ninth Master of Dagger",
+  "title": "Sixth Scholar of the Ninth Remedy",
+  "ref": "18v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 112,
+  "page": 207,
+  "section": "Ninth Master of Dagger",
+  "title": "Seventh Scholar of the Ninth Remedy",
+  "ref": "18v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 113,
+  "page": 208,
+  "section": "Ninth Master of Dagger",
+  "title": "Eighth Scholar of the Ninth Remedy",
+  "ref": "18v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 114,
+  "page": 209,
+  "section": "Ninth Master of Dagger",
+  "title": "Ninth Scholar of the Ninth Remedy",
+  "ref": "18v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 115,
+  "page": 213,
+  "section": "Sword vs. Dagger",
+  "title": "First Remedy Master",
+  "ref": "19r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 116,
+  "page": 214,
+  "section": "Sword vs. Dagger",
+  "title": "First Scholar of the First Remedy",
+  "ref": "19r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 117,
+  "page": 215,
+  "section": "Sword vs. Dagger",
+  "title": "Counter to the First Remedy",
+  "ref": "19r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 118,
+  "page": 216,
+  "section": "Sword vs. Dagger",
+  "title": "Second Scholar of the First Remedy",
+  "ref": "19r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 119,
+  "page": 220,
+  "section": "Sword vs. Dagger",
+  "title": "Second Remedy Master",
+  "ref": "19v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 120,
+  "page": 221,
+  "section": "Sword vs. Dagger",
+  "title": "First Scholar of the Second Remedy",
+  "ref": "19v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 121,
+  "page": 224,
+  "section": "Sword vs. Dagger",
+  "title": "Third Remedy Master",
+  "ref": "19v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 122,
+  "page": 226,
+  "section": "Sword vs. Dagger",
+  "title": "First Scholar of the Third Remedy",
+  "ref": "19v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 123,
+  "page": 227,
+  "section": "Sword vs. Dagger",
+  "title": "Second Scholar of the Third Remedy",
+  "ref": "20r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 124,
+  "page": 230,
+  "section": "Sword in One Hand",
+  "title": "Three Players",
+  "ref": "20r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 125,
+  "page": 231,
+  "section": "Sword in One Hand",
+  "title": "Remedy Master",
+  "ref": "20r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 126,
+  "page": 233,
+  "section": "Sword in One Hand",
+  "title": "Second Scholar",
+  "ref": "21v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 127,
+  "page": 235,
+  "section": "Sword in One Hand",
+  "title": "Fourth Scholar",
+  "ref": "20v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 128,
+  "page": 236,
+  "section": "Sword in One Hand",
+  "title": "Fifth Scholar",
+  "ref": "20v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 129,
+  "page": 237,
+  "section": "Sword in One Hand",
+  "title": "Sixth Scholar",
+  "ref": "21r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 130,
+  "page": 238,
+  "section": "Sword in One Hand",
+  "title": "Seventh Scholar",
+  "ref": "20v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 131,
+  "page": 239,
+  "section": "Sword in One Hand",
+  "title": "Eighth Scholar",
+  "ref": "20v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 132,
+  "page": 240,
+  "section": "Sword in One Hand",
+  "title": "Ninth Scholar",
+  "ref": "21r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 133,
+  "page": 241,
+  "section": "Sword in One Hand",
+  "title": "Tenth Scholar",
+  "ref": "21r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 134,
+  "page": 242,
+  "section": "Sword in One Hand",
+  "title": "Eleventh Scholar",
+  "ref": "21r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 135,
+  "page": 243,
+  "section": "Sword in One Hand",
+  "title": "Twelfth Scholar",
+  "ref": "21v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 136,
+  "page": 244,
+  "section": "Sword in One Hand",
+  "title": "Thirteenth Scholar",
+  "ref": "21v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 137,
+  "page": 246,
+  "section": "Sword in Two Hands",
+  "title": "First Master",
+  "ref": "22r-ab",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 138,
+  "page": 247,
+  "section": "Sword in Two Hands",
+  "title": "Second Master",
+  "ref": "",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 139,
+  "page": 248,
+  "section": "Sword in Two Hands",
+  "title": "Third Master",
+  "ref": "22r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 140,
+  "page": 249,
+  "section": "Sword in Two Hands",
+  "title": "Fourth Master",
+  "ref": "22r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 141,
+  "page": 250,
+  "section": "Sword in Two Hands",
+  "title": "Fifth Master",
+  "ref": "22v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 142,
+  "page": 251,
+  "section": "Sword in Two Hands",
+  "title": "Sixth Master",
+  "ref": "22v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 143,
+  "page": 252,
+  "section": "Sword in Two Hands",
+  "title": "Seventh Master",
+  "ref": "22v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 144,
+  "page": 253,
+  "section": "Sword in Two Hands",
+  "title": "Eighth Master",
+  "ref": "22v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 145,
+  "page": 254,
+  "section": "Sword in Two Hands",
+  "title": "Downward Blows",
+  "ref": "23r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 146,
+  "page": 255,
+  "section": "Sword in Two Hands",
+  "title": "Under Blows",
+  "ref": "23r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 147,
+  "page": 256,
+  "section": "Sword in Two Hands",
+  "title": "Middle Blows",
+  "ref": "23r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 148,
+  "page": 257,
+  "section": "Sword in Two Hands",
+  "title": "Thrusts",
+  "ref": "23r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 149,
+  "page": 258,
+  "section": "Sword in Two Hands",
+  "title": "The Iron Gate (Powerful)",
+  "ref": "23v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 150,
+  "page": 259,
+  "section": "Sword in Two Hands",
+  "title": "The Stance of the Queen on the Right (Powerful)",
+  "ref": "23v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 151,
+  "page": 260,
+  "section": "Sword in Two Hands",
+  "title": "The Stance of the Window (Fluid)",
+  "ref": "23v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 152,
+  "page": 261,
+  "section": "Sword in Two Hands",
+  "title": "The Stance of the Queen on the Left (Powerful)",
+  "ref": "23v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 153,
+  "page": 262,
+  "section": "Sword in Two Hands",
+  "title": "The Extended Stance (Fluid)",
+  "ref": "24r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 154,
+  "page": 263,
+  "section": "Sword in Two Hands",
+  "title": "The Middle Iron Gate (Stable)",
+  "ref": "24r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 155,
+  "page": 264,
+  "section": "Sword in Two Hands",
+  "title": "The Shortened Stance (Stable)",
+  "ref": "24r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 156,
+  "page": 265,
+  "section": "Sword in Two Hands",
+  "title": "The Wild Boar’s Tusk (Stable)",
+  "ref": "24r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 157,
+  "page": 266,
+  "section": "Sword in Two Hands",
+  "title": "The Stance of the Long Tail (Stable)",
+  "ref": "24v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 158,
+  "page": 267,
+  "section": "Sword in Two Hands",
+  "title": "The Two-Horned Stance (Fluid)",
+  "ref": "24v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 159,
+  "page": 268,
+  "section": "Sword in Two Hands",
+  "title": "The Headband Stance called the Crown (Fluid)",
+  "ref": "24v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 160,
+  "page": 269,
+  "section": "Sword in Two Hands",
+  "title": "The Stance of the Boar’s Tusk in the Middle (Fluid)",
+  "ref": "24v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 161,
+  "page": 272,
+  "section": "Sword in Two Hands",
+  "title": "First Remedy Master",
+  "ref": "25r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 162,
+  "page": 273,
+  "section": "Sword in Two Hands",
+  "title": "First Scholar of the First Remedy",
+  "ref": "25r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 163,
+  "page": 274,
+  "section": "Sword in Two Hands",
+  "title": "Second Remedy Master",
+  "ref": "25v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 164,
+  "page": 275,
+  "section": "Sword in Two Hands",
+  "title": "First Scholar of the Second Remedy",
+  "ref": "25v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 165,
+  "page": 276,
+  "section": "Sword in Two Hands",
+  "title": "Second Scholar of the Second Remedy",
+  "ref": "25v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 166,
+  "page": 277,
+  "section": "Sword in Two Hands",
+  "title": "Third Scholar of the Second Remedy",
+  "ref": "25v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 167,
+  "page": 278,
+  "section": "Sword in Two Hands",
+  "title": "Third Remedy Master",
+  "ref": "26r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 168,
+  "page": 279,
+  "section": "Sword in Two Hands",
+  "title": "First Scholar of the Third Remedy, the Villain’s Strike",
+  "ref": "26r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 169,
+  "page": 280,
+  "section": "Sword in Two Hands",
+  "title": "Second Scholar of the Third Remedy",
+  "ref": "26r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 170,
+  "page": 281,
+  "section": "Sword in Two Hands",
+  "title": "Third Scholar of the Third Remedy",
+  "ref": "26r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 171,
+  "page": 282,
+  "section": "Sword in Two Hands",
+  "title": "Fourth Scholar of the Third Remedy, the Exchange of",
+  "ref": "26v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 172,
+  "page": 283,
+  "section": "Sword in Two Hands",
+  "title": "Fifth Scholar of the Third Remedy",
+  "ref": "26v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 173,
+  "page": 284,
+  "section": "Sword in Two Hands",
+  "title": "Sixth Scholar of the Third Remedy, the Breaking of",
+  "ref": "26v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 174,
+  "page": 285,
+  "section": "Sword in Two Hands",
+  "title": "Seventh Scholar of the Third Remedy",
+  "ref": "26v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 175,
+  "page": 286,
+  "section": "Sword in Two Hands",
+  "title": "Eighth Scholar of the Third Remedy",
+  "ref": "27r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 176,
+  "page": 287,
+  "section": "Sword in Two Hands",
+  "title": "Ninth Scholar of the Third Remedy",
+  "ref": "27r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 177,
+  "page": 288,
+  "section": "Sword in Two Hands",
+  "title": "Tenth Scholar of the Third Remedy",
+  "ref": "27r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 178,
+  "page": 289,
+  "section": "Sword in Two Hands",
+  "title": "Eleventh Scholar of the Third Remedy",
+  "ref": "27r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 179,
+  "page": 290,
+  "section": "Sword in Two Hands",
+  "title": "Twelfth Scholar of the Third Remedy, the Deceptive",
+  "ref": "27v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 180,
+  "page": 291,
+  "section": "Sword in Two Hands",
+  "title": "Counter to the Twelfth Scholar",
+  "ref": "27v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 181,
+  "page": 294,
+  "section": "Sword in Two Hands",
+  "title": "Fourth Remedy Master",
+  "ref": "28r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 182,
+  "page": 295,
+  "section": "Sword in Two Hands",
+  "title": "First Scholar of the Fourth Remedy",
+  "ref": "28r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 183,
+  "page": 296,
+  "section": "Sword in Two Hands",
+  "title": "Second Scholar of the Fourth Remedy",
+  "ref": "28r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 184,
+  "page": 298,
+  "section": "Sword in Two Hands",
+  "title": "Fourth Scholar of the Fourth Remedy",
+  "ref": "28r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 185,
+  "page": 299,
+  "section": "Sword in Two Hands",
+  "title": "Fifth Scholar of the Fourth Remedy",
+  "ref": "28v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 186,
+  "page": 301,
+  "section": "Sword in Two Hands",
+  "title": "Seventh Scholar of the Fourth Remedy",
+  "ref": "30r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 187,
+  "page": 302,
+  "section": "Sword in Two Hands",
+  "title": "First Counter to the Fourth Remedy",
+  "ref": "29r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 188,
+  "page": 303,
+  "section": "Sword in Two Hands",
+  "title": "First Scholar of the First Counter",
+  "ref": "29v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 189,
+  "page": 304,
+  "section": "Sword in Two Hands",
+  "title": "Second Counter to the Fourth Remedy",
+  "ref": "30r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 190,
+  "page": 308,
+  "section": "Sword in Two Hands",
+  "title": "Counter to the Fifth Remedy",
+  "ref": "29r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 191,
+  "page": 310,
+  "section": "Sword in Two Hands",
+  "title": "Sixth Remedy Master",
+  "ref": "28v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 192,
+  "page": 311,
+  "section": "Sword in Two Hands",
+  "title": "First Scholar of the Sixth Remedy",
+  "ref": "29r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 193,
+  "page": 312,
+  "section": "Sword in Two Hands",
+  "title": "Second Scholar of the Sixth Remedy",
+  "ref": "29r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 194,
+  "page": 314,
+  "section": "Sword in Two Hands",
+  "title": "Seventh Remedy Master",
+  "ref": "28v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 195,
+  "page": 315,
+  "section": "Sword in Two Hands",
+  "title": "First Scholar of the Seventh Remedy",
+  "ref": "28v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 196,
+  "page": 316,
+  "section": "Sword in Two Hands",
+  "title": "Second Scholar of the Seventh Remedy",
+  "ref": "29v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 197,
+  "page": 318,
+  "section": "Sword in Two Hands",
+  "title": "First Counter to the Third Scholar",
+  "ref": "29v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 198,
+  "page": 319,
+  "section": "Sword in Two Hands",
+  "title": "Second Counter to the Third Scholar",
+  "ref": "29v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 199,
+  "page": 320,
+  "section": "Sword in Two Hands",
+  "title": "Upper Sword-Taking",
+  "ref": "30r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 200,
+  "page": 321,
+  "section": "Sword in Two Hands",
+  "title": "Upper Sword-Taking (cont.)",
+  "ref": "30r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 201,
+  "page": 322,
+  "section": "Sword in Two Hands",
+  "title": "Middle Sword-Taking",
+  "ref": "30v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 202,
+  "page": 323,
+  "section": "Sword in Two Hands",
+  "title": "Lower Sword-Taking",
+  "ref": "30v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 203,
+  "page": 324,
+  "section": "Sword in Two Hands",
+  "title": "Second Lower Sword-Taking",
+  "ref": "30v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 204,
+  "page": 326,
+  "section": "Sword vs. Spear",
+  "title": "Three Players",
+  "ref": "31r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 205,
+  "page": 327,
+  "section": "Sword vs. Spear",
+  "title": "Remedy Master",
+  "ref": "31r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 206,
+  "page": 330,
+  "section": "Sword in Armor",
+  "title": "The Shortened Stance, the Serpent",
+  "ref": "32v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 207,
+  "page": 331,
+  "section": "Sword in Armor",
+  "title": "The Stance of the True Cross",
+  "ref": "32v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 208,
+  "page": 332,
+  "section": "Sword in Armor",
+  "title": "The Raised Serpent",
+  "ref": "32v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 209,
+  "page": 333,
+  "section": "Sword in Armor",
+  "title": "The Middle Iron Gate",
+  "ref": "32v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 210,
+  "page": 334,
+  "section": "Sword in Armor",
+  "title": "The Archer’s Stance",
+  "ref": "33r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 211,
+  "page": 335,
+  "section": "Sword in Armor",
+  "title": "The Stance of the Bastard Cross",
+  "ref": "33r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 212,
+  "page": 336,
+  "section": "Sword in Armor",
+  "title": "Remedy Master",
+  "ref": "33r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 213,
+  "page": 337,
+  "section": "Sword in Armor",
+  "title": "First Scholar of the Remedy",
+  "ref": "33r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 214,
+  "page": 338,
+  "section": "Sword in Armor",
+  "title": "Second Scholar of the Remedy",
+  "ref": "33v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 215,
+  "page": 339,
+  "section": "Sword in Armor",
+  "title": "Third Scholar of the Remedy",
+  "ref": "33v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 216,
+  "page": 340,
+  "section": "Sword in Armor",
+  "title": "Fourth Scholar of the Remedy",
+  "ref": "33v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 217,
+  "page": 341,
+  "section": "Sword in Armor",
+  "title": "Fifth Scholar of the Remedy",
+  "ref": "33v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 218,
+  "page": 342,
+  "section": "Sword in Armor",
+  "title": "Sixth Scholar of the Remedy",
+  "ref": "34r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 219,
+  "page": 343,
+  "section": "Sword in Armor",
+  "title": "Seventh Scholar of the Remedy",
+  "ref": "34v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 220,
+  "page": 344,
+  "section": "Sword in Armor",
+  "title": "Eighth Scholar of the Remedy",
+  "ref": "34r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 221,
+  "page": 345,
+  "section": "Sword in Armor",
+  "title": "Ninth Scholar of the Remedy",
+  "ref": "34r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 222,
+  "page": 346,
+  "section": "Sword in Armor",
+  "title": "Tenth Scholar of the Remedy",
+  "ref": "34r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 223,
+  "page": 347,
+  "section": "Sword in Armor",
+  "title": "Eleventh Scholar of the Remedy",
+  "ref": "34v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 224,
+  "page": 348,
+  "section": "Sword in Armor",
+  "title": "Twelfth Scholar of the Remedy",
+  "ref": "34v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 225,
+  "page": 355,
+  "section": "Sword in Armor",
+  "title": "First Scholar of the First Counter",
+  "ref": "34v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 226,
+  "page": 356,
+  "section": "Sword in Armor",
+  "title": "Second Counter to the Remedy",
+  "ref": "35r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 227,
+  "page": 357,
+  "section": "Sword in Armor",
+  "title": "First Scholar of the Second Counter",
+  "ref": "35r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 228,
+  "page": 358,
+  "section": "Sword in Armor",
+  "title": "First Dueling Sword",
+  "ref": "35r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 229,
+  "page": 359,
+  "section": "Sword in Armor",
+  "title": "Second Dueling Sword",
+  "ref": "35r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 230,
+  "page": 362,
+  "section": "Ax in Armor",
+  "title": "The Stance of the Shortened Serpent",
+  "ref": "35v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 231,
+  "page": 363,
+  "section": "Ax in Armor",
+  "title": "The Stance of the True Cross",
+  "ref": "35v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 232,
+  "page": 364,
+  "section": "Ax in Armor",
+  "title": "The Stance of the Queen",
+  "ref": "36v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 233,
+  "page": 365,
+  "section": "Ax in Armor",
+  "title": "The Wild Boar’s Tusk/Middle Iron Gate",
+  "ref": "36v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 234,
+  "page": 366,
+  "section": "Ax in Armor",
+  "title": "The Stance of the Long Tail",
+  "ref": "36r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 235,
+  "page": 367,
+  "section": "Ax in Armor",
+  "title": "The Stance of the Casement Window on the Left",
+  "ref": "36r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 236,
+  "page": 368,
+  "section": "Ax in Armor",
+  "title": "First Remedy Master",
+  "ref": "36v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 237,
+  "page": 369,
+  "section": "Ax in Armor",
+  "title": "First Scholar of the First Remedy",
+  "ref": "36v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 238,
+  "page": 370,
+  "section": "Ax in Armor",
+  "title": "Second Scholar of the First Remedy",
+  "ref": "36v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 239,
+  "page": 371,
+  "section": "Ax in Armor",
+  "title": "Third Scholar of the First Remedy",
+  "ref": "36v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 240,
+  "page": 372,
+  "section": "Ax in Armor",
+  "title": "Fourth Scholar of the First Remedy",
+  "ref": "37r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 241,
+  "page": 373,
+  "section": "Ax in Armor",
+  "title": "Fifth Scholar of the First Remedy",
+  "ref": "37r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 242,
+  "page": 374,
+  "section": "Ax in Armor",
+  "title": "Sixth Scholar of the First Remedy",
+  "ref": "37r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 243,
+  "page": 375,
+  "section": "Ax in Armor",
+  "title": "Seventh Scholar of the First Remedy",
+  "ref": "37r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 244,
+  "page": 376,
+  "section": "Ax in Armor",
+  "title": "Second Remedy Master",
+  "ref": "37v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 245,
+  "page": 377,
+  "section": "Ax in Armor",
+  "title": "Third Remedy Master",
+  "ref": "37v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 246,
+  "page": 380,
+  "section": "Spear vs. Mixed Weapons",
+  "title": "First Remedy Master",
+  "ref": "31r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 247,
+  "page": 381,
+  "section": "Spear vs. Mixed Weapons",
+  "title": "Two Players",
+  "ref": "31r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 248,
+  "page": 383,
+  "section": "Spear vs. Mixed Weapons",
+  "title": "Second Scholar of the First Remedy",
+  "ref": "31v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 249,
+  "page": 384,
+  "section": "Spear vs. Mixed Weapons",
+  "title": "Second Remedy Master",
+  "ref": "31v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 250,
+  "page": 385,
+  "section": "Spear vs. Mixed Weapons",
+  "title": "First Scholar of the Second Remedy",
+  "ref": "31v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 251,
+  "page": 390,
+  "section": "Spear",
+  "title": "First Remedy Master",
+  "ref": "39r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 252,
+  "page": 391,
+  "section": "Spear",
+  "title": "Player",
+  "ref": "39r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 253,
+  "page": 392,
+  "section": "Spear",
+  "title": "Second Remedy Master",
+  "ref": "39r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 254,
+  "page": 393,
+  "section": "Spear",
+  "title": "Player",
+  "ref": "39r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 255,
+  "page": 394,
+  "section": "Spear",
+  "title": "Third Remedy Master",
+  "ref": "39v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 256,
+  "page": 395,
+  "section": "Spear",
+  "title": "Player",
+  "ref": "39v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 257,
+  "page": 396,
+  "section": "Spear",
+  "title": "Scholar of the First Three Remedies",
+  "ref": "39v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 258,
+  "page": 397,
+  "section": "Spear",
+  "title": "Counter to the First Three Remedies",
+  "ref": "39v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 259,
+  "page": 398,
+  "section": "Spear",
+  "title": "Fourth Remedy Master",
+  "ref": "40r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 260,
+  "page": 399,
+  "section": "Spear",
+  "title": "Fifth Remedy Master",
+  "ref": "40r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 261,
+  "page": 400,
+  "section": "Spear",
+  "title": "Sixth Remedy Master",
+  "ref": "40r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 262,
+  "page": 401,
+  "section": "Spear",
+  "title": "Scholar of the Second Three Remedies",
+  "ref": "40r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 263,
+  "page": 404,
+  "section": "Spear vs. Cavalry",
+  "title": "Three Players",
+  "ref": "46r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 264,
+  "page": 405,
+  "section": "Spear vs. Cavalry",
+  "title": "Remedy Master",
+  "ref": "46r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 265,
+  "page": 406,
+  "section": "Spear vs. Cavalry",
+  "title": "First Scholar of the Remedy",
+  "ref": "46r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 266,
+  "page": 407,
+  "section": "Spear vs. Cavalry",
+  "title": "Second Scholar of the Remedy",
+  "ref": "46r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 267,
+  "page": 409,
+  "section": "Mounted Dueling",
+  "title": "Player",
+  "ref": "41r-a",
+  "w": 344,
+  "h": 290
+ },
+ {
+  "n": 268,
+  "page": 410,
+  "section": "Mounted Dueling",
+  "title": "First Master",
+  "ref": "41r-b",
+  "w": 344,
+  "h": 290
+ },
+ {
+  "n": 269,
+  "page": 411,
+  "section": "Mounted Dueling",
+  "title": "First Master (cont.)",
+  "ref": "41r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 270,
+  "page": 412,
+  "section": "Mounted Dueling",
+  "title": "Counter to the First Master",
+  "ref": "41r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 271,
+  "page": 413,
+  "section": "Mounted Dueling",
+  "title": "Player",
+  "ref": "41v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 272,
+  "page": 414,
+  "section": "Mounted Dueling",
+  "title": "Second Master",
+  "ref": "41v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 273,
+  "page": 415,
+  "section": "Mounted Dueling",
+  "title": "Third Master",
+  "ref": "41v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 274,
+  "page": 416,
+  "section": "Mounted Dueling",
+  "title": "Player",
+  "ref": "41v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 275,
+  "page": 417,
+  "section": "Mounted Dueling",
+  "title": "Player",
+  "ref": "42r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 276,
+  "page": 418,
+  "section": "Mounted Dueling",
+  "title": "Fourth Master",
+  "ref": "42r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 277,
+  "page": 419,
+  "section": "Mounted Dueling",
+  "title": "Player",
+  "ref": "42r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 278,
+  "page": 420,
+  "section": "Mounted Dueling",
+  "title": "Fifth Master",
+  "ref": "42r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 279,
+  "page": 421,
+  "section": "Mounted Dueling",
+  "title": "Counter to the Fifth Master",
+  "ref": "42v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 280,
+  "page": 422,
+  "section": "Mounted Dueling",
+  "title": "Fifth Master (cont.)",
+  "ref": "42v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 281,
+  "page": 423,
+  "section": "Mounted Dueling",
+  "title": "Player",
+  "ref": "42v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 282,
+  "page": 424,
+  "section": "Mounted Dueling",
+  "title": "Sixth Master",
+  "ref": "42v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 283,
+  "page": 425,
+  "section": "Mounted Dueling",
+  "title": "Seventh Master",
+  "ref": "43r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 284,
+  "page": 426,
+  "section": "Mounted Dueling",
+  "title": "Eighth Master",
+  "ref": "43r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 285,
+  "page": 427,
+  "section": "Mounted Dueling",
+  "title": "Counter to the Eighth Master",
+  "ref": "43r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 286,
+  "page": 428,
+  "section": "Mounted Dueling",
+  "title": "Eighth Master (cont.)",
+  "ref": "43r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 287,
+  "page": 429,
+  "section": "Mounted Dueling",
+  "title": "Player",
+  "ref": "43v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 288,
+  "page": 430,
+  "section": "Mounted Dueling",
+  "title": "Ninth Master",
+  "ref": "43v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 289,
+  "page": 431,
+  "section": "Mounted Dueling",
+  "title": "Fifth Master (cont.)",
+  "ref": "43v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 290,
+  "page": 432,
+  "section": "Mounted Dueling",
+  "title": "Ninth Master (cont.)",
+  "ref": "43v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 291,
+  "page": 434,
+  "section": "Mounted Dueling",
+  "title": "First Scholar of the First Remedy",
+  "ref": "44r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 292,
+  "page": 435,
+  "section": "Mounted Dueling",
+  "title": "Second Scholar of the First Remedy",
+  "ref": "44r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 293,
+  "page": 436,
+  "section": "Mounted Dueling",
+  "title": "Third Scholar of the First Remedy",
+  "ref": "44r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 294,
+  "page": 437,
+  "section": "Mounted Dueling",
+  "title": "Fourth Scholar of the First Remedy",
+  "ref": "44r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 295,
+  "page": 438,
+  "section": "Mounted Dueling",
+  "title": "Counter to the Fourth Scholar",
+  "ref": "44v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 296,
+  "page": 439,
+  "section": "Mounted Dueling",
+  "title": "Second Remedy Master",
+  "ref": "44v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 297,
+  "page": 440,
+  "section": "Mounted Dueling",
+  "title": "Counter to the Second Remedy",
+  "ref": "44v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 298,
+  "page": 441,
+  "section": "Mounted Dueling",
+  "title": "Second Counter to the First and Second Remedies",
+  "ref": "44v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 299,
+  "page": 442,
+  "section": "Mounted Dueling",
+  "title": "Counter to the Second Counter",
+  "ref": "45r-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 300,
+  "page": 443,
+  "section": "Mounted Dueling",
+  "title": "First Scholar of the Second Remedy",
+  "ref": "45r-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 301,
+  "page": 444,
+  "section": "Mounted Dueling",
+  "title": "Counter to the First Scholar",
+  "ref": "45r-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 302,
+  "page": 445,
+  "section": "Mounted Dueling",
+  "title": "Third Remedy Master",
+  "ref": "45r-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 303,
+  "page": 446,
+  "section": "Mounted Dueling",
+  "title": "Counter to the Third Remedy",
+  "ref": "45v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 304,
+  "page": 447,
+  "section": "Mounted Dueling",
+  "title": "Fourth Remedy Master",
+  "ref": "45v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 305,
+  "page": 448,
+  "section": "Mounted Dueling",
+  "title": "Counter to the Fourth Remedy",
+  "ref": "45v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 306,
+  "page": 449,
+  "section": "Mounted Dueling",
+  "title": "First Scholar of the Fourth Remedy",
+  "ref": "45v-d",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 307,
+  "page": 450,
+  "section": "Mounted Dueling",
+  "title": "Special Play",
+  "ref": "46v-c",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 308,
+  "page": 451,
+  "section": "Mounted Dueling",
+  "title": "Fifth Remedy Master",
+  "ref": "46v-a",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 309,
+  "page": 452,
+  "section": "Mounted Dueling",
+  "title": "Player",
+  "ref": "46v-b",
+  "w": 341,
+  "h": 287
+ },
+ {
+  "n": 310,
+  "page": 453,
+  "section": "Mounted Dueling",
+  "title": "Conclusion",
+  "ref": "46v-d",
+  "w": 341,
+  "h": 287
+ }
+]
