@@ -217,6 +217,8 @@ h2.title{font-family:var(--display);font-weight:700;font-size:clamp(26px,3.6vw,3
 .atlas .card img{display:block;width:100%;aspect-ratio:4/3;object-fit:contain;background:#EAE3D3}
 .atlas-liechtenauer .card img,.atlas-fiore .card img{aspect-ratio:341/287;object-fit:cover}
 .atlas .src-note{max-width:80ch;margin:0;font-size:13px;color:var(--muted)}
+.atlas-fiore .entry{grid-template-columns:minmax(0,4fr) minmax(0,8fr)}
+.atlas .entry .ed{color:var(--muted);font-size:.92em}
 .atlas .ttl{font-weight:700;font-size:15px}
 .atlas .gdesc{margin:4px 0 16px;color:var(--muted);max-width:70ch}
 .atlas .card figcaption{padding:9px 11px 11px;display:flex;flex-direction:column;gap:4px;flex:1}

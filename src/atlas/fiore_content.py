@@ -11,8 +11,8 @@ MAST = {
     "tr": dict(
         eyebrow="Fiore dei Liberi · Fior di Battaglia (The Flower of Battle), ~1400",
         lede="Fiore'nin Getty nüshasındaki (Ms. Ludwig XV 13) 310 çizim; Abrazare'den A cavallo'ya kadar silah ve bölüme göre ayrıldı. "
-             "Bir çizime tıklayınca büyür, ok tuşlarıyla aynı kategoride ilerleyebilirsin. Her kategorinin başında kitabın öğretisinin Türkçe özeti var. "
-             "Folyo numaraları Getty el yazmasınındır.",
+             "Her çizimin yanında el yazmasının o çizime ait metninin tam Türkçe çevirisi var; her kategorinin başında da kısa bir özet bulunuyor. "
+             "Bir çizime tıklayınca büyür, ok tuşlarıyla aynı kategoride ilerleyebilirsin. Folyo numaraları Getty el yazmasınındır.",
         stats=[("310", "çizim"), ("30", "kategori"), ("6", "ana bölüm")],
         source="Görseller: J. Paul Getty Museum, Ms. Ludwig XV 13 (Open Content Program). Düzen ve oyun adları: Wiktenauer, "
                "“The Flower of Battle” derlemesi (2016; çeviriler Colin Hatcher ve Michael Chidester, CC BY-NC-SA 4.0). Açıklamalar bu kaynaklardan yaptığımız özetlerdir.",
